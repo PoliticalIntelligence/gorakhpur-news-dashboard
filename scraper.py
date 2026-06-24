@@ -180,6 +180,18 @@ def classify_topic(text):
             return topic
 
     return "Other"
+
+def generate_summary(content):
+
+    content = str(content)
+
+    sentences = [
+        s.strip()
+        for s in content.split("।")
+        if len(s.strip()) > 20
+    ]
+
+    return "। ".join(sentences[:2]) + "।"
     
 seat_ws = sheet.worksheet("Seat_Mapping")
 
@@ -253,6 +265,9 @@ def main():
         df["Headline"] + " " + df["Content"]
     ).apply(classify_topic)
 
+    df["Summary"] = df["Content"].apply(
+    generate_summary)
+
     df["Seat"] = (
         df["Locality"]
         .str.lower()
@@ -285,6 +300,7 @@ def main():
             "Locality",
             "Seat",
             "Topic",
+            "Summary",
             "Headline",
             "URL",
             "Content"
