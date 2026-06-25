@@ -234,6 +234,7 @@ def upload_to_sheet(df):
     )
 
 def main():
+    print("GitHub Action started at:", pd.Timestamp.now())
  
     all_news = []
     districts = [
