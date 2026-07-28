@@ -387,6 +387,7 @@ def main():
             "Topic",
             "Summary",
             "Headline",
+            "Thumbnail"
             "URL",
             "Content"
         ]
