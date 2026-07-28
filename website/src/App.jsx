@@ -1,28 +1,63 @@
+import { useEffect, useState } from "react";
+
 import "./App.css";
 
 import Header from "./components/Header";
 import Filters from "./components/Filters";
-import TopStory from "./components/TopStory";
+import Sidebar from "./components/Sidebar";
 import NewsCard from "./components/NewsCard";
 
 function App() {
+
+  const [news, setNews] = useState([]);
+
+  useEffect(() => {
+
+    fetch("/data/latest.json")
+      .then((res) => res.json())
+      .then((data) => setNews(data));
+
+  }, []);
+
   return (
-    <div className="container">
+
+    <div className="app">
 
       <Header />
 
-      <Filters />
+      <div className="dashboard">
 
-      <TopStory />
+        <Sidebar />
 
-      <h2 className="section-title">Latest News</h2>
+        <main className="content">
 
-      <NewsCard />
-      <NewsCard />
-      <NewsCard />
+          <Filters />
+
+          <h2 className="section-title">
+            Latest News ({news.length})
+          </h2>
+
+          <div className="news-grid">
+
+            {news.map((item, index) => (
+
+              <NewsCard
+                key={index}
+                news={item}
+              />
+
+            ))}
+
+          </div>
+
+        </main>
+
+      </div>
 
     </div>
+
   );
+
 }
 
 export default App;

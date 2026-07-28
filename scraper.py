@@ -100,6 +100,19 @@ def scrape_district(district):
                     h1.get_text(strip=True)
                     if h1 else ""
                 )
+                # Summary
+                description = article_soup.find("meta", attrs={"name": "description"})
+                summary = (
+                    description.get("content", "").strip()
+                    if description else ""
+                )
+
+                # Thumbnail
+                og_image = article_soup.find("meta", property="og:image")
+                thumbnail = (
+                    og_image.get("content", "").strip()
+                    if og_image else ""
+                ) 
 
                 paragraphs = article_soup.find_all("p")
 
@@ -126,6 +139,8 @@ def scrape_district(district):
                     "District": district.title(),
                     "Locality": locality,
                     "Headline": headline,
+                    "Summary": summary,
+                    "Thumbnail": thumbnail,
                     "URL": url,
                     "Content": content
                 })
@@ -254,7 +269,7 @@ def generate_json(df):
 
             "url": row["URL"],
 
-            "thumbnail": "",
+            "thumbnail": row.get("Thumbnail", ""),
 
             "date": str(pd.Timestamp.today().date())
 
