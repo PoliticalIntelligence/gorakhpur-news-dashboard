@@ -232,6 +232,50 @@ def upload_to_sheet(df):
     print(
         f"Uploaded {len(df)} rows"
     )
+from pathlib import Path
+
+def generate_json(df):
+
+    website_data = []
+
+    for _, row in df.iterrows():
+
+        website_data.append({
+
+            "district": row["District"],
+
+            "assembly": row["Seat"],
+
+            "category": row["Topic"],
+
+            "headline": row["Headline"],
+
+            "summary": row["Summary"],
+
+            "url": row["URL"],
+
+            "thumbnail": "",
+
+            "date": str(pd.Timestamp.today().date())
+
+        })
+
+    Path("website/public/data").mkdir(parents=True, exist_ok=True)
+
+    with open(
+        "website/public/data/latest.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            website_data,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    print("latest.json generated")    
 
 def main():
     print("GitHub Action started at:", pd.Timestamp.now())
@@ -309,6 +353,7 @@ def main():
     ]
 
     upload_to_sheet(df)
+    generate_json(df)
 
     print(df.shape)
 
