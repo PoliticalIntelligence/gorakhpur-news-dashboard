@@ -10,6 +10,7 @@ import NewsCard from "./components/NewsCard";
 function App() {
 
   const [news, setNews] = useState([]);
+  const [selectedDistrict, setSelectedDistrict] = useState("All Districts");
 
   useEffect(() => {
 
@@ -19,6 +20,13 @@ function App() {
 
   }, []);
 
+  const filteredNews =
+    selectedDistrict === "All Districts"
+      ? news
+      : news.filter(
+          (item) => item.district === selectedDistrict
+        );
+
   return (
 
     <div className="app">
@@ -27,19 +35,25 @@ function App() {
 
       <div className="dashboard">
 
-        <Sidebar />
+        <Sidebar
+          selectedDistrict={selectedDistrict}
+          setSelectedDistrict={setSelectedDistrict}
+        />
 
         <main className="content">
 
-          <Filters />
+          <Filters
+            selectedDistrict={selectedDistrict}
+            setSelectedDistrict={setSelectedDistrict}
+          />
 
           <h2 className="section-title">
-            Latest News ({news.length})
+            Latest News ({filteredNews.length})
           </h2>
 
           <div className="news-grid">
 
-            {news.map((item, index) => (
+            {filteredNews.map((item, index) => (
 
               <NewsCard
                 key={index}
