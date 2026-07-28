@@ -14,9 +14,12 @@ function App() {
 
   useEffect(() => {
 
-    fetch("/data/latest.json")
+    fetch(`${import.meta.env.BASE_URL}data/latest.json`)
       .then((res) => res.json())
-      .then((data) => setNews(data));
+      .then((data) => {
+        console.log("News Loaded:", data.length);
+        setNews(data);
+      });
 
   }, []);
 
