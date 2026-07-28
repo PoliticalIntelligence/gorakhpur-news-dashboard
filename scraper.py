@@ -108,11 +108,36 @@ def scrape_district(district):
                 )
 
                 # Thumbnail
-                og_image = article_soup.find("meta", property="og:image")
-                thumbnail = (
-                    og_image.get("content", "").strip()
-                    if og_image else ""
-                ) 
+                # Thumbnail
+                thumbnail = ""
+
+                # 1. Open Graph
+                og = article_soup.find("meta", attrs={"property": "og:image"})
+                if og and og.get("content"):
+                    thumbnail = og["content"]
+
+                # 2. Twitter Image
+                if not thumbnail:
+                    tw = article_soup.find("meta", attrs={"name": "twitter:image"})
+                    if tw and tw.get("content"):
+                        thumbnail = tw["content"]
+
+                # 3. First Image Fallback
+                if not thumbnail:
+                    img = article_soup.find("img")
+                    if img:
+                        thumbnail = (
+                            img.get("src")
+                            or img.get("data-src")
+                            or img.get("data-original")
+                            or ""
+                        )  
+                print("=" * 60)
+                print("URL:", url)
+                print("Thumbnail:", thumbnail)
+                print("OG:", article_soup.find("meta", attrs={"property": "og:image"}))
+                print("Twitter:", article_soup.find("meta", attrs={"name": "twitter:image"}))
+                print("IMG:", article_soup.find("img"))
 
                 paragraphs = article_soup.find_all("p")
 
