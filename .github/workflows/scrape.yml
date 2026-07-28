@@ -1,22 +1,20 @@
 name: Daily Bhaskar Scraper V2
 
 on:
-
   schedule:
     - cron: "0 * * * *"
 
   workflow_dispatch:
 
 jobs:
-
   scrape:
-
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -32,3 +30,14 @@ jobs:
           GOOGLE_CREDS: ${{ secrets.GOOGLE_CREDS }}
         run: |
           python scraper.py
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add website/public/data/latest.json
+
+          git diff --staged --quiet || git commit -m "Update latest news JSON"
+
+          git push
