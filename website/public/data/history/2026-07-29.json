@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "article_count": 716,
-  "last_updated": "2026-07-29T17:05:34.342666",
+  "article_count": 719,
+  "last_updated": "2026-07-29T18:54:46.366611",
   "articles": [
     {
       "district": "Kushinagar",
@@ -7878,6 +7878,39 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/29/bb7dd59e-7bec-468e-9c9f-3ac734ff89bd_1785335317136.jpg",
       "scrape_date": "2026-07-29",
       "scrape_time": "17:05"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "देवरिया में जमीन विवाद में महिला की मौत:बेटे पर मां की पीटकर हत्या करने का आरोप, आरोपी फरार",
+      "summary": "देवरिया में बुधवार रात जमीन विवाद में महिला की मौत हो गई। आरोप है बेटे ने मां पर किसी भारी चीज से हमला कर हत्या कर दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-son-accused-mother-murder-land-dispute-salempur-138576966.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/29/2026-07-29t17-22-17-055z_1785345747.jpg",
+      "scrape_date": "2026-07-29",
+      "scrape_time": "18:54"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "देवरिया में बेटे पर मां की हत्या का आरोप:सलेमपुर में पारिवारिक विवाद के बाद महिला की मौत, पुलिस जांच में जुटी",
+      "summary": "सलेमपुर नगर के पिपरा नाजिर वार्ड में बुधवार देर शाम एक पारिवारिक विवाद ने हिंसक रूप ले लिया। इस घटना में 40 वर्षीय एक महिला की गंभीर रूप से घायल होने के बाद मौत हो गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/kasbasalempur/news/salempur-deoria-mother-murder-case-son-accused-family-dispute-138576899.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/29/894e5dbb-591b-45e1-bd34-2b6429448905_1785343684060.jpg",
+      "scrape_date": "2026-07-29",
+      "scrape_time": "18:54"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "महराजगंज में बारात से लौट रही कार पलटी:कार सवार सभी लोग सुरक्षित, बड़ा हादसा टला",
+      "summary": "महराजगंज के कोल्हुई थाना क्षेत्र में बुधवार शाम एक कार अनियंत्रित होकर पलट गई। यह घटना रुद्रपुर शिवनाथ और पिपरा के बीच हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/mathihanwa/news/maharajganj-car-accident-kolhui-road-crash-update-138576970.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/29/75780010-6f81-4e59-b839-e18d97fdeefe_1785345399889.jpg",
+      "scrape_date": "2026-07-29",
+      "scrape_time": "18:54"
     }
   ]
 }
