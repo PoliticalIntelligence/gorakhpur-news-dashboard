@@ -296,7 +296,9 @@ def generate_latest_json(df):
 
             "thumbnail": row.get("Thumbnail", ""),
 
-            "date": str(pd.Timestamp.today().date())
+            "date": str(pd.Timestamp.today().date()),
+
+            "scrape_time": datetime.now().strftime("%I:%M %p")
 
         })
 

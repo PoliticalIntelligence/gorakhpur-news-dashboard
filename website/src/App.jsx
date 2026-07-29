@@ -1,80 +1,118 @@
-import { useEffect, useState } from "react";
-
+import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
 import Header from "./components/Header";
 import Filters from "./components/Filters";
-import Sidebar from "./components/Sidebar";
 import NewsCard from "./components/NewsCard";
+import Stats from "./components/Stats";
 
 function App() {
-
   const [news, setNews] = useState([]);
-  const [selectedDistrict, setSelectedDistrict] = useState("All Districts");
+  const [availableDates, setAvailableDates] = useState([]);
 
+  const [filters, setFilters] = useState({
+    date: "latest",
+    district: "All Districts",
+    assembly: "All Assemblies",
+    search: "",
+  });
+
+  // Load available dates
   useEffect(() => {
-
-    fetch(`${import.meta.env.BASE_URL}data/latest.json`)
+    fetch(`${import.meta.env.BASE_URL}data/index.json`)
       .then((res) => res.json())
-      .then((data) => {
-        console.log("News Loaded:", data.length);
-        setNews(data);
-      });
-
+      .then((data) => setAvailableDates(data))
+      .catch((err) => console.error(err));
   }, []);
 
-  const filteredNews =
-    selectedDistrict === "All Districts"
-      ? news
-      : news.filter(
-          (item) => item.district === selectedDistrict
-        );
+  // Load news whenever date changes
+  useEffect(() => {
+    const file =
+      filters.date === "latest"
+        ? "data/latest.json"
+        : `data/history/${filters.date}.json`;
+
+    fetch(`${import.meta.env.BASE_URL}${file}`)
+      .then((res) => res.json())
+      .then((data) => {
+        // Supports both formats
+        if (Array.isArray(data)) {
+          setNews(data);
+        } else {
+          setNews(data.articles || []);
+        }
+      })
+      .catch((err) => console.error(err));
+  }, [filters.date]);
+
+  const filteredNews = useMemo(() => {
+    return news.filter((item) => {
+      const districtMatch =
+        filters.district === "All Districts" ||
+        item.district === filters.district;
+
+      const assemblyMatch =
+        filters.assembly === "All Assemblies" ||
+        item.assembly === filters.assembly;
+
+      const search = filters.search.toLowerCase();
+
+      const searchMatch =
+        search === "" ||
+        item.headline?.toLowerCase().includes(search) ||
+        item.summary?.toLowerCase().includes(search) ||
+        item.district?.toLowerCase().includes(search) ||
+        item.assembly?.toLowerCase().includes(search);
+
+      return districtMatch && assemblyMatch && searchMatch;
+    });
+  }, [news, filters]);
+
+  const assemblies = useMemo(() => {
+    const filtered =
+      filters.district === "All Districts"
+        ? news
+        : news.filter(
+            (item) => item.district === filters.district
+          );
+
+    return [
+      "All Assemblies",
+      ...new Set(filtered.map((item) => item.assembly).filter(Boolean)),
+    ];
+  }, [news, filters.district]);
 
   return (
-
     <div className="app">
-
       <Header />
 
-      <div className="dashboard">
+      <main className="content">
 
-        <Sidebar
-          selectedDistrict={selectedDistrict}
-          setSelectedDistrict={setSelectedDistrict}
+        <Filters
+          filters={filters}
+          setFilters={setFilters}
+          availableDates={availableDates}
+          assemblies={assemblies}
         />
+        
+        <Stats news={filteredNews} />
 
-        <main className="content">
+        <h2 className="section-title">
+          Latest News ({filteredNews.length})
+        </h2>
 
-          <Filters
-            selectedDistrict={selectedDistrict}
-            setSelectedDistrict={setSelectedDistrict}
-          />
+        <div className="news-grid">
+          {filteredNews.map((item, index) => (
+            <NewsCard
+              key={index}
+              news={item}
+            />
+          ))}
+        </div>
 
-          <h2 className="section-title">
-            Latest News ({filteredNews.length})
-          </h2>
-
-          <div className="news-grid">
-
-            {filteredNews.map((item, index) => (
-
-              <NewsCard
-                key={index}
-                news={item}
-              />
-
-            ))}
-
-          </div>
-
-        </main>
-
-      </div>
-
+      </main>
     </div>
-
   );
-
 }
 
 export default App;
