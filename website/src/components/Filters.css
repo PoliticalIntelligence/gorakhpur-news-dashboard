@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+.filters-container {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+
+  background: white;
+  padding: 20px;
+  margin-bottom: 28px;
+
+  border-radius: 18px;
+  box-shadow: 0 8px 25px rgba(15, 23, 42, 0.08);
+}
+
+.search-box {
+  flex: 1;
+  min-width: 260px;
+
+  height: 46px;
+
+  border: 1px solid #dbe3ee;
+  border-radius: 12px;
+
+  padding: 0 16px;
+
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+
+  outline: none;
+
+  transition: all .25s ease;
+}
+
+.search-box:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, .12);
+}
+
+.filter-select,
+.date-picker {
+  height: 46px;
+
+  padding: 0 14px;
+
+  border-radius: 12px;
+  border: 1px solid #dbe3ee;
+
+  background: white;
+
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+
+  cursor: pointer;
+
+  transition: all .25s ease;
+}
+
+.filter-select:hover,
+.date-picker:hover {
+  border-color: #2563eb;
+}
+
+.filter-select:focus,
+.date-picker:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, .12);
+}
+
+.reset-btn {
+  height: 46px;
+
+  padding: 0 22px;
+
+  border: none;
+  border-radius: 12px;
+
+  background: #2563eb;
+  color: white;
+
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: all .25s ease;
+}
+
+.reset-btn:hover {
+  background: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+@media (max-width: 900px) {
+
+  .filters-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .search-box,
+  .filter-select,
+  .date-picker,
+  .reset-btn {
+    width: 100%;
+  }
+
+}

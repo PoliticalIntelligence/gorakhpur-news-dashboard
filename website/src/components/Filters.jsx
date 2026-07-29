@@ -1,5 +1,6 @@
-function Filters({ selectedDistrict, setSelectedDistrict }) {
+import "./Filters.css";
 
+function Filters({ selectedDistrict, setSelectedDistrict }) {
   const districts = [
     "All Districts",
     "Gorakhpur",
@@ -11,18 +12,19 @@ function Filters({ selectedDistrict, setSelectedDistrict }) {
     "Mau",
     "Ballia",
     "Azamgarh",
-    "Ghazipur"
+    "Ghazipur",
   ];
 
   return (
-    <div className="filters">
-
+    <div className="filters-container">
       <input
+        className="search-box"
         type="text"
         placeholder="🔍 Search News..."
       />
 
       <select
+        className="filter-select"
         value={selectedDistrict}
         onChange={(e) => setSelectedDistrict(e.target.value)}
       >
@@ -33,12 +35,15 @@ function Filters({ selectedDistrict, setSelectedDistrict }) {
         ))}
       </select>
 
-      <select>
+      <select className="filter-select">
         <option>All Assemblies</option>
       </select>
 
-      <input type="date" />
+      <input className="date-picker" type="date" />
 
+      <button className="reset-btn">
+        Reset
+      </button>
     </div>
   );
 }
