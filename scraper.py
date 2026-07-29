@@ -274,7 +274,7 @@ def upload_to_sheet(df):
     )
 from pathlib import Path
 
-def generate_json(df):
+def generate_latest_json(df):
 
     website_data = []
 
@@ -316,6 +316,101 @@ def generate_json(df):
         )
 
     print("latest.json generated")    
+
+from datetime import datetime
+
+def update_daily_history(df):
+    # Create history folder if it doesn't exist
+    history_dir = Path("website/public/data/history")
+    history_dir.mkdir(parents=True, exist_ok=True)
+
+    # Today's file name
+    today = datetime.now().strftime("%Y-%m-%d")
+    history_file = history_dir / f"{today}.json"
+
+    # Convert dataframe to website format
+    new_articles = []
+
+    for _, row in df.iterrows():
+        new_articles.append({
+            "district": row["District"],
+            "assembly": row["Seat"],
+            "category": row["Topic"],
+            "headline": row["Headline"],
+            "summary": row["Summary"],
+            "url": row["URL"],
+            "thumbnail": row.get("Thumbnail", ""),
+            "scrape_date": today,
+            "scrape_time": datetime.now().strftime("%H:%M")
+        })
+
+    # Load existing history if available
+    if history_file.exists():
+        with open(history_file, "r", encoding="utf-8") as f:
+            history_data = json.load(f)
+    else:
+        history_data = {
+            "date": today,
+            "article_count": 0,
+            "last_updated": "",
+            "articles": []
+        }
+
+    # Remove duplicates using URL
+    existing_urls = {
+        article["url"]
+        for article in history_data["articles"]
+    }
+
+    for article in new_articles:
+        if article["url"] not in existing_urls:
+            history_data["articles"].append(article)
+
+    # Update metadata
+    history_data["article_count"] = len(history_data["articles"])
+    history_data["last_updated"] = datetime.now().isoformat()
+
+    # Save
+    with open(history_file, "w", encoding="utf-8") as f:
+        json.dump(
+            history_data,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    print(f"History updated: {today}")
+
+def update_index():
+
+    history_dir = Path("website/public/data/history")
+    index_file = Path("website/public/data/index.json")
+
+    index_data = []
+
+    # Read every history file
+    for file in sorted(history_dir.glob("*.json"), reverse=True):
+
+        with open(file, "r", encoding="utf-8") as f:
+            history = json.load(f)
+
+        index_data.append({
+            "date": history["date"],
+            "article_count": history["article_count"],
+            "last_updated": history["last_updated"]
+        })
+
+    # Save index.json
+    with open(index_file, "w", encoding="utf-8") as f:
+        json.dump(
+            index_data,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    print("index.json updated")
+
 
 def main():
     print("GitHub Action started at:", pd.Timestamp.now())
@@ -394,7 +489,9 @@ def main():
     ]
 
     upload_to_sheet(df)
-    generate_json(df)
+    generate_latest_json(df)
+    update_daily_history(df)
+    update_index()
 
     print(df.shape)
 
