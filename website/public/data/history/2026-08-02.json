@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "article_count": 960,
-  "last_updated": "2026-08-02T17:54:49.047565",
+  "article_count": 961,
+  "last_updated": "2026-08-02T18:54:15.514616",
   "articles": [
     {
       "district": "Kushinagar",
@@ -10562,6 +10562,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/02/d7e5b12f-ec46-4ac6-8774-1aaef8a44ee3_1785691624877.jpg",
       "scrape_date": "2026-08-02",
       "scrape_time": "17:54"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में बच्चों की हत्या पर देवरिया में कैंडल मार्च:दोषियों को फांसी देने की मांग, पीड़ित परिवारों को न्याय की अपील",
+      "summary": "देवरिया में गोरखपुर में हुई दो मासूम बच्चों की हत्या की घटनाओं के विरोध में रविवार रात करीब आठ बजे कैंडल मार्च निकाला गया। विश्वकर्मा समाज के नेतृत्व और भाजपा युवा नेता अमित मोदनवाल के मार्गदर्शन में आयोजित इस मार्च में बड़ी संख्या में युवाओं और स्थानीय लोगों ने हिस्सा लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-candle-march-gorakhpur-children-murder-justice-protest-138614579.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/02/31d0619f-61f6-4556-9e90-23b62bea4cd0_1785685991036.jpg",
+      "scrape_date": "2026-08-02",
+      "scrape_time": "18:54"
     }
   ]
 }
