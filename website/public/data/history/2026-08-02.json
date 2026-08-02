@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
-  "article_count": 961,
-  "last_updated": "2026-08-02T21:47:31.506358",
+  "article_count": 966,
+  "last_updated": "2026-08-02T22:47:55.920275",
   "articles": [
     {
       "district": "Kushinagar",
@@ -10573,6 +10573,61 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/02/31d0619f-61f6-4556-9e90-23b62bea4cd0_1785685991036.jpg",
       "scrape_date": "2026-08-02",
       "scrape_time": "18:54"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "श्रावण मास में दुर्वासा शिव मंदिर की सफाई:पंचायत कर्मियों ने घाट और मंदिर परिसर को स्वच्छ किया",
+      "summary": "मिर्जापुर ब्लॉक के दुर्वासा शिव मंदिर परिसर में श्रावण मास के अवसर पर साफ-सफाई का कार्य पंचायत सफाई कर्मियों द्वारा किया जा रहा है। यह अभियान मंदिर के पत्थरों और आसपास के क्षेत्रों को स्वच्छ रखने के लिए चलाया जा रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/mirzapur/news/mirzapur-durvasa-shiv-temple-sawan-cleaning-drive-panchayat-staff-138592450.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/31/ea4f51d2-4c69-4e20-8023-86d01a612504_1785493903713.jpg",
+      "scrape_date": "2026-08-02",
+      "scrape_time": "22:47"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "कप्तानगंज में हनुमान प्रतिमा खंडित:पुलिस जांच में जुटी, नई प्रतिमा स्थापित कराई गई",
+      "summary": "आजमगढ़ के कप्तानगंज थाना क्षेत्र के पासीपुर नहर के पास स्थापित हनुमान जी की प्रतिमा को 31 जुलाई की सुबह अराजक तत्वों ने खंडित कर दिया। घटना की जानकारी मिलते ही बड़ी संख्या में ग्रामीण मौके पर एकत्र हो गए, जिससे क्षेत्र में आक्रोश फैल गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/koilsa/news/azamgarh-kaptanganj-hanuman-statue-vandalism-police-investigation-138591814.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/31/f2c353b7-e1f8-4857-ba33-ab6148ddff10_1785485780055.jpg",
+      "scrape_date": "2026-08-02",
+      "scrape_time": "22:47"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "शिवली गांव में निकला जुलूस-ए-अमारी:कर्बला के शहीदों की याद में उमड़ी भारी भीड़",
+      "summary": "निजामाबाद तहसील क्षेत्र के शिवली गांव में शुक्रवार को कर्बला के शहीदों की याद में पारंपरिक जुलूस-ए-अमारी निकाला गया। सुबह दस बजे से शाम चार बजे तक चले इस जुलूस में अलम, अमारी और ज़ुलजनाह शामिल रहे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/tahbarpur/news/shivli-nizamabad-juloos-e-amari-karbala-martyrs-tribute-procession-138592457.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/31/f05995b4-5e53-4775-a320-427ecc31ada8_1785494223757.jpg",
+      "scrape_date": "2026-08-02",
+      "scrape_time": "22:47"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में ससुराल आए युवक की मौत:मामले की जांच में जुटी पुलिस, ससुराल के लोगों ने किया हंगामा",
+      "summary": "आजमगढ़ जिले के बरदह थाना क्षेत्र के सहनूडीह गांव में शुक्रवार को एक युवक की ससुराल में संदिग्ध परिस्थितियों में मौत के बाद हंगामा खड़ा हो गया। मृतक के परिजनों ने ससुराल पक्ष पर हत्या का आरोप लगाते हुए कार्रवाई की मांग की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-youth-death-sasural-murder-case-police-investigation-138593894.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/31/1000023104_1785504372.jpg",
+      "scrape_date": "2026-08-02",
+      "scrape_time": "22:47"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Agriculture",
+      "headline": "आजमगढ़ में टेम्प्रेचर 33°C:रुक-रुक कर रही हवा बह रही, आसमान में बादल, बारिश का अलर्ट",
+      "summary": "आजमगढ़ में शुक्रवार सुबह से मौसम बदला हुआ है। गुरुवार रात से ही तेज हवाएं चल रही हैं, जिससे कई इलाकों में बिजली की आवाजाही भी प्रभावित हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-weather-update-rain-wind-farmers-relief-138589969.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/07/31/1000023075_1785471937.jpg",
+      "scrape_date": "2026-08-02",
+      "scrape_time": "22:47"
     }
   ]
 }
