@@ -9,6 +9,9 @@ Original file is located at
 import requests
 import pandas as pd
 import time
+from datetime import datetime
+from pathlib import Path
+
 
 from bs4 import BeautifulSoup
 BASE = "https://www.bhaskar.com"
@@ -272,54 +275,49 @@ def upload_to_sheet(df):
     print(
         f"Uploaded {len(df)} rows"
     )
-from pathlib import Path
 
 def generate_latest_json(df):
-
+    website_dir = Path("website/public/data")
+    website_dir.mkdir(parents=True, exist_ok=True)
     website_data = []
 
     for _, row in df.iterrows():
 
-        website_data.append({
+       website_data.append({
 
-            "district": row["District"],
+        "district": row["District"],
+        "assembly": row["Seat"],
+        "category": row["Topic"],
+        "headline": row["Headline"],
+        "summary": row["Summary"],
+        "url": row["URL"],
+        "thumbnail": row.get("Thumbnail", ""),
+        "date": str(pd.Timestamp.today().date())
 
-            "assembly": row["Seat"],
+    })
 
-            "category": row["Topic"],
+    latest_json = {
 
-            "headline": row["Headline"],
+    "last_updated": datetime.now().strftime("%d %b %Y %I:%M %p"),
+    "article_count": len(website_data),
+    "articles": website_data
 
-            "summary": row["Summary"],
-
-            "url": row["URL"],
-
-            "thumbnail": row.get("Thumbnail", ""),
-
-            "date": str(pd.Timestamp.today().date()),
-
-            "scrape_time": datetime.now().strftime("%I:%M %p")
-
-        })
-
-    Path("website/public/data").mkdir(parents=True, exist_ok=True)
+    }
 
     with open(
-        "website/public/data/latest.json",
+        website_dir / "latest.json",
         "w",
         encoding="utf-8"
     ) as f:
 
         json.dump(
-            website_data,
-            f,
-            ensure_ascii=False,
-            indent=2
+        latest_json,
+        f,
+        ensure_ascii=False,
+        indent=2
         )
 
     print("latest.json generated")    
-
-from datetime import datetime
 
 def update_daily_history(df):
     # Create history folder if it doesn't exist

@@ -1,6 +1,6 @@
 import "./Stats.css";
 
-function Stats({ news }) {
+function Stats({ news, lastUpdated }) {
   const totalArticles = news.length;
 
   const totalDistricts = new Set(
@@ -10,13 +10,6 @@ function Stats({ news }) {
   const totalAssemblies = new Set(
     news.map((item) => item.assembly).filter(Boolean)
   ).size;
-
-  console.log(news[0]);
-
-  const latestTime =
-  news.length > 0
-    ? news[0].scrape_time || "--"
-    : "--";
 
   return (
     <div className="stats-container">
@@ -37,7 +30,7 @@ function Stats({ news }) {
       </div>
 
       <div className="stat-card update-card">
-        <h3>{latestTime}</h3>
+        <h3>{lastUpdated}</h3>
         <p>Last Updated</p>
       </div>
 

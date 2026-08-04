@@ -3,7 +3,7 @@
     background:#fff;
     border-radius:18px;
     overflow:hidden;
-    min-height:280px;
+    min-height:240px;
     box-shadow:0 8px 20px rgba(0,0,0,.08);
     transition:
         transform .25s ease,
@@ -19,7 +19,7 @@
 /* ---------- IMAGE ---------- */
 
 .news-image{
-    width:240px;
+    width:180px;
     flex-shrink:0;
     overflow:hidden;
     background:#f3f4f6;
@@ -41,7 +41,7 @@
 .news-content{
     display:flex;
     flex-direction:column;
-    padding:22px;
+    padding:16px;
     flex:1;
     overflow:hidden;
 }
@@ -77,9 +77,9 @@
 
 .news-content h3{
     margin:0 0 14px;
-    font-size:20px;
+    font-size:18px;
     font-weight:700;
-    line-height:1.45;
+    line-height:1.35;
     color:#111827;
 
     overflow:visible;
@@ -93,9 +93,9 @@
 
     color:#6b7280;
 
-    font-size:15px;
+    font-size:14px;
 
-    line-height:1.6;
+    line-height:1.45;
 
     display:-webkit-box;
 

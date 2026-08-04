@@ -10,6 +10,7 @@ import Sidebar from "./components/Sidebar";
 function App() {
   const [news, setNews] = useState([]);
   const [availableDates, setAvailableDates] = useState([]);
+  const [lastUpdated, setLastUpdated] = useState("--");
 
   const [filters, setFilters] = useState({
     date: "latest",
@@ -17,7 +18,7 @@ function App() {
     assembly: "All Assemblies",
     search: "",
   });
-
+  
   // Load available dates
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/index.json`)
@@ -38,8 +39,10 @@ function App() {
       .then((data) => {
         if (Array.isArray(data)) {
           setNews(data);
+          setLastUpdated("--");
         } else {
           setNews(data.articles || []);
+          setLastUpdated(data.last_updated || "--");
         }
       })
       .catch((err) => console.error(err));
