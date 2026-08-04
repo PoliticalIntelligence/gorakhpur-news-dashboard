@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "article_count": 1060,
-  "last_updated": "2026-08-04T17:32:24.029826",
+  "article_count": 1062,
+  "last_updated": "2026-08-04T19:21:06.146137",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11662,6 +11662,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/04/7595e4e4-f2d7-4e43-b87b-e6e827715cfb_1785860858766.jpg",
       "scrape_date": "2026-08-04",
       "scrape_time": "17:32"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "कुशीनगर में दो सिपाही निलंबित:महिला को जबरन ले जाने और शराब मांगने का आरोप, विभागीय जांच के आदेश",
+      "summary": "कुशीनगर के कसया थाना क्षेत्र में एक ढाबा संचालक और ब्यूटी पार्लर संचालिका ने थाने के दो सिपाहियों समेत तीन लोगों पर गंभीर आरोप लगाए हैं। पीड़ितों का आरोप है कि आरोपियों ने घर में घुसकर मारपीट की, महिला को जबरन अपने साथ ले गए और झूठे मुकदमे में फंसाने की धमकी दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/news/kushinagar-police-constables-suspended-woman-kidnap-allegation-138633160.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/04/3d10c4b3-bb91-4d57-ae4b-08f62d5c0159_1785864716840.jpg",
+      "scrape_date": "2026-08-04",
+      "scrape_time": "19:21"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Madhuban",
+      "category": "Women Welfare",
+      "headline": "जीवित महिला को मृत दिखाकर फर्जीवाड़ा, कानूनगो पर आरोप:मधुबन में एसडीएम ने तहसीलदार को दिए जांच के आदेश",
+      "summary": "मऊ के मधुबन तहसील क्षेत्र में एक जीवित महिला को मृत दिखाकर फर्जी वरासत कराने का मामला सामने आया है। काठतरांव गांव निवासी विजय शंकर तिवारी ने तहसील के कानूनगो राजू सिंह पर पैसे लेकर उनकी पत्नी आशा तिवारी का नाम सात भूखंडों के राजस्व अभिलेखों से हटाने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/madhuban/news/mau-madhuban-tehsil-fraud-land-records-sdm-investigation-order-138633226.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/04/189dac59-4da5-44e7-996e-58f81f54ab13_1785843174545.jpg",
+      "scrape_date": "2026-08-04",
+      "scrape_time": "19:21"
     }
   ]
 }
