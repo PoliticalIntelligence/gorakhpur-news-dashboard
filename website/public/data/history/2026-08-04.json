@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "article_count": 553,
-  "last_updated": "2026-08-04T00:03:50.650928",
+  "article_count": 557,
+  "last_updated": "2026-08-04T01:58:49.090583",
   "articles": [
     {
       "district": "Kushinagar",
@@ -6085,6 +6085,50 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/03/46d94f0e-773b-42db-a8fd-5b43ccb3ce8d_1785670927101.jpg",
       "scrape_date": "2026-08-04",
       "scrape_time": "00:03"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "'मां की तरह भाई को पाला, 9-लड़कों ने मार डाला':गोरखपुर में बहन बोली- अपने हाथ से राखी बनाई थी, कोई मेरा भाई लौटा दे",
+      "summary": "'7 साल पहले मां की मौत के बाद तीनों भाई-बहन अलग-अलग रिश्तेदारों के घर रहकर पढ़ने लगे। पापा काम करने हैदराबाद चले गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-saras-singh-murder-case-sister-rakhi-tribute-updates-138626405.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/03/comp-117_1785768885.gif",
+      "scrape_date": "2026-08-04",
+      "scrape_time": "01:58"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Law & Order",
+      "headline": "गोरखपुर जिला अस्पताल में इमरजेंसी गेट से मिलेगी एंट्री:चप्पे-चप्पे पर CCTV से निगरानी, बच्ची को अगवा कर रेप- हत्या किया आरोपी",
+      "summary": "गोरखपुर के जिला अस्पताल से 10 साल की बच्ची को अगवा कर रेप और हत्या के बाद अस्पताल प्रशासन पूरी तरह अलर्ट मोड पर है। परिसर के अंदर की सिक्योरिटी टाइट कर दी गई है।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-district-hospital-security-cctv-vigilance-rape-murder-case-138621191.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/03/gifmagicsite-2026-08-03t165420831_1785756288.gif",
+      "scrape_date": "2026-08-04",
+      "scrape_time": "01:58"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "बलिया में बेटी से दुष्कर्म के दोषी पिता को उम्रकैद:46 दिन में आया फैसला, कोर्ट ने 50 हजार का जुर्माना लगाया",
+      "summary": "बलिया में नाबालिग बेटी से दुष्कर्म करने के मामले में कोर्ट ने दोषी पिता को उम्रकैद की सजा सुनाई है। कोर्ट ने दोषी पर 50 हजार रुपए का जुर्माना भी लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/ballia-pocso-court-verdict-father-convicted-life-imprisonment-138626628.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/04/7eb8b92a-ed32-404f-bad3-6128e5d5bcc0_1785783370276.jpg",
+      "scrape_date": "2026-08-04",
+      "scrape_time": "01:58"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "बलिया में 5 अगस्त को डेयरी कार्यशाला:आधुनिक प्रबंधन और योजनाओं की जानकारी मिलेगी",
+      "summary": "बलिया में 5 अगस्त को एक दिवसीय जनपद स्तरीय डेयरी कार्यशाला का आयोजन किया जाएगा। यह कार्यशाला सुबह 11 बजे विकास भवन सभागार में मुख्य विकास अधिकारी की अध्यक्षता में होगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/ballia-dairy-workshop-development-bhavan-news-update-138626636.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/04/4b5cc74b-2042-4fc2-b051-de05034e6613_1785783843478.jpg",
+      "scrape_date": "2026-08-04",
+      "scrape_time": "01:58"
     }
   ]
 }
