@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import Filters from "./components/Filters";
 import NewsCard from "./components/NewsCard";
 import Stats from "./components/Stats";
+import Sidebar from "./components/Sidebar";
 
 function App() {
   const [news, setNews] = useState([]);
@@ -35,7 +36,6 @@ function App() {
     fetch(`${import.meta.env.BASE_URL}${file}`)
       .then((res) => res.json())
       .then((data) => {
-        // Supports both formats
         if (Array.isArray(data)) {
           setNews(data);
         } else {
@@ -45,6 +45,7 @@ function App() {
       .catch((err) => console.error(err));
   }, [filters.date]);
 
+  // Apply filters
   const filteredNews = useMemo(() => {
     return news.filter((item) => {
       const districtMatch =
@@ -68,6 +69,7 @@ function App() {
     });
   }, [news, filters]);
 
+  // Dynamic Assembly Dropdown
   const assemblies = useMemo(() => {
     const filtered =
       filters.district === "All Districts"
@@ -94,23 +96,38 @@ function App() {
           availableDates={availableDates}
           assemblies={assemblies}
         />
-        
+
         <Stats news={filteredNews} />
 
-        <h2 className="section-title">
-          Latest News ({filteredNews.length})
-        </h2>
+        <div className="dashboard-layout">
 
-        <div className="news-grid">
-          {filteredNews.map((item, index) => (
-            <NewsCard
-              key={index}
-              news={item}
-            />
-          ))}
+          <Sidebar news={filteredNews} />
+
+          <div className="news-section">
+
+            <h2 className="section-title">
+              Latest News ({filteredNews.length})
+            </h2>
+
+            <div className="news-grid">
+
+              {filteredNews.map((item, index) => (
+
+                <NewsCard
+                  key={index}
+                  news={item}
+                />
+
+              ))}
+
+            </div>
+
+          </div>
+
         </div>
 
       </main>
+
     </div>
   );
 }

@@ -1,6 +1,6 @@
-import "./Sidebar.css";
+import "./PoliticalAlerts.css";
 
-function Sidebar({ news }) {
+function PoliticalAlerts({ news }) {
 
   const politicalKeywords = [
     "विधायक",
@@ -11,7 +11,7 @@ function Sidebar({ news }) {
     "कांग्रेस",
     "निषाद पार्टी",
     "अपना दल",
-    "अमीम",
+    "AIMIM",
     "राजभर",
     "चुनाव",
     "उपचुनाव",
@@ -26,35 +26,32 @@ function Sidebar({ news }) {
     "रैली"
   ];
 
-  const politicalAlerts = news
-    .filter((item) => {
+  const politicalAlerts = news.filter((item) => {
 
-      const text = `${item.headline || ""} ${item.summary || ""}`.toLowerCase();
+    const text =
+      `${item.headline} ${item.summary}`.toLowerCase();
 
-      return politicalKeywords.some((keyword) =>
-        text.includes(keyword.toLowerCase())
-      );
+    return politicalKeywords.some((keyword) =>
+      text.includes(keyword.toLowerCase())
+    );
 
-    })
-    .slice(0, 10);
+  });
 
   return (
 
-    <aside className="sidebar">
+    <div className="political-alerts">
 
       <h2>🔥 Political Alerts</h2>
 
       {politicalAlerts.length === 0 ? (
 
         <div className="no-alerts">
-
           No political alerts found.
-
         </div>
 
       ) : (
 
-        politicalAlerts.map((item, index) => (
+        politicalAlerts.slice(0, 10).map((item, index) => (
 
           <a
             key={index}
@@ -64,11 +61,7 @@ function Sidebar({ news }) {
             className="alert-card"
           >
 
-            <div className="alert-headline">
-
-              {item.headline}
-
-            </div>
+            <h4>{item.headline}</h4>
 
             <div className="alert-meta">
 
@@ -84,10 +77,10 @@ function Sidebar({ news }) {
 
       )}
 
-    </aside>
+    </div>
 
   );
 
 }
 
-export default Sidebar;
+export default PoliticalAlerts;

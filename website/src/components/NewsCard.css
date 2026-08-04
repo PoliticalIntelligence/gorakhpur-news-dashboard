@@ -3,7 +3,7 @@
     background:#fff;
     border-radius:18px;
     overflow:hidden;
-    min-height:240px;
+    min-height:280px;
     box-shadow:0 8px 20px rgba(0,0,0,.08);
     transition:
         transform .25s ease,
@@ -77,28 +77,32 @@
 
 .news-content h3{
     margin:0 0 14px;
-    font-size:22px;
+    font-size:20px;
     font-weight:700;
-    line-height:1.4;
+    line-height:1.45;
     color:#111827;
 
-    display:-webkit-box;
-    -webkit-line-clamp:2;
-    -webkit-box-orient:vertical;
-    overflow:hidden;
+    overflow:visible;
+    display:block;
 }
 
 /* ---------- SUMMARY ---------- */
 
 .news-content p{
     margin:0;
+
     color:#6b7280;
+
     font-size:15px;
-    line-height:1.7;
+
+    line-height:1.6;
 
     display:-webkit-box;
-    -webkit-line-clamp:4;
+
+    -webkit-line-clamp:3;
+
     -webkit-box-orient:vertical;
+
     overflow:hidden;
 }
 
