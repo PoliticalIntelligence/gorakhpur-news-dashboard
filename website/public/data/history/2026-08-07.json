@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "article_count": 928,
-  "last_updated": "2026-08-07T16:43:48.037868",
+  "article_count": 942,
+  "last_updated": "2026-08-07T17:42:12.716010",
   "articles": [
     {
       "district": "Kushinagar",
@@ -10210,6 +10210,160 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/b6bae120-7c30-478d-bd58-5c44d2c2ce66_1786113506401.jpg",
       "scrape_date": "2026-08-07",
       "scrape_time": "16:43"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Padrauna",
+      "category": "Law & Order",
+      "headline": "कुशीनगर में ई-रिक्शा पलटने से वृद्ध की मौत:चालक मोबाइल पर बात कर रहा था, दो अन्य घायल",
+      "summary": "कुशीनगर के कसया थाना क्षेत्र में एक ई-रिक्शा पलटने से 63 वर्षीय वृद्ध की इलाज के दौरान मौत हो गई। यह हादसा शुक्रवार को सखोपर (गंभीरिया टोला) में हुआ।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/padrauna/news/kushinagar-e-rickshaw-accident-death-kasya-mobile-negligence-138661438.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/8ebf2e39-5c70-4240-9c31-608f5278f916_1786119158193.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Hata",
+      "category": "Law & Order",
+      "headline": "जगदीशपुर में दो बाइकों की भिड़ंत:एक गंभीर रूप से घायल, दूसरा मामूली चोटिल",
+      "summary": "कुशीनगर के अहिरौली बाजार थाना क्षेत्र में दो बाइकों की आमने-सामने की भिड़ंत हो गई। इस दुर्घटना में दोनों बाइक चालक घायल हो गए, जिनमें से एक की हालत गंभीर बताई जा रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/ahiraulibazar/news/kushinagar-jagdishpur-bike-accident-rakesh-verma-abhishek-singh-138661312.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/6539cb1c-2430-4455-baec-580772acce32_1786115225835.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Health",
+      "headline": "सलेमपुर के पूर्व विधायक सुरेश यादव का निधन:85 साल की उम्र में ली अंतिम सांस, अखिलेश यादव ने दी श्रद्धांजलि",
+      "summary": "देवरिया के सलेमपुर विधानसभा क्षेत्र के पूर्व विधायक और समाजवादी आंदोलन के वरिष्ठ नेता सुरेश यादव (85) का शुक्रवार रात करीब 9 बजे निधन हो गया। वह लंबे समय से अस्वस्थ थे और पिछले चार दिनों से देवरिया के एक निजी अस्पताल में भर्ती थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-salempur-former-mla-suresh-yadav-passes-away-akhilesh-yadav-138661372.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/5327a090-b4c4-433d-8652-2b839c827fa0_1786120875761.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "सपा के वरिष्ठ नेता का निधन:सलेमपुर के पूर्व विधायक थे, राजनीतिक जगत में शोक",
+      "summary": "समाजवादी पार्टी के वरिष्ठ नेता और सलेमपुर के पूर्व विधायक सुरेश यादव का शुक्रवार रात निधन हो गया। वे लंबे समय से अस्वस्थ थे और देवरिया के लालमती अस्पताल में उनका इलाज चल रहा था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/kasbasalempur/news/salempur-former-mla-suresh-yadav-passes-away-deoria-sp-leader-138661524.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/3b3034ae-65b3-4d90-838d-59e03826503f_1786123002974.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "देवरिया में वैकल्पिक मार्ग पर फंसी कार:बारिश-कीचड़ के कारण, ट्रैक्टर की मदद से बाहर निकाली गई",
+      "summary": "देवरिया में शुक्रवार शाम हरे राम चौराहा से पादरी जाने वाले मुख्य मार्ग पर बने वैकल्पिक कच्चे रास्ते पर एक चार पहिया वाहन कीचड़ में फंस गया। यह घटना शाम करीब 6:30 बजे हुई, जब बारिश के कारण रास्ते पर जलभराव और कीचड़ हो गया था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bangra/news/deoria-car-stuck-mud-rain-tractor-rescue-operation-138661398.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/2e52bbc0-4fb8-43d9-bd7c-5057a93c6ac3_1786119318450.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Barhaj",
+      "category": "Law & Order",
+      "headline": "कुण्डौली के निजी अस्पताल मे महिला की मौत पर हंगामा:कुण्डौली-लार रोड पुलिस छावनी में तब्दील",
+      "summary": "देवरिया के मईल थाना क्षेत्र स्थित कुण्डौली-लार रोड पर शुक्रवार को पूरे दिन पुलिस का कड़ा पहरा रहा। गुरुवार शाम एक निजी अस्पताल में उपचार के दौरान एक महिला की मौत हो गई थी, जिसके बाद परिजनों ने अस्पताल परिसर में हंगामा किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bhagalpur/news/deoria-mail-kundauli-hospital-woman-death-protest-police-security-138661472.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/80a83a44-03c1-4e13-813d-1d07abbb1ffd_1786120969473.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "सिकरीगंज में बिना रजिस्ट्रेशन होटल सील:अनैतिक देह व्यापार की आशंका पर क्षेत्राधिकारी ने दिए जांच के आदेश",
+      "summary": "गोरखपुर के सिकरीगंज में पुलिस और तहसील प्रशासन ने खजनी-सिकरीगंज मुख्य मार्ग पर स्थित एक बिना रजिस्ट्रेशन वाले होटल-लॉज-रेस्टोरेंट को सील कर दिया है। बनकटी बुजुर्ग गांव में स्थित इस प्रतिष्ठान पर अनैतिक देह व्यापार जैसी संदिग्ध गतिविधियां संचालित होने की सूचना मिली थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/khajni/news/gorakhpur-sikriganj-hotel-seal-illegal-sex-racket-investigation-138661441.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/9e828c49-f24e-4b93-a5d8-beff87ab1806_1786119274841.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Pipraich",
+      "category": "Law & Order",
+      "headline": "गुलरिहा में स्कूल निकलीं तीन किशोरियां लापता:सीसीटीवी फुटेज की जांच में जुटी पुलिस",
+      "summary": "गुलरिहा थाना क्षेत्र से स्कूल के लिए निकलीं तीन किशोरियां देर शाम तक घर नहीं लौटीं। सूचना मिलने पर पुलिस मामले की जांच में जुट गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bhathat/news/gulriha-school-girls-missing-case-cctv-footage-police-search-138661487.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/6075d323-2bb1-4521-83ca-ddb28ad827ef_1786121886875.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "सिकरीगंज सिक्स लेन पर सड़क हादसा, युवक घायल:हाथ-पैर टूटा, जिला अस्पताल रेफर",
+      "summary": "गोरखपुर के सिकरीगंज सिक्स लेन पर शुक्रवार रात एक सड़क हादसे में 30 वर्षीय युवक गंभीर रूप से घायल हो गया। उसे प्राथमिक उपचार के बाद जिला अस्पताल रेफर किया गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/uruwa/news/gorakhpur-sikriganj-road-accident-vikas-vishwakarma-injured-update-138661489.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/untitled-design-20_1786123092.png",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Pipraich",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में विवाहिता की मौत का मामला:दहेज प्रताड़ना में पति, सास-ससुर पर केस; 18 दिन पहले हुई थी विदाई",
+      "summary": "पिपराइच क्षेत्र में दहेज प्रताड़ना से परेशान एक विवाहिता द्वारा ट्रेन से कटकर जान देने का मामला सामने आया था खंझवा के पास रेलवे ट्रैक पर छह अगस्त की रात विवाहिता का शव मिलने से सनसनी फैल गई। मृतका के पिता ने ससुराल पक्ष पर दहेज की मांग को लेकर लंबे समय से प्रताड़ित करने और मारपीट करने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/pipraich/news/pipraich-dowry-harassment-death-sangeeta-case-husband-in-laws-138661321.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/f53f5ff5-ea8f-4fcd-8121-46bfd08152af_1786115863053.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "बिहारीगंज क्रॉसिंग पर छात्रा के सिर पर गिरा रॉड:गाजीपुर में गंभीर रूप से घायल, अस्पताल में भर्ती",
+      "summary": "देर शाम बिहारीगंज रेलवे क्रॉसिंग पर एक छात्रा के सिर पर रेलवे का गेट बंद करते समय बन्द होते गेट का लोहे का पाइप उसके सिर पर लड़ गया। इस घटना में पकवाघाट औड़िहार निवासी उपासना राजभर गंभीर रूप से घायल हो गईं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/rampur/news/bihariganj-crossing-student-upasana-rajbhar-accident-injury-news-138661401.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/92aa98a8-47f9-4dee-ba76-fb05f1f37dd6_1786115913672.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "संतकबीरनगर में घर में आग, पुलिस ने युवक को बचाया:बखिरा थानाध्यक्ष की सूझबूझ से सिलेंडर और बाइक भी सुरक्षित निकाली",
+      "summary": "संतकबीरनगर के बखिरा थाना क्षेत्र के ग्राम परतियां में शुक्रवार को एक घर में आग लग गई। सूचना मिलते ही थानाध्यक्ष उमाशंकर त्रिपाठी पुलिस टीम के साथ मौके पर पहुंचे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/hardi/news/sant-kabir-nagar-bakhira-house-fire-police-rescue-operation-138661468.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/1ffa643c-70d6-4218-ab91-82e09cc60db1_1786121227017.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "हर्रैया मार्केट में बार-बार बिजली कटौती:व्यापारी और नागरिक परेशान, सावन में जलभराव से स्थिति और गंभीर",
+      "summary": "हर्रैया मार्केट में बार-बार हो रही बिजली कटौती स्थानीय व्यापारियों और नागरिकों के लिए एक गंभीर समस्या बन गई है। सावन के महीने में कांवड़ यात्रा के कारण हर्रैया नगर पंचायत और बभनान स्टैंड पर पहले से ही भीषण जलभराव है, जिससे यह बिजली संकट स्थिति को और अधिक जटिल बना रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/barsav/news/harriya-market-power-outage-waterlogging-sawan-kawad-yatra-crisis-138661525.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/49477ecc-730c-42b3-9ba3-5231a17eadbc_1786122898672.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "राम जानकी मार्ग से कांवरियों का जत्था रवाना:डीजे और 'हर-हर महादेव' के जयघोष से गूंजा मार्ग",
+      "summary": "कांवरियों का एक विशाल जत्था राम जानकी मार्ग से अपनी यात्रा पर रवाना हुआ। इस दौरान पूरा मार्ग 'हर-हर महादेव' के जयघोष से गूंज उठा, जिससे वातावरण भक्तिमय हो गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/barsav/news/ram-janki-marg-kanwar-yatra-shiva-bhakti-har-har-mahadev-live-138661383.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/07/e1aeb7cb-af6c-4723-b01a-804185925272_1786118931969.jpg",
+      "scrape_date": "2026-08-07",
+      "scrape_time": "17:42"
     }
   ]
 }
