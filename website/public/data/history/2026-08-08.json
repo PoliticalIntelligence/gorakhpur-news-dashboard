@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "article_count": 930,
-  "last_updated": "2026-08-08T17:23:51.305821",
+  "article_count": 933,
+  "last_updated": "2026-08-08T18:23:56.125449",
   "articles": [
     {
       "district": "Kushinagar",
@@ -10232,6 +10232,39 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/da72b1d7-fb09-40c3-a3fa-8134b86c6fef_1786205459932.jpg",
       "scrape_date": "2026-08-08",
       "scrape_time": "17:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "DM के नाम-फोटो से फर्जी सोशल मीडिया ID बनाई:मैसेंजर पर लोगों से मांगे जा रहे रुपए; जिलाधिकारी ने लोगों को किया अलर्ट",
+      "summary": "देवरिया में साइबर जालसाजों ने डीएम मधुसूदन हुल्गी के नाम और फोटो का इस्तेमाल कर सोशल मीडिया फेक ID बना ली। फर्जी ID से मैसेंजर के जरिए लोगों को संदेश भेजकर रुपए मांगे जा रहे थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-dm-madhusudan-hulgi-fake-id-cyber-fraud-messenger-138670824.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/a77ae518-5902-4f42-9368-3e538740066f_1786210572281.jpg",
+      "scrape_date": "2026-08-08",
+      "scrape_time": "18:23"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Zamania",
+      "category": "Women Welfare",
+      "headline": "एशिया के सबसे बड़े गांव की पूर्व प्रधान का निधन:पंचायती राज के बाद गहमर की पहली महिला प्रधान थीं चंद्रावती देवी",
+      "summary": "एशिया के सबसे बड़े गांव गहमर की पूर्व ग्राम प्रधान श्रीमती चंद्रावती देवी का शनिवार को वाराणसी में निधन हो गया। वह 70 वर्ष की थीं और लंबे समय से बीमार चल रही थीं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/sevrai/news/gahmar-ghazipur-former-pradhan-chandravati-devi-passes-away-138670874.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/9d0054b8-9ca4-47fe-b3e6-d2dabd52c307_1786184530864.jpg",
+      "scrape_date": "2026-08-08",
+      "scrape_time": "18:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "डीएम ने रात में किया बॉर्डर निरीक्षण:कांवड़ यात्रा की सुरक्षा-सुविधा सुनिश्चित करने को लिया जायजा",
+      "summary": "कांवड़ यात्रा को सुरक्षित, सुगम और सुव्यवस्थित ढंग से संपन्न कराने के उद्देश्य से जिलाधिकारी कृत्तिका ज्योत्सना ने शुक्रवार रात अयोध्या-बस्ती-गोंडा बॉर्डर क्षेत्र का स्थलीय निरीक्षण किया। इस दौरान उनके साथ मुख्य विकास अधिकारी, मुख्य राजस्व अधिकारी, अपर जिलाधिकारी, अपर पुलिस अधीक्षक सहित संबंधित एसडीएम और थाना प्रभारी भी मौजूद रहे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/vikramjot/news/kanwar-yatra-ayodhya-basti-gonda-border-dm-krittika-jyotsna-visit-138670702.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/1f4dd1ea-fba4-4326-aa3e-9e91df4f19dd_1786209850059.jpg",
+      "scrape_date": "2026-08-08",
+      "scrape_time": "18:23"
     }
   ]
 }
