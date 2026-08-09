@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
-  "article_count": 626,
-  "last_updated": "2026-08-09T06:38:48.005032",
+  "article_count": 650,
+  "last_updated": "2026-08-09T07:47:28.483152",
   "articles": [
     {
       "district": "Kushinagar",
@@ -6888,6 +6888,270 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/4c8406d4-60c5-41e9-8a5d-427235e39e45_1786250640167.jpg",
       "scrape_date": "2026-08-09",
       "scrape_time": "06:38"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "बनकटा-डोमबरवा सड़क गड्ढों में तब्दील:स्थानीय लोग परेशान, मरम्मत के लिए विभाग से ठोस पहल की मांग",
+      "summary": "कुशीनगर के बनकटा सायफन से डोमबरवा गांव को जोड़ने वाली सड़क इन दिनों बदहाल स्थिति में है। सड़क पर जगह-जगह बड़े गड्ढे बन गए हैं और निर्माण की गिट्टियां भी बिखरी पड़ी हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/bodarwar/news/bankata-dombarwa-road-repair-demand-public-protest-uttar-pradesh-138675090.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/9357c9f0-13e3-47a2-b721-6e77a496cadf_1786249794741.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "खिरकिया में निशुल्क बाल रोग शिविर का आयोजन:एम्स गोरखपुर के डॉ. आशीष पांडे करेंगे बच्चों की जांच",
+      "summary": "कुशीनगर के खिरकिया में बच्चों के बेहतर स्वास्थ्य और उपचार के लिए पहली बार एक निशुल्क बाल रोग चिकित्सा शिविर का आयोजन किया जा रहा है। यह शिविर 9 अगस्त, रविवार को सुबह 10 बजे से दोपहर 1 बजे तक आजाद चौक स्थित बाबा बागेश्वर नाथ जी के प्रांगण में लगेगा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/bansi/news/khirkiya-free-pediatric-health-camp-dr-ashish-pandey-aiims-gorakhpur-138675391.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/918d6048-0769-4adc-93d5-738f059d333e_1786257343183.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Salempur",
+      "category": "Law & Order",
+      "headline": "देवरिया में महिला की करंट लगने से मौत:फूल तोड़ने गई थी, एलटी लाइन से लटक रहे तार से हादसा",
+      "summary": "देवरिया जिले के लार नगर पंचायत के घारी वार्ड में रविवार को करंट लगने से एक महिला की मौत हो गई। 50 वर्षीय निर्मला देवी फूल तोड़ने गई थीं, तभी यह हादसा हुआ।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/lar/news/deoria-woman-electrocuted-lar-nagar-panchayat-accident-death-138675356.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/44ca2f0b-2842-4fd5-99fb-fe0465042892_1786256844305.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Rudrapur",
+      "category": "Law & Order",
+      "headline": "रुद्रपुर बाईपास पर बाइक सवार की मौत:दो वाहनों की टक्कर से हुई, पुलिस जांच में जुटी",
+      "summary": "देवरिया के रुद्रपुर बाईपास पर शनिवार रात एक सड़क हादसे में एक बाइक सवार की मौके पर ही मौत हो गई। यह दुर्घटना दो वाहनों की टक्कर के कारण हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/rudrapur/news/deoria-rudrapur-bypass-bike-accident-death-police-investigation-138675344.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/205456e7-d2aa-435d-93bd-f7f602bc5257_1786256737120.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "देवरिया में बैटरी दुकान में 3.60 लाख की चोरी:डीएम आवास के पास से वारदात, CCTV खंगाल रही पुलिस",
+      "summary": "देवरिया शहर के कोतवाली रोड स्थित डीएम आवास के समीप एक बैटरी की दुकान से शनिवार रात चोरों ने 3.60 लाख रुपये चुरा ले गए। चोरों ने दुकान का शटर फैलाकर काउंटर में रखी नकदी चुरा ली।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-battery-shop-theft-cash-stolen-kotwali-road-138675429.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/ac946480-2ccb-4405-b401-1ed95d133e51_1786258783752.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "पीपीगंज में उपभोक्ता बिजली लाइन जुड़वाने को परेशान:विभाग के चक्कर लगाने के बाद भी नहीं जुड़ी लाइन, जेई ने दिया नया समय",
+      "summary": "गोरखपुर के पीपीगंज निवासी राजेश कुमार अग्रहरी को रविवार को बिजली लाइन जुड़वाने के लिए बिजली विभाग के कार्यालय के कई चक्कर लगाने पड़े। घंटों इंतजार और कर्मचारियों से संपर्क के बावजूद उनकी लाइन नहीं जुड़ सकी, जिससे उन्हें परेशानी का सामना करना पड़ा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bhrohiya/news/ppigang-gorakhpur-electricity-line-connection-complaint-je-update-138675387.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/3f1d14d4-5cd3-43c3-80bb-385628d71120_1786243658967.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में बुजुर्ग से 8 लाख की ठगी:वीडियो कॉल पर 'अंबानी' बनकर जालसाजी, पुलिस जांच में जुटी",
+      "summary": "गोरखपुर के जंगल कौड़िया थाना क्षेत्र के पीपीगंज इलाके से साइबर ठगी का एक बेहद गंभीर और चौंकाने वाला मामला सामने आया है। यहां 75 साल के बुजुर्ग लालमन साहनी को शातिर साइबर अपराधियों ने बेहद सुनियोजित तरीके से अपने जाल में फंसा लिया।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-cyber-fraud-video-call-mukesh-ambani-impersonation-scam-138675174.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/18896DD7-EBE7-4CCC-9685-233B44DD55ED_1786252710114.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "मधुबन के टकटेउवा रामपुर में सपा की PDA जनचौपाल:प्रदेश अध्यक्ष ने ग्रामीणों से किया संवाद; 'हिटलरशाही' का लगाया आरोप",
+      "summary": "मऊ के मधुबन विधानसभा के टकटेउवा रामपुर में रविवार को समाजवादी पार्टी की ओर से PDA जनचौपाल का आयोजन किया गया। इसमें सपा छात्र सभा के प्रदेश अध्यक्ष विनीत कुशवाहा ने ग्रामीणों से संवाद किया और उनकी समस्याएं सुनीं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/amila/news/mau-madhuban-sp-pda-janchaupal-vineet-kushwaha-samvad-news-138675245.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/570350a6-e8c7-4391-947e-3b7acfec8901_1786252881879.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "कांवड़िया-तीर्थ यात्रियों के लिए लगा सेवा कैंप:दुर्वासा धाम में निशुल्क चिकित्सा, भोजन और विश्राम की सुविधा",
+      "summary": "मिर्जापुर ब्लॉक के दुर्वासा धाम शिव मंदिर परिसर में कांवरिया और तीर्थ यात्रियों के लिए एक सेवा शिविर लगाया गया है। विश्व मानव रूहानी केंद्र द्वारा आयोजित इस शिविर में निशुल्क चिकित्सा, भोजन और विश्राम की सुविधा प्रदान की जा रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/mirzapur/news/durvasa-dham-mirzapur-kanwariya-sewa-camp-medical-food-facility-138675434.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/8a3dd060-4a07-465d-ad6b-57233e429052_1786258717383.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "गड़वार बाजार में पूर्व विधायक उमाशंकर सिंह को श्रद्धांजलि:वक्ताओं ने कहा- उनका निधन क्षेत्र के लिए अपूरणीय क्षति, दो मिनट का मौन रखा",
+      "summary": "बलिया के गड़वार बाजार स्थित रामलीला चबूतरा पर रविवार को रसड़ा के पूर्व विधायक उमाशंकर सिंह को श्रद्धांजलि अर्पित की गई। इस अवसर पर आयोजित श्रद्धांजलि सभा में बड़ी संख्या में लोग शामिल हुए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/ratsar/news/garwar-balia-tribute-meeting-former-mla-umashankar-singh-138675341.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/c1fb336a-b6ac-4689-9dbe-c72fc698dd47_1786259064039.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "बलिया में 10 करोड़ का बाढ़ सुरक्षा कार्य फेल:पहला पानी भी नहीं झेल पाया डैपनर, कटाव से भूमि कटी",
+      "summary": "बलिया जिले के लालगंज क्षेत्र में शिवपुर कपूर दियर गंगा घाट से सेमरिया डेरा तक चल रहे 10 करोड़ रुपये के बाढ़ सुरक्षा कार्य की गुणवत्ता पर गंभीर सवाल खड़े हो गए हैं। यह कार्य गंगा कटान से बस्ती को बचाने के लिए किया जा रहा था, लेकिन बारिश का पहला पानी भी इसकी संरचनाएं झेल नहीं पाईं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/sonbarasa/news/ballia-ganga-ghat-flood-protection-work-failure-news-138675456.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/5916da8e-9b51-44a9-a68e-5d7bb57eebb3_1786259558035.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "समुद्र किनारे बालू से बनाई विधायक की आकृति:जगन्नाथपुरी में उमाशंकर सिंह को बलिया के कांवड़ियों ने दी श्रद्धांजलि",
+      "summary": "भृगु क्षेत्र कांवड़िया संघ डिहवा के तत्वावधान में जगन्नाथपुरी धाम पहुंचे कांवड़ियों ने रसड़ा के विधायक रहे स्व. उमाशंकर सिंह को अनोखे अंदाज में श्रद्धांजलि अर्पित की। समुद्र तट की बालू पर सैंड आर्टिस्ट ने स्व. उमाशंकर सिंह की आकर्षक आकृति उकेरी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/nagra/news/kanwariya-tribute-umashankar-singh-jagannathpuri-sand-art-photo-138675342.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/68c2f15c-743e-477b-be09-7232ab8e11a9_1786257974478.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "दैनिक भास्कर की खबर का असर:ताड़ीघाट रजवाहा में पानी छोड़ा, किसानों को मिलेगा राहत",
+      "summary": "गाजीपुर जिले के जमानियां क्षेत्र में किसानों को बड़ी राहत मिली है। सिंचाई विभाग ने रविवार को लगभग 19 दिन बाद ताड़ीघाट रजवाहा में पूरी क्षमता से पानी छोड़ा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/zamania/news/tadighat-rajwaha-ghazipur-irrigation-water-release-bhaskar-impact-138675323.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/e677ef2b-8664-4f22-b84d-5090470d746a_1786257005564.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Nautanwa",
+      "category": "Other",
+      "headline": "महराजगंज के सोनौली बस डिपो में अवैध पार्किंग:रोडवेज बसों का संचालन प्रभावित, यात्री परेशान",
+      "summary": "महराजगंज में भारत-नेपाल सीमा पर स्थित सोनौली रोडवेज बस डिपो इन दिनों अवैध पार्किंग का अड्डा बन गया है। डिपो परिसर में निजी कार, टैक्सी और अन्य व्यावसायिक वाहन दिनभर खड़े रहने से रोडवेज बसों के संचालन पर प्रतिकूल असर पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/nautanwa/news/sonauli-bus-depot-illegal-parking-transport-disruption-update-138675173.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/abcd29a3-e11c-4b2b-9c0f-8b0ca5c61a0d_1786254438940.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "महराजगंज के तिलंग पुरवा में एक माह से जलभराव:कीचड़ से ग्रामीणों के पैरों में संक्रमण, आवागमन बाधित",
+      "summary": "महाराजगंज जिले के फरेंदा बुजुर्ग ग्राम सभा के तिलंग पुरवा की पश्चिमी गली में पिछले एक महीने से अधिक समय से जलभराव और गंदगी की समस्या बनी हुई है। नाली का गंदा पानी सीधे रास्ते पर जमा होने से स्थानीय निवासियों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/dhanidhala/news/maharajganj-tilang-purwa-waterlogging-drainage-issue-news-138675099.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/A145FC6E-1310-4A11-9B59-907641216729_1786250539227.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "सोनौली सीमा पर 10 किमी तक ट्रकों की कतार:हाईवे पर जाम; महराजगंज प्रशासन ने अवैध पार्किंग और कटिंग पर सख्ती की",
+      "summary": "महराजगंज के सोनौली क्षेत्र में भारत-नेपाल सीमा पर रविवार को मालवाहक ट्रकों की करीब 10 किलोमीटर लंबी कतार लग गई। इससे राष्ट्रीय राजमार्ग पर यातायात व्यवस्था प्रभावित हुई और स्थानीय लोगों व दैनिक यात्रियों को परेशानी का सामना करना पड़ा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/news/sonauli-border-traffic-jam-sdm-kunail-action-illegal-parking-138675301.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/e37c0170-9c8d-413e-96ff-6a101d3b49ad_1786258180488.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Nautanwa",
+      "category": "Infrastructure",
+      "headline": "नौतनवा में खुले ट्रांसफार्मर से खतरा:सुरक्षा जाली न होने से हादसे की आशंका, मवेशी झुलसे",
+      "summary": "नौतनवा नगर के महेंद्र नगर और सुभाष नगर मोहल्ले में सड़क किनारे खुले में रखे विद्युत ट्रांसफार्मर स्थानीय निवासियों के लिए चिंता का विषय बन गए हैं। इन ट्रांसफार्मरों पर सुरक्षा जाली नहीं है और ओवरलोडिंग के कारण अक्सर स्पार्किंग होती रहती है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/nautanwa/news/nautanwa-open-transformer-danger-mahendra-nagar-subhash-nagar-138675333.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/2c041c4b-9997-4d80-8862-b3c84a1029fe_1786256445617.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "संतकबीर नगर में उपनिरीक्षक को धर्मसिंहवा थाने से विदाई:पुलिसकर्मियों ने उनके कार्यकाल की सराहना कर उज्जवल भविष्य की कामना की",
+      "summary": "संतकबीर नगर के धर्मसिंहवा थाने में तैनात उपनिरीक्षक वीरेंद्र मिश्रा के स्थानांतरण पर थाना परिसर में एक विदाई समारोह आयोजित किया गया। इस अवसर पर पुलिसकर्मियों ने उपनिरीक्षक मिश्रा के कार्यकाल की सराहना की और उन्हें नए कार्यस्थल के लिए शुभकामनाएं दीं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/santha/news/dharmsinghwa-police-station-sub-inspector-virendra-mishra-farewell-138675309.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/4f216e83-6d42-40aa-9fec-131c2345a890_1786256490053.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "संतकबीरनगर में मुख्यमंत्री के आगमन की तैयारियां तेज:साफ-सफाई और व्यवस्थाओं को दिया जा रहा अंतिम रूप",
+      "summary": "संतकबीरनगर में मुख्यमंत्री के संभावित आगमन को लेकर तैयारियां तेज हो गई हैं। प्रशासन शहर, प्रमुख मार्गों और कार्यक्रम स्थलों पर साफ-सफाई तथा अन्य व्यवस्थाओं को अंतिम रूप दे रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/dhaurahara/news/santkabirnagar-cm-yogi-adityanath-visit-preparations-update-138675395.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/b6d886a7-312a-49e2-9036-e25dc322e84f1786257392550_1786260823.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "राजघाट-लोहरौली मार्ग पर फिर जलभराव:ग्रामीणों ने स्थायी समाधान न होने पर आंदोलन की चेतावनी दी",
+      "summary": "संतकबीरनगर के बेलहर क्षेत्र में राजघाट-लोहरौली मार्ग पर एक बार फिर जलभराव की गंभीर समस्या उत्पन्न हो गई है। इस समस्या से परेशान ग्रामीणों ने प्रशासन को स्थायी समाधान न होने पर दोबारा आंदोलन करने की चेतावनी दी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/belharkala/news/santkabirnagar-rajghat-lohrauli-road-waterlogging-protest-update-138675116.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/3c52b5cb-38e1-4b1f-9aa9-c0d4143cd1561786253126982_1786257251.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Basti",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "सरयू जल लेकर भद्रेश्वरनाथ की ओर बढ़े कांवड़िए::बस्ती के फुटहिया चौराहे पर डाला डेरा, भंडारे में प्रसाद ग्रहण कर कर रहे विश्राम",
+      "summary": "अयोध्या की सरयू नदी से जल लेकर कांवरियों का जत्था बाबा भद्रेश्वरनाथ मंदिर में जलाभिषेक के लिए बस्ती की ओर बढ़ रहा है। 'बोल-बम' और 'हर-हर महादेव' के जयकारों के बीच शिवभक्त अपनी कांवड़ लेकर गंतव्य की ओर रवाना हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/basti-kanwariya-bhandara-phuthiya-chauraha-bhadreshwarnath-yatra-138675179.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/4cdd2a58-dbd1-44d7-9112-4b567c8aab3b_1786257843333.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Harraiya",
+      "category": "Law & Order",
+      "headline": "हर्रैया में 10 किलो गांजे के साथ रेस्टोरेंट मालिक गिरफ्तार:कांवड़ यात्रा के दौरान यात्रियों को बेचने का आरोप",
+      "summary": "बस्ती पुलिस ने कांवड़ यात्रा के दौरान अवैध मादक पदार्थों की तस्करी रोकने के लिए चलाए जा रहे अभियान के तहत बड़ी कार्रवाई की है। हरैया पुलिस ने रविवार तड़के 'महाकाल रेस्टोरेंट' के मालिक और नगर पंचायत के नामित सभासद शनि कुमार उर्फ रवि को 10 किलोग्राम अवैध गांजे और नकदी के साथ गिरफ्तार किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/harraiya/news/basti-harraiya-mahakal-restaurant-owner-arrested-ganja-drug-smuggling-138675381.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/9DD2D653-B950-4FCA-8A00-4C29E8525578_1786257178319.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "महादेवा चौराहे पर ऑटो से जाम, रूट डायवर्जन बेअसर:सरकारी बसों और भारी वाहनों के डायवर्ट मार्ग पर बढ़ रहा खतरा",
+      "summary": "सावन के कारण लागू रूट डायवर्जन के बावजूद महादेवा चौराहे पर यातायात व्यवस्था प्रभावित हो रही है। सरकारी बसों और अन्य भारी वाहनों का आवागमन इस मार्ग से शुरू हो गया है, लेकिन ऑटो चालक सड़क पर ही वाहन खड़े कर रहे हैं, जिससे जाम की स्थिति बन रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/nagarpanchayatbankati/news/mahadeva-chauraha-traffic-jam-route-diversion-basti-news-138675373.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/dd6d9748-d33e-4f0e-90bf-5999e4434e23_1786257049649.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "भाजपा गौर मंडल ने बनाई तिरंगा यात्रा की रणनीति:बस्ती में मासिक बैठक और कार्यशाला में सफल आयोजन पर जोर",
+      "summary": "बस्ती के कप्तानगंज विधानसभा के गौर ब्लॉक में भारतीय जनता पार्टी (भाजपा) गौर मंडल की मासिक बैठक और तिरंगा यात्रा कार्यशाला का आयोजन किया गया। इस दौरान आगामी तिरंगा यात्रा को सफल बनाने की रणनीति पर चर्चा की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/sarnagi/news/bjp-gaur-mandal-basti-tiranga-yatra-strategy-meeting-workshop-138675362.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/d00b0710-b4dc-46e4-8f12-6dd9310703ef_1786257030961.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "07:47"
     }
   ]
 }
