@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
-  "article_count": 650,
-  "last_updated": "2026-08-09T07:47:28.483152",
+  "article_count": 663,
+  "last_updated": "2026-08-09T08:32:33.232924",
   "articles": [
     {
       "district": "Kushinagar",
@@ -7152,6 +7152,149 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/d00b0710-b4dc-46e4-8f12-6dd9310703ef_1786257030961.jpg",
       "scrape_date": "2026-08-09",
       "scrape_time": "07:47"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "फाजिलनगर ओवरब्रिज के पास आवारा पशु ने बुजुर्ग को दौड़ाया:बड़ा हादसा टला, स्थानीय लोगों ने जताई नाराजगी",
+      "summary": "कुशीनगर के नगर पंचायत फाजिलनगर के ओवरब्रिज के पास एक बड़ा हादसा टल गया। सड़क पर घूम रहे एक आवारा पशु ने अचानक एक बुजुर्ग को दौड़ा लिया, जिससे वहां अफरा-तफरी मच गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/fazilnagar/news/fazilnagar-overbridge-stray-cattle-attack-elderly-man-incident-138675533.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/1f6be385-628a-4fc6-9770-1f95b07f93d0_1786257926759.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "सड़क हादसे में घायल महिला की मौत:मऊ में इलाज के दौरान तोड़ा दम, दोहरीघाट में दो बाइकों हुई थी भिड़ंत",
+      "summary": "मऊ के दोहरीघाट थाना क्षेत्र में दो बाइकों की टक्कर में गंभीर रूप से घायल हुई एक महिला की इलाज के दौरान मौत हो गई। यह हादसा गोंठा बाजार बैंक के पास हुआ था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/baduwagodam/news/mau-dohrighat-bike-accident-death-sushma-hospital-update-138675662.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/1ce2d4f3-3b52-4418-93f9-10ddc8b8699a_1786261777801.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "नवानगर में 30 अगस्त को मुख्यमंत्री सामूहिक विवाह:सामूहिक विवाह योजना के तहत होगा कार्यक्रम",
+      "summary": "बलिया के नवानगर विकासखंड में मुख्यमंत्री सामूहिक विवाह योजना के तहत 30 अगस्त को सामूहिक विवाह कार्यक्रम आयोजित किया जाएगा। इस संबंध में जनपद बलिया के मुख्य विकास अधिकारी कार्यालय द्वारा पत्रांक जारी किया गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/baghudi/news/navanagar-ballia-samuhik-vivah-yojana-august-registration-update-138675503.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/a78a156b-e790-4eb9-9ea6-5e63bc1ab489_1786260487169.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Bansdih",
+      "category": "Political",
+      "headline": "बांसडीह में तिरंगा यात्रा की तैयारी:12 अगस्त को निकलेगी यात्रा, विधायक केतकी सिंह होंगी शामिल",
+      "summary": "बांसडीह में भाजपा मंडल की एक आवश्यक बैठक मंडल अध्यक्ष राकेश वर्मा की अध्यक्षता में डाकबंगले पर आयोजित हुई। इस बैठक में 12 अगस्त को बांसडीह मंडल में होने वाली तिरंगा यात्रा कार्यक्रम की समीक्षा की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/bansdih/news/bansdih-tiranga-yatra-ketki-singh-bjp-rally-news-138675703.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/559f20af-f416-4cfc-9bdc-0878430580a0_1786261094468.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "बलिया निवासी डॉ. विद्यासागर उपाध्याय को मिला सम्मान:पण्डित मातादीन शर्मा सारस्वत दार्शनिक-चूड़ामणि सम्मान से अलंकृत",
+      "summary": "भारतीय दर्शन, वेदान्त, संस्कृत एवं भारतीय ज्ञान-परम्परा के विद्वान तथा बलिया के मूल निवासी डॉ. विद्यासागर उपाध्याय को उनके दीर्घकालीन साहित्यिक, दार्शनिक एवं सांस्कृतिक अवदान के लिए प्रतिष्ठित 'पण्डित मातादीन शर्मा सारस्वत दार्शनिक-चूड़ामणि सम्मान-2026' से सम्मानित किया गया है। यह सम्मान पडरौना (कुशीनगर) के हनुमान इण्टर कॉलेज में आयोजित एक संगोष्ठी एवं विद्वत सम्मान समारोह में प्रदान किया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/dr-vidyasagar-upadhyay-honored-ballia-kushinagar-philosophy-award-138675666.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/e6eef13c-a728-4eb1-ac4a-930c1591fef2_1786263223417.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "पिकअप से 873 लीटर शराब बरामद:जमानियां पुलिस को रौंदने की कोशिश, घेराबंदी करके ड्राइवर को दबोचा",
+      "summary": "जमानियां क्षेत्र में रविवार की सुबह में वाहन चेकिंग के दौरान पुलिस ने शराब से भरी पिकअप पकड़ी। भगीरथपुर गांव गेट के पास कार्रवाई के दौरान चालक ने पिकअप से पुलिस टीम को टक्कर मारने की कोशिश की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/zamania/news/zamaniya-police-liquor-smuggling-arrest-ghazipur-crime-news-138675545.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/8c34ac2f-4f51-4898-a9ac-0111b6218492_1786259073333.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "महराजगंज के युवक की मुंबई में मौत:टाइल्स लगाने का करते थे काम; पत्नी और तीन बच्चों का रो-रोकर बुरा हाल",
+      "summary": "महराजगंज के बरवाराजा बरईपट्टी निवासी 45 वर्षीय उदयराज वर्मा की मुंबई में अचानक तबीयत बिगड़ने के बाद मौत हो गई। वह करीब एक साल पहले परिवार की आर्थिक स्थिति सुधारने और रोजी-रोटी कमाने के लिए मुंबई गए थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/kataharakhas/news/maharajganj-youth-dies-mumbai-tiles-worker-death-update-138675636.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/97d97eeb-450a-48da-956c-268b2080fffd_1786258409984.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गूगल मैप से गलत रास्ता, रिफाइंड तेल लदा ट्रक पलटा:बेलहसा गांव में इंटरलॉकिंग सड़क पर हुआ हादसा",
+      "summary": "संत कबीर नगर के बखिरा चौकी क्षेत्र स्थित बेलहसा गांव में रविवार को एक बड़ा हादसा हो गया। शिव शक्ति रिफाइंड तेल से लदा एक 14 पहिया ट्रक गांव की इंटरलॉकिंग सड़क पर पलट गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/hardi/news/belhsa-village-truck-accident-google-maps-mistake-sant-kabir-nagar-138675730.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/fe4d6f6e-ebce-4726-b634-74affb738d41_1786258518814.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "धर्मसिंहवा में स्वतंत्रता दिवस पर तिरंगा लाइट की मांग:सभासद रामशंकर दुबे ने अधिशासी अधिकारी को लिखा पत्र",
+      "summary": "धर्मसिंहवा नगर पंचायत में स्वतंत्रता दिवस के अवसर पर तिरंगा लाइट लगाने की मांग उठी है। वार्ड संख्या-06 रजउर (भानपुर) के सभासद रामशंकर दुबे ने इस संबंध में अधिशासी अधिकारी को पत्र लिखा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/santha/news/dharmsinhwa-nagar-panchayat-independence-day-tiranga-light-demand-138675490.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/94561313-a992-4073-9723-1ec7af3961ac_1786258069789.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Basti",
+      "assembly": "District News",
+      "category": "Health",
+      "headline": "अमहट घाट पर कांवड़ियों के छालों का हो रहा इलाज:बस्ती में अखिल भारतीय विद्यार्थी परिषद ने लगाया स्वास्थ्य शिविर",
+      "summary": "बस्ती के अमहट घाट पर अखिल भारतीय विद्यार्थी परिषद (एबीवीपी) ने कांवड़ियों की सेवा के लिए शनिवार सुबह 7 बजे से स्वास्थ्य शिविर लगाया है। यह शिविर अयोध्या की सरयू नदी से पवित्र जल लेकर बाबा भद्रेश्वरनाथ मंदिर लौट रहे शिवभक्तों के लिए है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/basti-amahath-ghat-abvp-kanwar-yatra-health-camp-shiva-bhakt-138675499.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/4a8ad1b8-614b-47ea-9c38-825ebd8e3163_1786258634869.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "कप्तानगंज चौराहे पर भोलेनाथ मंदिर में भंडारे का आयोजन:पोखरा गांववासियों ने की सेवा, 10 हजार श्रद्धालुओं ने ग्रहण किया प्रसाद",
+      "summary": "कप्तानगंज, बस्ती में कांवड़ यात्रा के दौरान भोलेनाथ मंदिर में एक भव्य भंडारे का आयोजन किया गया। इसमें करीब 10 हजार श्रद्धालुओं ने प्रसाद ग्रहण किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/dubaulia/news/pokhara-basti-bholenath-mandir-bhandara-kanwar-yatra-prasad-update-138675560.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/4f428298-8dc8-4794-a244-6f2f5f7e62ca_1786258676273.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "सिसौनी खूनीपुरवा से निकली शिवभक्तों की कांवड़ यात्रा:अयोध्या से जल लेकर बड़ेश्वर नाथ जाएंगे भक्त",
+      "summary": "सिसौनी खूनीपुरवा से शिवभक्तों का एक समूह कांवड़ यात्रा पर निकला। हाथों में कांवड़ लिए और 'हर-हर महादेव' के जयकारों के साथ भक्त पूरे उत्साह से आगे बढ़ते दिखे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/bihra/news/ayodhya-kanwar-yatra-sisouni-khunipurwa-badeshwar-nath-shivbhakt-138675482.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/ae845c09-c652-40f5-ad0f-31e84c6bf06e_1786256349955.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "बस्ती से दो दर्जन से अधिक कांवड़िए अयोध्या रवाना:सरयू से जल भरकर शिवालयों में करेंगे जलाभिषेक",
+      "summary": "बस्ती जिले के हर्रैया विकासखंड क्षेत्र से रविवार को दो दर्जन से अधिक कांवड़ियों का जत्था अयोध्या धाम के लिए रवाना हुआ। ये श्रद्धालु भगवान शिव के जयकारों के साथ सरयू नदी से पवित्र जल भरने के लिए निकले हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/belarishukl/news/basti-kanwariya-jatha-ayodhya-saryu-jalabhishek-sawan-yatra-138675554.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/607ba63b-2157-47f7-b20b-c3393f4f2f63_1786258583640.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "08:32"
     }
   ]
 }
