@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
-  "article_count": 952,
-  "last_updated": "2026-08-09T17:25:03.472963",
+  "article_count": 953,
+  "last_updated": "2026-08-09T18:26:19.580872",
   "articles": [
     {
       "district": "Kushinagar",
@@ -10474,6 +10474,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/ec31e81a-e9f3-48f7-99c1-f3b115bfb0d5_1786283471838.jpg",
       "scrape_date": "2026-08-09",
       "scrape_time": "17:25"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "भटनी में बाइक-ई-रिक्शा की भिड़ंत:दो युवक गंभीर घायल, एक मेडिकल कॉलेज रेफर",
+      "summary": "देवरिया के भटनी क्षेत्र में रविवार को एक बाइक और ई-रिक्शा की आमने-सामने की टक्कर हो गई। इस दुर्घटना में दो युवक गंभीर रूप से घायल हो गए, जिनमें से एक को देवरिया मेडिकल कॉलेज रेफर किया गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/noonkhar/news/deoria-bhatni-bike-erickshaw-collision-accident-injury-update-138679679.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/09/cd30ff87-1ea7-4753-ab57-3d052ab91241_1786294989604.jpg",
+      "scrape_date": "2026-08-09",
+      "scrape_time": "18:26"
     }
   ]
 }
