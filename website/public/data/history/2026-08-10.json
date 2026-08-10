@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "article_count": 1054,
-  "last_updated": "2026-08-10T20:34:39.706917",
+  "article_count": 1058,
+  "last_updated": "2026-08-10T21:36:26.267813",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11596,6 +11596,50 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/10/gifmagicsite-2026-08-08t004517803_1786385327.gif",
       "scrape_date": "2026-08-10",
       "scrape_time": "19:51"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ के अधिकारियों ने चंद्रमा ऋषि आश्रम का किया निरीक्षण:मार्टिनगंज में तैनात फायर ब्रिगेड के ड्राइवर को किया गया निलंबित",
+      "summary": "आजमगढ़ के डीएम रविंद्र कुमार और एसएसपी डॉक्टर अनिल कुमार ने कंधरापुर थाना क्षेत्र के चंद्रमा ऋषि आश्रम का निरीक्षण किया। इस दौरान हो रहे निर्माण कार्यों की प्रगति की भी समीक्षा की गई इसके साथ ही अधिकारियों को आवश्यक दिशा निर्देश दिए गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-dm-ssp-inspect-chandrama-rishi-ashram-fire-driver-suspended-138668641.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/1000025042_1786192683.gif",
+      "scrape_date": "2026-08-10",
+      "scrape_time": "21:36"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में शादी का दबाव बनाने वाला गिरफ्तार:मोबाइल टावर पर चढ़कर दी थी धमकी, मुकदमा दर्ज",
+      "summary": "आजमगढ़ में शादी का दबाव बनाने के लिए मोबाइल टावर पर चढ़कर धमकी देने वाले एक व्यक्ति को गिरफ्तार कर लिया गया है। पुलिस ने आरोपी के खिलाफ मुकदमा भी दर्ज किया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/palhani/news/azamgarh-man-arrested-mobile-tower-threat-marriage-case-138669301.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/bad82931-b1f3-4b6f-817f-212092ac702f_1786193667986.jpg",
+      "scrape_date": "2026-08-10",
+      "scrape_time": "21:36"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Harraiya",
+      "category": "Law & Order",
+      "headline": "रौनापार के युवक की सड़क हादसे में मौत:30 जुलाई को घायल हुआ था, इलाज के दौरान दम तोड़ा",
+      "summary": "आजमगढ़ के रौनापार थाना क्षेत्र के रौनापार गांव निवासी एक सड़क दुर्घटना में गंभीर रूप से घायल युवक अतुल कुमार की इलाज के दौरान मौत हो गई। उम्र करीब 31 वर्षीय अतुल कुमार ने शुक्रवार रात शहर के एक निजी अस्पताल में दम तोड़ दिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/harraiya/news/azamgarh-road-accident-atul-kumar-death-raunapar-news-138670149.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/3f856c7b-03ff-4060-adc3-8db1b28084eb_1786196055646.jpg",
+      "scrape_date": "2026-08-10",
+      "scrape_time": "21:36"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "महाराजा सुहेलदेव विश्वविद्यालय का दीक्षांत समारोह 11 अगस्त को:आजमगढ़ में 88 मेडल बांटेंगे, हरिप्रसाद चौरसिया होंगे मुख्य अतिथि",
+      "summary": "आजमगढ़ के महाराजा सुहेलदेव विश्वविद्यालय के तीसरे दीक्षांत समारोह का 11 अगस्त को आयोजन होगा। समारोह में पद्म विभूषण पंडित हरिप्रसाद चौरसिया मुख्य अतिथि होंगे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/maharaja-suheldev-university-convocation-azamgarh-hariprasad-chaurasia-138669015.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/08/1000025080_1786195530.jpg",
+      "scrape_date": "2026-08-10",
+      "scrape_time": "21:36"
     }
   ]
 }
