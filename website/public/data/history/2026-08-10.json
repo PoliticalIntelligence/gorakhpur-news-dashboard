@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "article_count": 1052,
-  "last_updated": "2026-08-10T17:46:47.361454",
+  "article_count": 1053,
+  "last_updated": "2026-08-10T18:44:40.140372",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11574,6 +11574,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/10/4cbed04b-8366-405b-8ed2-5421f07df273_1786380382477.jpg",
       "scrape_date": "2026-08-10",
       "scrape_time": "17:46"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "देवरिया में युवती की संदिग्ध परिस्थितियों में मौत:पुलिस ने शव पोस्टमार्टम के लिए भेजा, रिपोर्ट से खुलेगा मौत का राज",
+      "summary": "देवरिया के भाटपाररानी थाना क्षेत्र के चनुकी टोला बाईपार गांव में सोमवार रात एक युवती की संदिग्ध परिस्थितियों में मौत हो गई। युवती घर में मृत मिली।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-bhatparrani-girl-death-police-investigation-postmortem-138689745.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/10/4353d8b2-ff13-4e6b-a4d5-cdc245274573_1786383173348.jpg",
+      "scrape_date": "2026-08-10",
+      "scrape_time": "18:44"
     }
   ]
 }
