@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "article_count": 1053,
-  "last_updated": "2026-08-10T18:44:40.140372",
+  "article_count": 1054,
+  "last_updated": "2026-08-10T19:51:46.748382",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11585,6 +11585,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/10/4353d8b2-ff13-4e6b-a4d5-cdc245274573_1786383173348.jpg",
       "scrape_date": "2026-08-10",
       "scrape_time": "18:44"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Utilities",
+      "headline": "गोरखपुर में मंगलवार को 3 घंटे कटेगी बिजली:दोपहर 12 से 3 बजे तक होगा रोड चौड़ीकरण और लाइन शिफ्टिंग का काम",
+      "summary": "गोरखपुर में रोड चौड़ीकरण और लाइन शिफ्टिंग के चलते मंगलवार को कई इलाको में बिजली सप्लाई ठप रहेगी। पांच विद्युत उपकेंद्रों पर दोपहर 12 बजे से 3 बजे के बीच आपूर्ति बाधित रहेगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-alert-line-shifting-road-widening-update-138690008.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/10/gifmagicsite-2026-08-08t004517803_1786385327.gif",
+      "scrape_date": "2026-08-10",
+      "scrape_time": "19:51"
     }
   ]
 }
