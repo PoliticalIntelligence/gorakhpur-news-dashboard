@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "article_count": 1109,
-  "last_updated": "2026-08-11T17:51:07.387913",
+  "article_count": 1112,
+  "last_updated": "2026-08-11T18:48:06.624952",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12201,6 +12201,39 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/11/e1afa982-fecc-4df6-b484-69c13b759d2f_1786460799374.jpg",
       "scrape_date": "2026-08-11",
       "scrape_time": "17:51"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Chauri Chaura",
+      "category": "Law & Order",
+      "headline": "चौरी चौरा में 13 वर्षीय किशोरी को भगाने का आरोप:मां की शिकायत पर युवक के खिलाफ केस दर्ज, धमकी का भी आरोप",
+      "summary": "चौरीचौरा थाना क्षेत्र में 13 वर्षीय नाबालिग किशोरी को बहला-फुसलाकर भगाने के आरोप में पुलिस ने एक युवक के खिलाफ मुकदमा दर्ज किया है। किशोरी की मां ने पुलिस को तहरीर देकर आरोप लगाया कि युवक उसकी बेटी को अपने साथ ले गया था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/chauri-chaura/news/chauri-chaura-minor-girl-kidnapping-case-umesh-prajapati-gorakhpur-138699695.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/11/951daf55-f5c3-4535-9d71-e7fba49ce618_1786470581491.jpg",
+      "scrape_date": "2026-08-11",
+      "scrape_time": "18:48"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "बलिया में क्लिनिक संचालिका की हत्या:खून से लथपथ शव मिला, सिर में लगी थी गंभीर चोट",
+      "summary": "बलिया में मंगलवार रात क्लिनिक संचालिका की हत्या कर दी गई। क्लिनिक में रात करीब 9 बजे उनका खून से सना शव मिला।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/ballia-clinic-owner-kanchan-murder-case-nagra-police-investigation-138699612.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/11/e24d1af7-869c-4c81-bebb-c3e6e6d0f49c_1786470992141.jpg",
+      "scrape_date": "2026-08-11",
+      "scrape_time": "18:48"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "दो बाइकों की भिड़ंत, युवती समेत 6 घायल:संतकबीरनगर में एक की हालत गंभीर, जिला अस्पताल रेफर",
+      "summary": "संतकबीरनगर जिले में बस्ती-महुली मार्ग पर मंगलवार देर रात एक सड़क हादसा हो गया। छितही गांव के सज्जादनगर चौराहे के पास दो बाइकों की आमने-सामने टक्कर हो गई, जिसके बाद एक बाइक फालूदा-जूस वाहन से जा टकराई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/santkabirnagar-road-accident-basti-mahuli-road-bike-collision-138699822.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/11/1c2deb5c-5b35-4d9a-a5e7-85a83b39f8e7_1786470706884.jpg",
+      "scrape_date": "2026-08-11",
+      "scrape_time": "18:48"
     }
   ]
 }
