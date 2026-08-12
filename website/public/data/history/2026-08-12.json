@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "article_count": 1048,
-  "last_updated": "2026-08-12T17:54:26.434113",
+  "article_count": 1050,
+  "last_updated": "2026-08-12T18:49:23.976177",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11530,6 +11530,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/c7860cfc-3689-49a5-b3cd-182c93dd932a_1786553822801.jpg",
       "scrape_date": "2026-08-12",
       "scrape_time": "17:54"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Agriculture",
+      "headline": "दिल्ली में अमित शाह से मिले रवि किशन:गोरखपुर के विकास और Gen Z की आकांक्षाओं पर मंथन",
+      "summary": "गोरखपुर के सांसद रवि किशन ने बुधवार को संसद भवन स्थित कार्यालय में केंद्रीय गृह मंत्री अमित शाह से मुलाकात की। इस दौरान दोनों नेताओं के बीच गोरखपुर के विकास, सहकारिता क्षेत्र और युवाओं से जुड़े कई महत्वपूर्ण मुद्दों पर चर्चा हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-mp-ravi-kishan-meets-amit-shah-development-gen-z-goals-138709921.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/gifmagicsite-2026-08-12t234948239_1786558797.gif",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "18:49"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Zamania",
+      "category": "Agriculture",
+      "headline": "नहर में पानी नहीं, किसानों ने चंदा कर की सफाई:दिलदारनगर के उसिया गांव में धान की फसल बचाने का प्रयास किया",
+      "summary": "दिलदारनगर क्षेत्र के उसिया गांव में छोटी रजवाहा से पर्याप्त पानी नहीं मिलने के कारण किसानों की धान की खेती संकट में है। समस्या के समाधान के लिए किसानों ने आपस में चंदा जुटाकर बुधवार को छोटी रजवाहा की सफाई शुरू कराई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/dildarnagar/news/usiyagaon-dildarnagar-farmers-clean-canal-water-crisis-paddy-crops-138709689.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/312d4c40-8cc2-47d4-bca6-7d3f706fab43_1786530827863.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "18:49"
     }
   ]
 }
