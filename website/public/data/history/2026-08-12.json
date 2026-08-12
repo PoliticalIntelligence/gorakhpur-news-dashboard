@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "article_count": 1017,
-  "last_updated": "2026-08-12T15:52:20.218646",
+  "article_count": 1036,
+  "last_updated": "2026-08-12T16:48:48.179607",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11189,6 +11189,215 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/805e9449-46f5-43b7-a126-03b7056ed047_1786546389373.jpg",
       "scrape_date": "2026-08-12",
       "scrape_time": "15:52"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Padrauna",
+      "category": "Law & Order",
+      "headline": "पडरौना के V2 मॉल में चोरी:महिला के पर्स से दो मंगलसूत्र और नकदी गायब",
+      "summary": "कुशीनगर के पडरौना नगर स्थित V2 मॉल में खरीदारी करने पहुंची एक महिला के पर्स से दो सोने के मंगलसूत्र और कुछ नकदी चोरी हो गई। घटना की जानकारी मिलने पर महिला ने अपने पति को सूचित किया, जिसके बाद पुलिस मौके पर पहुंची और मामले की जांच शुरू की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/padrauna/news/v2-mall-theft-padrauna-kushinagar-woman-gold-mangalsutra-stolen-138709245.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/aed78bb0-5044-48ed-ab1f-0d281973f146_1786551375595.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "अकटही बाजार में विद्युत ट्रांसफार्मर में लगी आग:बड़ा हादसा टला, क्षेत्र की बिजली आपूर्ति ठप।",
+      "summary": "बनकटा विकास खंड के अकटही बाजार में एक विद्युत ट्रांसफार्मर में अचानक आग लग गई। इस घटना से क्षेत्र में हड़कंप मच गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bakhri/news/akatahi-bazar-transformer-fire-accident-power-outage-bankata-138709325.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/143bdbd4-2a15-4f8f-8e66-8390cc7fe0f6_1786552071104.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Bansgaon",
+      "category": "Health",
+      "headline": "बांसगांव सीएचसी में मिला विशाल सांप:विशेषज्ञ ने पकड़ा, अस्पताल में मची अफरा-तफरी",
+      "summary": "बांसगांव के सामुदायिक स्वास्थ्य केंद्र (सीएचसी) में एक विशाल सांप मिलने से हड़कंप मच गया। सांप को देखने के बाद अस्पताल में अफरा-तफरी का माहौल बन गया, जिसके बाद एक विशेषज्ञ सपेरे को बुलाकर उसे पकड़वाया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bansgaon/news/bansgaon-chc-giant-snake-hospital-chaos-rescue-update-138709223.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/99356a0c-5aff-459a-96ee-c79e25c6d8ad_1786549938999.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "गोरखपुर के खिलाड़ियों ने कराटे में किया शानदार प्रदर्शन:एमजी-जुबिली का रहा जलवा, जीते सबसे ज्यादा गोल्ड",
+      "summary": "गोरखपुर के दयानंद इंटर कॉलेज में मंगलवार को आयोजित तहसील स्तरीय माध्यमिक विद्यालय कराटे प्रतियोगिता में खिलाड़ियों ने दमदार प्रदर्शन कर माहौल को जोश से भर दिया। मुकाबलों में तकनीक, स्पीड और आत्मविश्वास का बेहतरीन तालमेल देखने को मिला।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-karate-competition-mg-jubili-gold-medal-win-news-138709271.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/C962713F-D7B5-4C4F-A460-D405356D0942_1786551232951.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में GDA का बुलडोजर एक्शन:3 गांवों में अवैध प्लाटिंग ध्वस्त, 5 एकड़ जमीन कराई गई खाली",
+      "summary": "गोरखपुर विकास प्राधिकरण (GDA) ने अवैध प्लाटिंग और बिना स्वीकृति निर्माण के खिलाफ बुधवार को सख्त रुख अपनाते हुए बड़ा अभियान चलाया। थाना चिलुआताल क्षेत्र के तीन गांवों में की गई इस कार्रवाई में करीब 5 एकड़ जमीन को अवैध कब्जे से मुक्त कराया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-gda-bulldozer-action-illegal-plotting-demolished-138709151.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/9118EBC1-90A6-456C-95D8-B354CF840459_1786545600467.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Bansgaon",
+      "category": "Health",
+      "headline": "बांसगांव अस्पताल में सुविधाओं का अभाव:मरीज परेशान, एक्स-रे मशीन व डेंटल चेयर खराब",
+      "summary": "बांसगांव स्थित 50 शैय्यायुक्त संयुक्त चिकित्सालय में सुविधाओं की कमी के कारण मरीजों को इलाज कराने में परेशानियों का सामना करना पड़ रहा है। अस्पताल में आवश्यक संसाधनों की अनुपलब्धता के चलते मुख्य चिकित्सा अधीक्षक (सीएमएस) द्वारा स्वास्थ्य निदेशालय को कई बार पत्र भेजे जा चुके हैं, लेकिन सुविधाओं की कमी अब तक दूर नहीं हो सकी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bansgaon/news/bansgaon-hospital-xray-dental-chair-damaged-yogi-adityanath-news-138709232.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/33b4f367-e955-4c29-875f-3daa11eed43c_1786550290784.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "गोरखपुर एम्स में निकला सांप, गार्ड भागे:आयुष विंग में जन औषधि केंद्र के पास दिखा; हाउसकीपिंग ने निकाला",
+      "summary": "गोरखपुर एम्स में बुधवार शाम करीब पांच बजे एक सांप निकलने से हड़कंप मच गया। आयुष विंग में सांप देखकर भगदड़ मच गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/khorabar/news/gorakhpur-aiims-snake-found-ayush-wing-housekeeping-staff-alert-138709205.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/9c524cc9-17bd-43d5-a94d-29237d36516a_1786546686989.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "खजनी में 'हर घर तिरंगा' रैली, राष्ट्र प्रेम का संदेश:भाजपा जिलाध्यक्ष ने शिव तिवारी के परिजनों को दी सांत्वना",
+      "summary": "खजनी में भाजपा के मंडल अध्यक्ष अवध बिहारी मिश्रा के नेतृत्व और जिलाध्यक्ष जनार्दन तिवारी के मार्गदर्शन में एक तिरंगा रैली निकाली गई। यह रैली खजनी कस्बे और आसपास के क्षेत्रों में 'हर घर तिरंगा अभियान' के तहत आयोजित की गई थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/khajni/news/khajni-bjp-har-ghar-tiranga-rally-janardan-tiwari-awadh-bihari-138709147.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/52d59197-06fe-490e-af3e-d9f8818dd47a_1786548140934.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "गोरखपुर में छात्रों ने दिया राष्ट्रगौरव का संदेश:जुबिली कॉलेज में 'मानव तिरंगा चक्र' ने बांधा समा, देशभक्ति के रंग में डूबा पूरा परिसर",
+      "summary": "गोरखपुर में पीएम श्री राजकीय जुबिली इंटर कॉलेज में स्वतंत्रता के 80वें वर्ष के अवसर पर “हर घर तिरंगा अभियान–2026” की शुरुआत शानदार अंदाज में की गई। इस मौके पर आयोजित सांस्कृतिक कार्यक्रमों ने पूरे परिसर को देशभक्ति के रंग में रंग दिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-jubilee-college-har-ghar-tiranga-abhiyan-2026-human-flag-138709124.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/F04E34D5-EA17-403B-834E-8B8DB64A3C55_1786549828682.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "सांप के डसने से 65 वर्षीय महिला की मौत:सराय मेवागिरी में लकड़ी निकालने के दौरान हुई घटना",
+      "summary": "मधुबन थाना क्षेत्र के सराय मेवा गिरी गांव में बुधवार सुबह लकड़ी निकालने के दौरान सांप के डसने से एक 65 वर्षीय महिला की मौत हो गई। महिला की पहचान तारा देवी पत्नी मोती सहानी के रूप में हुई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/fatehpur-mandao/news/saray-mevagiri-madhuban-woman-death-snake-bite-incident-138709226.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/8475fcd1-8629-4b03-9266-d4c0da7964ab_1786540640679.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "मऊ में नीलगाय का हमला, दो महिलाएं घायल:खेत में रखवाली के दौरान घटना, जिला अस्पताल रेफर",
+      "summary": "मऊ जिले के रानीपुर थाना क्षेत्र की ग्रामसभा काझा में बुधवार शाम करीब 6 बजे नीलगाय के हमले में दो महिलाएं गंभीर रूप से घायल हो गईं। ये महिलाएं अपने खेत की रखवाली करने गई थीं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/ranipur/news/mau-ranipur-neelgai-attack-women-injured-hospital-update-138709347.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/0aafe363-94b6-4f99-8e2e-deedf7e0fbee_1786542697457.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "मनियर पुलिस ने निकाली तिरंगा यात्रा:थाना प्रभारी के नेतृत्व में देशभक्ति का संदेश दिया",
+      "summary": "मनियर पुलिस ने बुधवार देर शाम प्रभारी थाना अध्यक्ष अजय कुमार त्रिपाठी के नेतृत्व में एक तिरंगा यात्रा निकाली। यह यात्रा शाम करीब 6 बजे मनियर थाने से शुरू हुई, जिसमें पुलिसकर्मी तिरंगा झंडा लेकर देशभक्ति के जोश के साथ आगे बढ़े।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/badsarijagir/news/maniyar-police-tiranga-yatra-ajay-kumar-tripathi-deshbhakti-sandesh-138709164.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/2d52615d-2b05-4ed5-991d-346d25216012_1786539635366.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Zamania",
+      "category": "Law & Order",
+      "headline": "अवैध तमंचा-कारतूस के साथ युवक गिरफ्तार:दिलदारनगर पुलिस ने भक्सी पुलिया के पास से पकड़ा",
+      "summary": "गाजीपुर के दिलदारनगर में पुलिस ने एक युवक को अवैध तमंचा और जिंदा कारतूस के साथ गिरफ्तार किया है। यह कार्रवाई अपराध एवं अपराधियों के खिलाफ चलाए जा रहे अभियान के तहत की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/dildarnagar/news/ghazipur-dildarnagar-police-arrest-jitendra-yadav-illegal-weapon-138709218.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/26c617e6-c306-4fad-a8ee-c5096be0b194_1786545484062.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Mohammadabad",
+      "category": "Law & Order",
+      "headline": "मुहम्मदाबाद में गंगा नदी से 60 गोवंश बरामद:दो नावों से बिहार ले जा रहे थे, तस्कर अंधेरे का फायदा उठाकर फरार",
+      "summary": "मुहम्मदाबाद की भांवरकोल पुलिस ने बुधवार को गंगा नदी में बड़ी कार्रवाई करते हुए 60 गोवंशीय पशुओं को बरामद किया। ये पशु दो नावों में लादकर बिहार ले जाए जा रहे थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/mohammadabad/news/muhammadabad-bhanwarkol-police-seize-cattle-smuggling-ganga-river-138709282.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/a0db56d2-4850-4bab-9936-19ea135051fc_1786541758712.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "धवराहरा में तीन साल पुराना सीमा विवाद खत्म:शिकायतकर्ता ने शुरू कराया नवनिर्माण, जिलाधिकारी को जनता दर्शन में प्रार्थना पत्र दिया था",
+      "summary": "गाजीपुर के ग्राम धरवारा गोपालराम में पिछले तीन वर्षों से चला आ रहा भूमि सीमा विवाद समाप्त हो गया है। यह विवाद गाटा संख्या 112-113 और गाटा संख्या 115 की आबादी की सीमा को लेकर था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/lediha/news/ghazipur-dharwara-land-dispute-resolved-lallan-rajbhar-survey-138709112.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/60882a11-475b-4d07-8baf-e29c5808856a_1786538177558.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "जमानिया के बुढ़वा बाबा मंदिर में कीर्तन:हरि नाम और हर-हर महादेव के जयकारों से गूंजा परिसर, भक्तों के बीच प्रसाद वितरण",
+      "summary": "जमानिया में क्षेत्र के ऐतिहासिक एवं प्राचीन स्वयंभू बुढ़वा बाबा मंदिर परिसर में बुधवार को हरिकीर्तन का भव्य आयोजन किया गया। इसमें बड़ी संख्या में श्रद्धालुओं ने सहभागिता की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/zamania/news/zamania-budhwa-baba-mandir-harikirtan-bhakti-utsav-live-update-138709341.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/d25d5967-0fd7-42df-9b56-1a2180b9118d_1786542593202.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "संत गुरु दास जी की 650वीं जयंती:मुंडवारा चिता में कार्यक्रम, हरीश द्विवेदी हुए शामिल",
+      "summary": "आज ब्लॉक साहूघाट के मुंडवारा चिता में संत शिरोमणि श्री गुरु दास जी महाराज की 650वीं जयंती का कार्यक्रम आयोजित किया गया। इस अवसर पर बड़ी संख्या में श्रद्धालु और गणमान्य व्यक्ति उपस्थित रहे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/barsav/news/mundwara-chita-sant-guru-das-jayanti-harish-dwivedi-visit-138709240.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/eef765c3-f791-44fe-9860-0e16582d9fc2_1786551671926.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "कप्तानगंज के परसा मंडल में तिरंगा यात्रा:मंडल अध्यक्ष मनोज पाठक के नेतृत्व में फरसा चौराहा तक निकाली गई",
+      "summary": "कप्तानगंज विधानसभा क्षेत्र के परसा मंडल में एक तिरंगा यात्रा निकाली गई। यह यात्रा मंडल अध्यक्ष श्री मनोज पाठक के नेतृत्व में आयोजित की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/barsav/news/kaptanganj-parsa-tiranga-yatra-manoj-pathak-farsa-chauraha-138709327.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/e2f288d3-bf18-4e3f-9c10-962dfd331d37_1786552765812.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "बस्ती के साउघाट में बिजली कटौती से लोग परेशान:भीषण गर्मी के बीच शाम को खाना बनाने में दिक्कत",
+      "summary": "बस्ती के साउघाट क्षेत्र में भीषण गर्मी के बीच बिजली कटौती से लोग परेशान हैं। स्थानीय निवासियों को पूरे दिन और विशेषकर शाम के समय बिजली न होने के कारण भारी दिक्कतों का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/gandhariyafaij/news/basti-saughat-power-cut-summer-heat-residents-troubled-138709139.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/12/8b31121c-2c71-4714-8564-cae523b6f6a9_1786550482873.jpg",
+      "scrape_date": "2026-08-12",
+      "scrape_time": "16:48"
     }
   ]
 }
