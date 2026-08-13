@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "article_count": 1051,
-  "last_updated": "2026-08-13T18:49:58.516275",
+  "article_count": 1052,
+  "last_updated": "2026-08-13T19:53:52.861119",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11563,6 +11563,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/13/ea4701df-534c-4983-92fe-4d3c62cdc69a_1786639384207.jpg",
       "scrape_date": "2026-08-13",
       "scrape_time": "17:53"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में GRP ने 9 वीं के छात्र को पकड़ा:बोला- मोबाइल में गेम खेलने के लिए ट्रेन में यात्री पर मारा दिया पत्थर",
+      "summary": "गोरखपुर में ट्रेनों पर पत्थरबाजी करने वाले 9वीं में पढ़ने वाले 16 साल के छात्र को जीआरपी गोरखपुर ने पकड़ा है। पत्थरबाजी की घटनाओं को रोकने के लिए चलाए जा रहे अभियान के तहत ये कार्रवाई की गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-train-stone-pelting-minor-student-arrested-mobile-game-138720213.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/gifmagicsite-2026-08-14t004742136_1786648680.gif",
+      "scrape_date": "2026-08-13",
+      "scrape_time": "19:53"
     }
   ]
 }
