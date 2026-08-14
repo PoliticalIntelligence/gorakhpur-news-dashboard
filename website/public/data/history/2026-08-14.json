@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "article_count": 521,
-  "last_updated": "2026-08-14T00:59:17.890921",
+  "article_count": 547,
+  "last_updated": "2026-08-14T03:23:01.509969",
   "articles": [
     {
       "district": "Kushinagar",
@@ -5733,6 +5733,292 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/13/6BB33E52-56CC-46C0-9023-DF50DE177E97_1786628973354.jpg",
       "scrape_date": "2026-08-14",
       "scrape_time": "00:59"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "बोदरवार में खेतों में दरारें, धान की फसल सूखने लगी:बारिश के बाद पानी गायब, किसान सिंचाई को मजबूर",
+      "summary": "बोदरवार और आसपास के क्षेत्रों में लगातार बारिश के बाद खेतों से पानी गायब हो गया है। पानी उतरने के बाद अब किसानों के सामने नई समस्या खड़ी हो गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/bodarwar/news/bodarwar-farmers-struggle-drought-paddy-crops-irrigation-crisis-138722412.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/8aee065f-895d-43b4-91e2-a92245085fb51786600231010_1786673646.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "पाननकुंडा-भटौली चौराहा सड़क जर्जर:राहगीरों को आवागमन में परेशानी, स्थानीय लोगों ने मरम्मत की मांग की",
+      "summary": "नगर से सटे संकट मोचन हनुमान मंदिर, पाननकुंडा से भटौली चौराहा तक जाने वाली मुख्य सड़क की हालत बेहद जर्जर हो गई है। जगह-जगह से टूटी-फूटी और गड्ढों से भरी इस सड़क के कारण राहगीरों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/indupur/news/panankunda-bhatouli-road-repair-demand-local-residents-protest-138722470.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/fcbaa5c6-b499-49b4-8ff9-4df6ef6ec8b2_1786601760447.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "देवरिया के सोनूघाट चौराहा जलमग्न, आवागमन प्रभावित:गड्ढों के कारण बच्चे-बुजुर्ग रोज गिरकर हो रहे चोटिल",
+      "summary": "देवरिया के सोनूघाट चौराहे पर जलभराव से राहगीरों को भारी परेशानी का सामना करना पड़ रहा है। पानी जमा होने के कारण सड़क पर आवागमन बाधित है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/piprachandrabhan/news/deoria-sonughat-waterlogging-road-potholes-accidents-public-trouble-138722383.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/fcc41b71-888a-4889-9f6a-4e882aef76ea_1786635368076.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "देवरिया के बटुलही गांव में कूड़े का अंबार:जौडौरा टोला में गंदगी से ग्रामीण परेशान, उठाई सफाई की मांग",
+      "summary": "देवरिया जिले के बटुलही गांव के जौडौरा टोला में सड़क किनारे जगह-जगह कूड़ा-कचरा जमा होने से ग्रामीणों को गंभीर परेशानी का सामना करना पड़ रहा है। टोला के किनारे खाली जगहों और झाड़ियों के आसपास प्लास्टिक, पॉलिथीन और कागज सहित अन्य कचरा बिखरा हुआ है, जिससे गांव की साफ-सफाई व्यवस्था पर सवाल उठ रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/khoraram/news/deoria-batulahi-gaon-jaudaura-tola-gandagi-safai-samaya-news-138722472.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/b86e9a51-9c90-4a4d-b8ed-12c41f12d3d1_1786636770883.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "खोराराम मार्ग पर जलभराव से राहगीर परेशान:बारिश के बाद सड़क पर पानी जमा, आवागमन बाधित",
+      "summary": "देवरिया के खोराराम मार्ग पर बारिश के बाद जलभराव से राहगीरों और वाहन चालकों को भारी परेशानी का सामना करना पड़ रहा है। सड़क के किनारे उचित जलनिकासी व्यवस्था न होने के कारण बारिश का पानी लंबे समय तक जमा रहता है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/khoraram/news/deoria-khoraram-road-waterlogging-traffic-problems-rain-138722471.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/681b2efd-4044-4ee2-889a-f3396406ea3c_1786635962014.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "हरैया में 11 हजार वोल्ट का तार छह फीट ऊपर:20 गांवों के मार्ग पर खतरा, ग्रामीणों ने विभाग से की शिकायत",
+      "summary": "देवरिया सदर ब्लॉक के हरैया गांव में 11 हजार वोल्ट की विद्युत लाइन का तार जमीन से महज छह फीट की ऊंचाई पर झूल रहा है। यह तार लगभग 20 गांवों को जोड़ने वाले मुख्य मार्ग के पास से गुजरता है, जिससे कभी भी बड़े हादसे का खतरा बना हुआ है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/piprachandrabhan/news/deoria-haraiya-village-high-tension-wire-accident-danger-news-138722384.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/e03f2333-98fa-423e-9082-db68efa891fe_1786666256394.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "एसपी ने गौरीबाजार में किया पैदल गश्त:सुरक्षा-यातायात व्यवस्था का लिया जायजा, व्यापारियों से की बात",
+      "summary": "देवरिया के गौरीबाजार में गुरुवार रात पुलिस अधीक्षक (एसपी) अभिजीत आर. शंकर ने पैदल गश्त कर सुरक्षा व्यवस्था का जायजा लिया। उन्होंने बाजार और भीड़भाड़ वाले इलाकों में घूमकर स्थिति का आकलन किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/indupur/news/gauribazar-deoria-sp-abhijit-shankar-security-inspection-visit-138722459.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/4ccb4815-5a4b-4ef8-a2d4-4d6c84fd76d0_1786667926560.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "देवरिया में मंदिर का रास्ता जर्जर, श्रद्धालुओं को परेशानी:बारिश में कीचड़ से आवागमन बाधित, मरम्मत का आश्वासन मिला",
+      "summary": "देवरिया जिले के एकौना रुद्रपुर गांव में स्थित एक प्राचीन मंदिर का पहुंच मार्ग जर्जर हो गया है। इससे मंदिर में पूजा-पाठ के लिए आने वाले श्रद्धालुओं और स्थानीय निवासियों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/nagwakhas/news/deoria-ekauna-rudrapur-temple-road-damage-commuter-problem-138722415.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/61dfaa7b-c3de-4140-a636-0bdcf115e3551786603712903_1786673690.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "गोरखपुर के कैम्पियरगंज जेई को दी गई विदाई:स्थानांतरण पर विद्युत उपखंड में विदाई समारोह आयोजित",
+      "summary": "गोरखपुर के कैम्पियरगंज विद्युत उपखंड में तैनात अवर अभियंता (जेई) राकेश कुमार के स्थानांतरण पर एक विदाई समारोह का आयोजन किया गया। इस अवसर पर विद्युत विभाग के अधिकारियों, कर्मचारियों और क्षेत्र के गणमान्य व्यक्तियों ने उपस्थित होकर उनके कार्यकाल को याद किया और उज्ज्वल भविष्य की कामना की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/rigauli/news/campierganj-gorakhpur-je-rakesh-kumar-farewell-ceremony-138722418.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/f53f4735-1a6f-40f5-a7a2-1ab0679e1238_1786666767649.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Other",
+      "headline": "गोरखपुर रेलवे स्टेशन पर शुरू हुई मल्टीलेवल पार्किंग:गेट नंबर-6 से एंट्री, गाड़ी के साथ हेलमेट रखने की भी सुविधा; जानें शुल्क",
+      "summary": "गोरखपुर रेलवे स्टेशन की मल्टीलेवल पार्किंग गुरुवार से पूरी तरह शुरू हो गई। पार्किंग भवन का काम पूरा होने के बाद अब इसे व्यवस्थित तरीके से संचालित किया जा रहा है।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-railway-station-multilevel-parking-inauguration-update-138713143.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/13/gifmagicsite-2026-08-13t092814712_1786593501.gif",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "कैम्पियरगंज के मछलीगांव में सूखे की मार:किसान मशीनों से कर रहे सिंचाई, फसल बचाने की चुनौती",
+      "summary": "गोरखपुर के कैम्पियरगंज ब्लॉक के मछलीगांव में किसान सूखे की गंभीर समस्या से जूझ रहे हैं। बारिश न होने और लगातार तेज धूप के कारण खेतों की नमी तेजी से खत्म हो रही है, जिससे जमीन में दरारें पड़ गई हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/machhaligaon/news/campierganj-machhligaon-farmers-drought-irrigation-crisis-crops-138722476.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/04be5a88-d19e-47b7-897b-fe8b3ce1e382_1786596949904.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Mau",
+      "assembly": "District News",
+      "category": "Health",
+      "headline": "कल्पनाथ राय मेडिकल कॉलेज को 50 MBBS सीटों की मंजूरी:मऊ में चिकित्सा शिक्षा को मिला बढ़ावा, छात्रों को मिलेगा लाभ",
+      "summary": "चिकित्सा शिक्षा के क्षेत्र में मऊ जिले के लिए एक बड़ी खबर सामने आई है। कल्पनाथ राय इंस्टीट्यूट ऑफ मेडिकल कॉलेज को एमबीबीएस पाठ्यक्रम में 50 सीटों पर प्रवेश की अनुमति मिल गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/news/mau-kalpnath-rai-medical-college-mbbs-seats-approval-update-138722547.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/fd81b57b-869d-48ce-af04-aab82aa0d959_1786673329146.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में मुठभेड़ में दो बदमाश गिरफ्तार:पुलिस के रोकने पर फायरिंग की, जवाबी कार्रवाई में पैर में लगी गोली",
+      "summary": "आजमगढ़ में शुक्रवार सुबह पुलिस की दो अलग-अलग मुठभेड़ हुईं। तरवा और मेहनगर थाना क्षेत्र में हुई कार्रवाई में पुलिस ने दो बदमाशों को गिरफ्तार किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-police-encounter-ghazipur-miscreants-arrested-live-update-138722464.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/1000026571_1786674645.gif",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Agriculture",
+      "headline": "आजमगढ़ में बारिश का अलर्ट:8 किलोमीटर की स्पीड से हवा बह रही, आसमान में बादल,टेम्प्रेचर 28°C",
+      "summary": "आजमगढ़ में शुक्रवार को मौसम फिर से बदल गया। सुबह से आसमान में बादल छाए हुए हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-weather-update-heavy-rain-temperature-drop-monsoon-news-138722367.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/1000026518_1786673018.gif",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "23 दिन बाद बारिश से सूखते खेतों को मिली राहत:बेल्थरा रोड में धान में लौटी हरियाली; सिंचाई खर्च पर लगा ब्रेक",
+      "summary": "बेल्थरा रोड में 23 दिनों के लंबे इंतजार के बाद गुरुवार दोपहर हुई करीब आधे घंटे की बारिश ने किसानों को बड़ी राहत दी। बारिश से उमसभरी गर्मी से लोगों को राहत मिली और सूखते खेतों को नई नमी मिली।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/belthra-road/news/belthara-road-rain-relief-farmers-crops-greenery-weather-update-138722487.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/g3j2ub_1786675147.gif",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "हत्या की कोशिश में 6 को 10-10 साल की सजा:बलिया कोर्ट ने 45-45 हजार जुर्माना लगाया, गोली मारने का था आरोप",
+      "summary": "बलिया में हत्या के प्रयास के मामले में अदालत ने छह अभियुक्तों को दोषी ठहराते हुए प्रत्येक को 10-10 साल के कठोर कारावास और 45-45 हजार रुपए के अर्थदंड की सजा सुनाई है। यह फैसला पुलिस महानिदेशक उत्तर प्रदेश के ‘ऑपरेशन कनविक्शन’ अभियान के तहत मॉनिटरिंग सेल और अभियोजन विभाग की प्रभावी पैरवी के बाद आया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/ballia-court-convicts-six-attempt-murder-case-operation-conviction-138722672.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/9dcfb26a-9807-4cd0-80c5-f0502740396f_1786645042087.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "मनियर ब्लॉक पर भाकपा माले का दो दिवसीय उपवास:मजदूरों की विभिन्न मांगों को लेकर सरकार के खिलाफ प्रदर्शन",
+      "summary": "बलिया जनपद के मनियर ब्लॉक मुख्यालय पर अखिल भारतीय खेत एवं ग्रामीण मजदूर सभा (ABKGRMS) और भाकपा माले के कार्यकर्ताओं ने दो दिवसीय सामूहिक उपवास और सत्याग्रह आंदोलन शुरू किया। यह प्रदर्शन 13 और 14 अगस्त को देश भर के सभी ब्लॉक मुख्यालयों पर आयोजित राष्ट्रीय कार्यक्रम का हिस्सा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/badsarijagir/news/ballia-maniyar-protest-cpi-ml-workers-hunger-strike-demands-138722448.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/c71cfe24-0e14-4f75-b51b-1f84095d7cc2_1786626885357.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "रक्षाबंधन पर डाकघरों में विशेष व्यवस्था:वाटरप्रूफ लिफाफे, डाक खर्च में 10% छूट का प्रावधान",
+      "summary": "भारतीय डाक विभाग ने रक्षाबंधन पर्व के लिए विशेष व्यवस्थाएं की हैं। अधीक्षक डाकघर, बलिया मंडल के अनुसार, राखी भेजने के लिए उच्च गुणवत्ता वाले वाटर-प्रूफ लिफाफे बलिया मंडल के सभी 357 डाकघरों में उपलब्ध कराए गए हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/rakshabandhan-post-office-ballia-waterproof-envelope-discount-offer-138722653.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/12befb7b-f1cb-46c4-beb4-015e130eb3a6_1786644320576.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "सिधौना पशुचिकित्सालय का संपर्क मार्ग जर्जर:बरसात में फिसलन-कीचड़ से आवागमन, दवा आपूर्ति प्रभावित",
+      "summary": "गाजीपुर के सिधौना स्थित राजकीय पशुचिकित्सालय का संपर्क मार्ग जर्जर हालत में है। बरसात के मौसम में यह मार्ग फिसलन भरा और कीचड़युक्त हो जाता है, जिससे अस्पताल तक पहुंचना मुश्किल हो गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/sidhauna/news/ghazipur-sidhauna-animal-hospital-road-condition-medicine-supply-138722457.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/da98338f-58b3-47f3-ab5a-0b4181ba4f3a_1786608273371.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "गाजीपुर जेल में स्वतंत्रता दिवस पर प्रतियोगिताएं:बंदियों ने तिरंगा यात्रा निकाली, विजेताओं को 15 अगस्त को मिलेगा पुरस्कार",
+      "summary": "गाजीपुर जिला कारागार में स्वतंत्रता दिवस के अवसर पर शुक्रवार को बंदियों के लिए विभिन्न प्रतियोगिताओं का आयोजन किया गया। जेल अधीक्षक जगदंबा प्रसाद दुबे के निर्देश पर सामान्य ज्ञान, निबंध लेखन और चित्रकला प्रतियोगिताएं आयोजित की गईं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/news/ghazipur-jail-independence-day-tiranga-yatra-bandi-pratiyogita-138722550.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/c4adf2a1-5bba-4228-bf9b-44c9fe49f78a_1786672572339.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Nichlaul",
+      "category": "Other",
+      "headline": "ठूठीबारी में 'हर घर तिरंगा' अभियान के तहत रैली:देशभक्ति नारों के साथ निकली भव्य तिरंगा रैली",
+      "summary": "ठूठीबारी, 13 अगस्त 2026। 'हर घर तिरंगा' अभियान के तहत राधा कुमारी इंटर कॉलेज, ठूठीबारी द्वारा गुरुवार को एक तिरंगा रैली निकाली गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/nichlaul/news/thuthibari-har-ghar-tiranga-rally-radha-kumari-inter-college-news-138722332.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/2d25688e-a2fd-4581-bd46-db3536e7fe74_1786671279969.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "महाराजगंज के मधुबनी में दो साल से सड़क बदहाल:शिकायत के बाद भी नहीं हुई सुनवाई, आवागमन बाधित",
+      "summary": "महाराजगंज के विकासखंड मिठौरा क्षेत्र के ग्राम सभा मधुबनी में जीउत शर्मा के घर से श्रवण गौतम के घर तक जाने वाला रास्ता पिछले दो साल से बदहाल है। इस कारण ग्रामीणों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/mithaura/news/maharajganj-mithaura-madhubani-road-badhal-samasya-news-138722479.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/2712bfe4-71b5-4eff-9954-fb6ed7c765eb_1786602935222.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "बस्ती के धुसवा तटबंध में कटान:जिलाधिकारी ने मौके पर पहुंचकर बचाव कार्य तेज करने के निर्देश दिए",
+      "summary": "बस्ती जिले के विक्रमजोत क्षेत्र में धुसवा तटबंध में कटान की स्थिति गंभीर बनी हुई है। जिलाधिकारी ने मौके पर पहुंचकर स्थिति का जायजा लिया और संबंधित अधिकारियों को बचाव एवं राहत कार्य तेज करने के निर्देश दिए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/barsav/news/basti-dhuswa-tatbandh-katan-dm-visit-rescue-operation-update-138722587.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/68de7457-728f-4af4-855a-59f8fe035cf91786671000623_1786676349.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "बस्ती के आकाश को राष्ट्रपति भवन से निमंत्रण:15 अगस्त समारोह में होंगे शामिल, पीएम ने की थी सराहना",
+      "summary": "बस्ती के लजघटा गांव निवासी सामाजिक कार्यकर्ता आकाश गुप्ता को 15 अगस्त के राष्ट्रीय समारोह में शामिल होने के लिए राष्ट्रपति भवन से विशेष निमंत्रण मिला है। उन्होंने चार महीने तक मनोरमा नदी में श्रमदान कर 400 मीटर हिस्से की सफाई की और ग्रामीणों को जल संरक्षण के लिए जागरूक किया था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/basti-akash-gupta-invited-independence-day-ceremony-president-138722691.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/4c43927e-158a-4943-8e37-77794fd7c837_1786676098511.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "बस्ती में बानपुर-जिगनिया मार्ग क्षतिग्रस्त:संत कबीर नगर के पवली से जुड़ने वाली सड़क पर आवागमन बाधित",
+      "summary": "बस्ती जिले के बनकटी लालगंज थाना क्षेत्र में बानपुर से खरबानिया होते हुए जिगनिया को जोड़ने वाली सड़क बुरी तरह क्षतिग्रस्त हो गई है। यह मार्ग संत कबीर नगर के पवली से भी जुड़ता है, जिससे इस पर आवागमन में भारी परेशानी हो रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/deaisand/news/basti-banpur-jigniya-road-damaged-sant-kabir-nagar-pavli-connectivity-138722483.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/4eadc3e0-e122-4385-8158-cf31f4a28bc0_1786601972221.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "बस्ती पीएचसी में शौचालय बदहाल:गर्भवती महिलाओं सहित मरीज गंदगी, टूटी सीटों से परेशान",
+      "summary": "बस्ती जिले के बनकटी प्राथमिक स्वास्थ्य केंद्र (पीएचसी) में मरीजों, विशेषकर गर्भवती महिलाओं को शौचालय की गंभीर समस्या का सामना करना पड़ रहा है। नगर पंचायत द्वारा निर्मित शौचालय गंदगी, टूटी सीटों और पानी की कमी के कारण बदहाल स्थिति में है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/deaisand/news/basti-phc-toilet-condition-patients-pregnant-women-problems-138722481.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/910a210a-63ec-42b4-bb16-68475f97e8b0_1786604691471.jpg",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "03:23"
     }
   ]
 }
