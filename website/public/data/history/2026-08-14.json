@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "article_count": 1041,
-  "last_updated": "2026-08-14T19:46:07.227996",
+  "article_count": 1042,
+  "last_updated": "2026-08-14T20:25:38.097351",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11453,6 +11453,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/14/e076ac7a-ba58-4d6a-a41c-dc57d8e6d463_1786725421418.jpg",
       "scrape_date": "2026-08-14",
       "scrape_time": "18:43"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "नो-पार्किंग में खड़ी स्कूटी पर कार्रवाई होता देखकर दौड़ा युवक:नगर निगम की गाड़ी से जाकर लड़ा, अस्पताल में कराया गया भर्ती",
+      "summary": "गोरखपुर के गोलघर टाउनहाल के सामने नो पार्किंग में खड़ी स्कूटी को नगर निगम की टीम उठाकर ले गई। अपनी स्कूटी को नगर निगम की गाड़ी पर जाते देख युवक ने उसका पीछा शुरू कर दिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-no-parking-scooty-seizure-accident-raghavendra-singh-138730257.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/gifmagicsite-2026-08-15t011654362_1786736822.gif",
+      "scrape_date": "2026-08-14",
+      "scrape_time": "20:25"
     }
   ]
 }
