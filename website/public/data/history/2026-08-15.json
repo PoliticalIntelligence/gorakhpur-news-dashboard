@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "article_count": 1239,
-  "last_updated": "2026-08-15T17:17:11.139041",
+  "article_count": 1244,
+  "last_updated": "2026-08-15T18:18:08.373529",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13631,6 +13631,61 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/e09cfe8d-7375-498a-9aa0-34937dc9c23f_1786812932656.jpg",
       "scrape_date": "2026-08-15",
       "scrape_time": "17:17"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Barhaj",
+      "category": "Law & Order",
+      "headline": "दुकानदार से रुपये मांगने पर मारपीट:सीसीटीवी में कैद हुई घटना, चार आरोपियों पर केस दर्ज",
+      "summary": "मईल थाना क्षेत्र के कहाव गांव में एक गल्ले की दुकान पर रुपये मांगने को लेकर दुकानदार के साथ मारपीट का मामला सामने आया है। यह पूरी घटना सीसीटीवी कैमरे में कैद हो गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bhagalpur/news/mail-deoria-shopkeeper-assault-cctv-footage-case-registered-138740515.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/9c1048ff-d8e8-4072-a4ad-0820dc87bfd4_1786814161108.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "18:18"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Barhaj",
+      "category": "Law & Order",
+      "headline": "गल्ले की दुकान पर रुपये मांगने को लेकर मारपीट:घटना CCTV में कैद, चार लोगों पर मुकदमा दर्ज",
+      "summary": "मईल थाना क्षेत्र के कहाव गांव में एक गल्ले की दुकान पर रुपये मांगने को लेकर दुकानदार से मारपीट का मामला सामने आया है। घटना का सीसीटीवी फुटेज भी उपलब्ध है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bhagalpur/news/maile-deoria-shop-assault-cctv-footage-case-registered-138740502.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/f09e48f7-0e05-461c-9cff-27ed1adc2be5_1786813621260.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "18:18"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "बिना सूचना, अचानक बंद कर दिया रास्ता:1.5 किलोमीटर जाने के बाद लौटने को मजबूर हो रहे लोग",
+      "summary": "पीडब्ल्यूडी की ओर से कराए जा रहे कार्यों पर उनके ही इंजीनियरों की नजर नहीं होती। ठेकेदार जब जो रास्ता चाहते हैं, बंद करते हैं और जनता परेशान होती है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-padleganj-rustampur-service-road-closed-pwd-commuter-problem-138740504.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/gifmagicsite-2026-08-15t221737287_1786812617.gif",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "18:18"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "24 अगस्त को चिल्लूपार में अस्मिता दिखाएंगी ताकत:किसी परीक्षा से कम नहीं होगी कार्यकर्ता महासम्मेलन की सफलता",
+      "summary": "गोरखपुर के दक्षिणांचल में स्थित विधानसभा क्षेत्र चिल्लूपार में इस समय सियासी पारा हाई है। पिछले कई वर्षों से भाजपा में टिकट के लिए जोर-आजमाइश कर रही अस्मिता चंद ने अब भगवा पट्‌टा उतारकर नीला दुपट्‌टा ओढ़ लिया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/asmita-chand-bsp-workers-convention-chillupar-gorakhpur-politics-138740555.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/gifmagicsite-2026-08-15t232528931_1786816525.gif",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "18:18"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "सामुदायिक स्वास्थ्य केंद्र विक्रमजोत में 80वां स्वाधीनता दिवस:अधीक्षक डॉ. अतुल कुमार सिंह ने किया झंडारोहण, स्टाफ मौजूद",
+      "summary": "विक्रमजोत हर्रैया बस्ती विकास क्षेत्र के सामुदायिक स्वास्थ्य केंद्र विक्रमजोत में 80वां स्वाधीनता दिवस मनाया गया। इस अवसर पर अस्पताल परिसर में सुबह से ही तैयारियां चल रही थीं और कर्मचारियों का आगमन हो चुका था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/shankarpur/news/vikramjot-health-center-independence-day-atul-kumar-singh-hoisting-138740501.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/4332a981-bd71-46c6-a0c3-5a824f7debf7_1786813341546.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "18:18"
     }
   ]
 }
