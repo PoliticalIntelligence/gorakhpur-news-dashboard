@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "article_count": 1244,
-  "last_updated": "2026-08-15T18:18:08.373529",
+  "article_count": 1248,
+  "last_updated": "2026-08-15T19:19:07.032024",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13686,6 +13686,50 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/4332a981-bd71-46c6-a0c3-5a824f7debf7_1786813341546.jpg",
       "scrape_date": "2026-08-15",
       "scrape_time": "18:18"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "जिले में दो घंटे में 11 एमएम बारिश हुई:अगस्त में अब तक 60 एमएम, पिछले साल से 60 प्रतिशत कम हुई",
+      "summary": "देवरिया जिले में शनिवार शाम करीब दो घंटे तक रुक-रुककर तेज बारिश हुई। इस दौरान करीब 11 एमएम बारिश दर्ज की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-heavy-rain-monsoon-update-weather-forecast-kheti-kisani-138740570.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/bcf8011c-b56c-46e2-b488-0053660cc7ed_1786807564179.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "19:19"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "गोरखपुर में स्वतंत्रता दिवस उत्साह से मना:देशभक्ति से सराबोर हुआ आर्मी पब्लिक स्कूल, कर्नल हरिहर बोले- आत्मनिर्भरता ही असली आजादी",
+      "summary": "गोरखपुर के आर्मी पब्लिक स्कूल में 80वां स्वतंत्रता दिवस बड़े उत्साह और देशभक्ति के साथ मनाया गया। पूरे स्कूल में सुबह से ही तिरंगे और देशभक्ति का माहौल नजर आया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-army-public-school-independence-day-colonel-harihar-speech-138740593.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/6F6FF35B-E7C6-4135-95FA-0B2B853D2936_1786810065874.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "19:19"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "गोरखपुर में बिज्जुओं की दहशत:शाम होते ही घरों में दुबक रहे लोग, वन विभाग की टीम करेगी रेस्क्यू",
+      "summary": "गोरखपुर के तिवारीपुर इलाके की आवास विकास कॉलोनी में इन दिनों लोगों को आदमखोर बिज्जुओं की दहशत है। पिछले 3-4 दिनों से कॉलोनी में लगातार बिज्जू दिखाई देने से लोग सहमे हुए हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-tiwaripur-colony-badger-terror-rescue-operation-138740589.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/83987723-9E58-475B-8D13-81D5E2766C69_1786817364628.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "19:19"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Campierganj",
+      "category": "Other",
+      "headline": "गोरखपुर स्कूल में स्वतंत्रता दिवस पर अश्लील गाना:बच्चों ने किया डांस, अधिकारियों ने जांच के आदेश दिए",
+      "summary": "गोरखपुर जनपद के कैंपियरगंज विकास खंड क्षेत्र के नवापार ग्रामसभा स्थित राजकीय विद्यालय में 15 अगस्त को स्वतंत्रता दिवस समारोह के दौरान एक अश्लील भोजपुरी गाना बजाया गया। इस गाने पर बच्चों और शिक्षकों की मौजूदगी में एक लड़के के डांस का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है, जिस पर लोगों ने कड़ी प्रतिक्रिया व्यक्त की है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/campierganj/news/gorakhpur-school-dance-controversy-video-investigation-order-138740590.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/2EAA83F6-08A3-497D-80A2-0FE0ADBE7270_1786811566875.jpg",
+      "scrape_date": "2026-08-15",
+      "scrape_time": "19:19"
     }
   ]
 }
