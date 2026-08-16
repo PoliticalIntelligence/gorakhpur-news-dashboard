@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "article_count": 1097,
-  "last_updated": "2026-08-16T17:14:18.984817",
+  "article_count": 1100,
+  "last_updated": "2026-08-16T18:15:12.854239",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12069,6 +12069,39 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/5ec10310-3df2-4496-a54b-2bd90f5c19df_1786895010249.jpg",
       "scrape_date": "2026-08-16",
       "scrape_time": "17:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Other",
+      "headline": "गोरखपुर फुटबॉल लीग- ए डिवीजन का आगाज:वैलेंटाइन-केपीएस मुकाबला 1-1 से ड्रॉ, सद्भावना क्लब ने टाउन क्लब को हराया",
+      "summary": "गोरखपुर के सेंट एंड्रयूज महाविद्यालय के क्रीड़ांगन पर गोरखपुर फुटबॉल लीग (ए डिवीजन) का शानदार आगाज़ हुआ। पहले दिन खेले गए मुकाबलों में जहां वैलेंटाइन फुटबॉल क्लब और केपीएस खोराबार के बीच रोमांचक मैच 1-1 की बराबरी पर समाप्त हुआ।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-football-league-division-match-update-valentine-kps-sadbhavana-138746802.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/F47BF258-C4E4-4EC3-9B6B-773C23CBE36D_1786895387223.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "18:15"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Political",
+      "headline": "गोरखपुर में वन विभाग का एक्शन:3 बिज्जू पकड़े-2 अब भी फरार, लोगों को मिली राहत",
+      "summary": "गोरखपुर में तिवारीपुर इलाके के आवास विकास कॉलोनी में सोमवार को दोपहर वन विभाग ने बड़ा रेस्क्यू ऑपरेशन चलाया। टीम ने मौके पर पहुंचकर कार्रवाई करते हुए 3 बिज्जुओं को सुरक्षित पकड़ लिया।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-badger-rescue-operation-forest-department-update-138746811.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/7F4C5E21-1143-4471-BF99-5D6610C99C9B_1786898542480.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "18:15"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "सावन में झारखंडी मंदिर पर अंधेरे का साया:बस्ती में खराब पड़ी सोलर लाइट बनी शोपीस, वर्षों से बंद पड़ी है प्रकाश व्यवस्था",
+      "summary": "अमोढ़ा क्षेत्र के प्रसिद्ध झारखंडी मंदिर में इन दिनों आस्था का उजाला तो है, लेकिन शाम ढलते ही परिसर घने अंधेरे में डूब जाता है। मंदिर में वर्षों पहले लगाई गई सोलर लाइट लंबे समय से खराब पड़ी है और अब महज शोपीस बनकर रह गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/amorhakhas/news/amodha-jharkhandi-mandir-solar-light-problem-shradhalu-update-138746868.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/14f1bb72-d8d9-49d3-9bbc-140a2601eca3_1786886793419.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "18:15"
     }
   ]
 }
