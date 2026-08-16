@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "article_count": 628,
-  "last_updated": "2026-08-16T00:38:30.592628",
+  "article_count": 635,
+  "last_updated": "2026-08-16T02:20:08.846641",
   "articles": [
     {
       "district": "Kushinagar",
@@ -6910,6 +6910,83 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/dad26a0b-85ca-40b8-9edc-9a619631d3df_1786784233087.jpg",
       "scrape_date": "2026-08-16",
       "scrape_time": "00:38"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज अखबार नहीं, कुशीनगर की कल की 5 बड़ी खबरें:किशोर की पीट-पीटकर हत्या, पुलिसकर्मियों को दिलाई गई शपथ",
+      "summary": "आज कुशीनगर में नो पेपर डे है। ऐसे में 1 दिन पहले आपके शहर में क्या-कुछ हुआ है, सभी बड़े अपडेट आप नीचे पढ़ सकते हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/news/kushinagar-kaptanganj-student-murder-case-clash-police-update-138739511.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/comp-106-21786715750_1786801565.gif",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Barhaj",
+      "category": "Law & Order",
+      "headline": "देवरिया में चार वाहन चोर गिरफ्तार, 4 मोटरसाइकिलें बरामद:दो देवरिया के मईल थाना क्षेत्र से चोरी हुई थीं",
+      "summary": "बलिया जनपद की उभाव थाना पुलिस ने एक वाहन चोर गिरोह का पर्दाफाश किया है। पुलिस ने चार शातिर चोरों को गिरफ्तार कर उनके कब्जे से चोरी की चार मोटरसाइकिलें बरामद की हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bhagalpur/news/ballia-police-arrest-bike-thieves-recover-stolen-motorcycles-138740755.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/16/47c1f32c-422c-471d-b84e-b123c0ac5a2a_1786815421880.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज अखबार नहीं, देवरिया की कल की 5 बड़ी खबरें:कॉलेज गेट पर किशोर अवैध असलहे संग गिरफ्तार, करंट लगने से महिला की मौत",
+      "summary": "आज नो न्यूजपेपर डे है, इसलिए शनिवार को अखबार आपके घर नहीं पहुंचेगा। देवरिया जिले की कल दिनभर की 5 बड़ी और जरूरी खबरें एक नजर में पढ़िए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-news-independence-day-celebration-samman-accident-crime-report-138739436.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/5b356eb0-92e0-42e0-bdc4-eb8e8b5b541b_1786799639075.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "नौका विहार में 15 अगस्त सेलिब्रेट करने पहुंचे हजारों लोग:तिरंगा संग सेल्फी लेकर बनवाई रील्स, देखें VIDEO",
+      "summary": "गोरखपुर में 15 अगस्त सेलिब्रेट करने हजारों की संख्या में लोग गोरखपुर के नौका विहार पहुंचने लगे। रात करीब 9 बजे तक गोरखपुर के साथ ही आसपास के जिलों से भी बड़ी संख्या में लोग अपने परिवार, दोस्तों और बच्चों के साथ नौका विहार पहुंचे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-nauka-vihar-independence-day-celebration-reels-video-138740604.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/gifmagicsite-2026-08-15t232346844_1786816498.gif",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज अखबार नहीं, बलिया की कल की 5 बड़ी खबरें:युवक ने गंगा नदी में छलांग लगाई, स्वतंत्रता दिवस पर फहराया गया तिरंगा",
+      "summary": "आज नो न्यूजपेपर डे है, इसलिए शनिवार को अखबार आपके घर नहीं पहुंचेगा। ऐसे में बलिया जिले की दिनभर की 5 बड़ी और जरूरी खबरें एक नजर में पढ़िए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/ballia-news-ganga-river-suicide-independence-day-tiranga-flag-138739075.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/e5c183eb-4c6e-4c63-abcd-528aad599e64_1786796489586.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज अखबार नहीं, महराजगंज की कल की 5 बड़ी खबरें:पास्को एक्ट में वांछित अभियुक्त गिरफ्तार, कलेक्ट्रेट में डीएम ने फहराया राष्ट्रीय ध्वज",
+      "summary": "आज नो न्यूजपेपर डे है, इसलिए शनिवार को अखबार आपके घर नहीं पहुंचेगा। महराजगंज जिले की कल दिनभर की 5 बड़ी और जरूरी खबरें एक नजर में पढ़िए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/news/top-5-news-updates-independence-day-celebrations-crime-reports-2026-138739199.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/065eae72-23a9-479a-a0d8-48c537adee671786786092998_1786798744.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Basti",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज अखबार नहीं, बस्ती की कल की 5 बड़ी खबरें:व्हाट्सऐप हैक कर खाते से 3.31 लाख निकाले, करंट लगने से युवक की मौत",
+      "summary": "आज नो न्यूजपेपर डे है, इसलिए शनिवार को अखबार आपके घर नहीं पहुंचेगा। बस्ती जिले की कल दिनभर की 5 बड़ी और जरूरी खबरें एक नजर में पढ़िए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/basti-whatsapp-hack-fraud-police-fir-cyber-crime-138739328.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/15/6f209f2f-97fd-4f98-b124-ad27145cf6cb_1786799295189.jpg",
+      "scrape_date": "2026-08-16",
+      "scrape_time": "02:20"
     }
   ]
 }
