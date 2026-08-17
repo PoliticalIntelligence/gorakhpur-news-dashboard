@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "article_count": 1060,
-  "last_updated": "2026-08-17T18:25:44.055148",
+  "article_count": 1061,
+  "last_updated": "2026-08-17T19:26:03.257277",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11662,6 +11662,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/17/7acebbf8-dfa1-425f-814b-99146b1fdead_1786973682232.jpg",
       "scrape_date": "2026-08-17",
       "scrape_time": "18:25"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में आज चार घंटे ठप रहेगी बिजली:सड़क चौड़ीकरण, लाइन शिफ्टिंग का काम जारी, सुबह 11 से दोपहर 3 बजे तक आपूर्ति बाधित",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण और बिजली लाइनों की शिफ्टिंग के चलते 18 अगस्त को कई प्रमुख इलाकों में चार घंटे तक बिजली गुल रहेगी। विद्युत विभाग के अनुसार, सुबह 11:00 बजे से दोपहर 03:00 बजे तक बिजली आपूर्ति पूरी तरह बाधित रहेगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-road-widening-electricity-line-shifting-update-138757870.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/18/gifmagicsite-2026-08-08t004517803_1786992510.gif",
+      "scrape_date": "2026-08-17",
+      "scrape_time": "19:26"
     }
   ]
 }
