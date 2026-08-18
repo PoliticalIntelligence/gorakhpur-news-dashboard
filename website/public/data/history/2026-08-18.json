@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "article_count": 1091,
-  "last_updated": "2026-08-18T20:15:43.959345",
+  "article_count": 1092,
+  "last_updated": "2026-08-18T21:17:12.370007",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12003,6 +12003,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/18/c54d5468-4290-4f63-807b-e6b3be06d189_1787061100468.jpg",
       "scrape_date": "2026-08-18",
       "scrape_time": "18:24"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "NER की प्रियंका गोस्वामी को मिलेगा अर्जुन अवार्ड:रेस वॉकिंग गेम्स में ओलंपिक से एशियन गेम्स तक चमका नाम",
+      "summary": "पूर्वोत्तर रेलवे की महिला एथलीट प्रियंका गोस्वामी को प्रतिष्ठित अर्जुन अवार्ड के लिए चयनित किया गया है। उनकी इस उपलब्धि से पूर्वोत्तर रेलवे और गोरखपुर में खुशी का माहौल है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/priyanka-goswami-arjuna-award-ner-gorakhpur-athlete-race-walking-138768428.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/gifmagicsite-2026-08-19t021902855_1787086162.gif",
+      "scrape_date": "2026-08-18",
+      "scrape_time": "21:17"
     }
   ]
 }
