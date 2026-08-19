@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "article_count": 508,
-  "last_updated": "2026-08-19T00:36:01.472222",
+  "article_count": 523,
+  "last_updated": "2026-08-19T02:14:44.549270",
   "articles": [
     {
       "district": "Kushinagar",
@@ -5590,6 +5590,171 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/18/5bdf40e1-d948-46cd-864a-8bf5515c2cb7_1787020134410.jpg",
       "scrape_date": "2026-08-19",
       "scrape_time": "00:36"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "कुशीनगर में नहर की पटरी पर कच्ची सड़क बदहाल:ग्रामीणों ने जल्द निर्माण की मांग उठाई",
+      "summary": "नगर पंचायत फ़ाज़िलनगर के वार्ड संख्या 14 में नहर की पटरी पर बनी कच्ची सड़क बदहाल स्थिति में है। इससे स्थानीय निवासियों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/fazilnagar/news/fazilnagar-ward-14-kachchi-sadak-nirman-mang-nandlal-vidrohi-138769557.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/56ca6ea9-3871-4277-9260-4fafa80876c3_1787100661036.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "मलकौली में जर्जर सड़क से राहगीर परेशान:बारिश के बाद कीचड़ और गड्ढों से आवागमन बाधित",
+      "summary": "मलकौली गांव में सड़क की खराब हालत के कारण ग्रामीणों और राहगीरों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है। बारिश के बाद सड़क पर जगह-जगह पानी जमा हो गया है, जिससे पूरा रास्ता कीचड़ से भर गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/khoraram/news/malakauli-village-damaged-road-mud-potholes-rain-commute-trouble-138769568.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/f4ac3afb-ebf5-445a-a4e5-75be18d63073_1787020731420.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "महिला की शिकायत पर सीएम योगी का एक्शन:जनता दरबार में लेखपाल-कानूनगो को निलंबित करने के दिए निर्देश",
+      "summary": "देवरिया के बनकटा थाना क्षेत्र के ताला मठिया गांव की सुनीता कुमारी की शिकायत पर मुख्यमंत्री योगी आदित्यनाथ ने सख्त कार्रवाई के निर्देश दिए हैं। मंगलवार को गोरखपुर में आयोजित जनता दरबार में सुनीता ने अपने घर तक आने-जाने का रास्ता दबंगई के बल पर बंद किए जाने की शिकायत की थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-janta-darbar-yogi-adityanath-lekhpal-kanungo-suspended-138766984.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/18/gifmagicsite-2026-08-18t234612425_1787077128.gif",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "हरैया में मुख्य मार्ग जर्जर:राहगीरों को आवागमन में हो रही परेशानी",
+      "summary": "देवरिया के सदर ब्लॉक स्थित हरैया गांव का मुख्य मार्ग लंबे समय से जर्जर हालत में है। इससे ग्रामीणों और राहगीरों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/piprachandrabhan/news/deoria-haraiya-road-condition-problems-commuters-latest-update-138769478.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/fabadb09-7958-4c64-a65c-f0ce9989e2c5_1787031626311.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "रानीघाट गांव में बिजली व्यवस्था बदहाल:240 वोल्ट की सप्लाई बल्ली के सहारे, हादसे का खतरा",
+      "summary": "सदर ब्लॉक के रानीघाट गांव में बिजली व्यवस्था बदहाल है। यहां 240 वोल्ट की विद्युत सप्लाई के तार कई स्थानों पर लकड़ी की बल्लियों के सहारे चल रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/piprachandrabhan/news/ranighat-village-sadar-block-electricity-supply-danger-risk-138769541.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/c3eebf72-ee3d-48e1-baa5-53510b050c8f_1787016824239.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Women Welfare",
+      "headline": "42 गांवों में पहली महिला बनी PhD धारक:DDU में मिला 478 को डिग्री, जानिए खानदान बदलने वाली बेटियों- बहुओं की कहानी",
+      "summary": "दीन दयाल उपाध्याय गोरखपुर विश्वविद्यालय में मंगलवार को 478 पीएचडी स्कॉलर्स को डिग्री देखर सम्मानित किया गया। इस दौरान कई ऐसे भी शोधकर्ता सामने आईं, जिन्होंने अपने खानदान में पहली पीएचडी की उपाधि हासिल की है।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/ddu-gorakhpur-university-phd-convocation-women-success-story-138769210.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/gifmagicsite-2026-08-19t050726764_1787096272.gif",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Law & Order",
+      "headline": "रेलवे स्टेशन पर सुरक्षा को लेकर अलर्ट मोड में GRP:प्लेटफॉर्म पर निकले रेलवे SP ने परखी सुरक्षा व्यवस्था",
+      "summary": "गोरखपुर में पुलिस अधीक्षक रेलवे लक्ष्मी निवास मिश्र ने जीआरपी थाना गोरखपुर का वार्षिक निरीक्षण किया। निरीक्षण के दौरान पुलिस उपाधीक्षक रेलवे गोरखपुर अशोक कुमार सिंह भी मौजूद रहे।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-railway-sp-inspection-grp-police-security-update-138768395.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/whatsapp-image-2026-08-18-at-51452-pm_1787086822.jpeg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Sahjanwa",
+      "category": "Other",
+      "headline": "गोरखपुर में मिशन खिलखिलाहट, गंभीर कुपोषित बच्ची की दोबारा विजिट:सीडीपीओ ने सुपोषित बनाने का लिया संकल्प",
+      "summary": "गोरखपुर के सहजनवां ब्लॉक में 'मिशन खिलखिलाहट' के तहत गंभीर कुपोषित बच्चों को सुपोषित बनाने के प्रयास जारी हैं। इसी क्रम में बाल विकास परियोजना अधिकारी (CDPO) ऋचा पांडेय ने अपनी गोद ली हुई गंभीर कुपोषित (SAM) बच्ची वैभवी का मंगलवार को पुनः स्वास्थ्य एवं पोषण संबंधी निरीक्षण किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/sahjanwa/news/sahjanwa-mission-khilkhilahat-cdpo-richa-pandey-visit-nutrition-update-138769546.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/b42be456-0819-454b-896e-0021e1f0b7c2_1787100158090.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Political",
+      "headline": "गोरखपुर से हर हफ्ते दिल्ली के लिए चलेगी अमृत भारत:22 कोच वाली गाड़ी हर गुरुवार को चलेगी, जानें टाइमिंग",
+      "summary": "गोरखपुर से दिल्ली जाने वाले यात्रियों के लिए रेलवे ने बड़ी सुविधा शुरू करने का फैसला लिया है। रेलवे की ओर से गोरखपुर-दिल्ली के बीच चलने वाली विशेष ट्रेन को अब नियमित अमृत भारत साप्ताहिक एक्सप्रेस के रूप में संचालित किया जाएगा।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-delhi-amrit-bharat-express-weekly-train-schedule-138768390.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/images-7_1787086332.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "निहाल नितिन सिंह का भारत इलेक्ट्रॉनिक्स लिमिटेड में चयन:गोरखपुर के युवा ने अनुसंधान वैज्ञानिक पद पर पाई सफलता",
+      "summary": "गोरखपुर के निहाल नितिन सिंह का चयन भारत इलेक्ट्रॉनिक्स लिमिटेड (बीईएल) में अनुसंधान वैज्ञानिक एवं अनुसंधान स्टाफ सदस्य के पद पर हुआ है। कमला नेहरू इंस्टीट्यूट ऑफ टेक्नोलॉजी, सुल्तानपुर के कंप्यूटर साइंस के छात्र निहाल ने अपनी तकनीकी दक्षता और परिश्रम से यह उपलब्धि हासिल की है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/jagadishpur/news/nihal-nitin-singh-gorakhpur-research-scientist-bel-selection-138769538.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/0a379f23-1265-4d6b-a0aa-2de2774e8a44_1787075153754.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर मुठभेड़ में 15 हजार का इनामी गिरफ्तार:पैर में लगी गोली, पुलिस पर फायरिंग कर भाग रहा था बदमाश",
+      "summary": "गोरखपुर के खजनी थाना क्षेत्र में मंगलवार देर रात 3:20 बजे 15 हजार के इनामी बदमाश को पुलिस ने मुठभेड़ में गिरफ्तार कर लिया। पुलिस की जवाबी कार्रवाई में बदमाश के पैर में गोली लगी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-police-encounter-criminal-jitendra-paswan-arrest-138769492.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/gifmagicsite-2026-08-19t070016781_1787103038.gif",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "बैरिया में बाइक की टक्कर से बुजुर्ग कांवड़िया की मौत:सड़क पार करने के दौरान चपेट में आया, बाइक चालक की तलाश में जुटी पुलिस",
+      "summary": "बैरिया थाना क्षेत्र में मंगलवार को तेज रफ्तार बाइक की टक्कर से 55 वर्षीय कांवड़िए की मौत हो गई। हादसे के बाद बाइक सवार बाइक मौके पर छोड़कर फरार हो गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/murlichhapra/news/ballia-bairia-kanwariya-accident-death-bike-rider-absconding-138769594.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/dbbf9f01-5e7b-4b66-9264-46af6b52654f_1787100650388.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "बलिया में NH-31 जर्जर, गहरे गड्ढों से आवागमन बाधित:भरौली-गोविंदपुर खंड पर हजारों वाहन चालक परेशान",
+      "summary": "बलिया जिले में राष्ट्रीय राजमार्ग 31 (NH-31) की हालत बेहद खराब हो गई है। भरौली और गोविंदपुर गांवों के बीच सड़क पर गहरे गड्ढे बन गए हैं, जिससे हजारों वाहन चालकों और स्कूली बच्चों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/sohaon/news/ballia-nh31-bharauli-govindpur-road-condition-commuter-problem-138769630.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/3386890a-7966-4792-8adf-889a608ebaa5_1787044852266.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "चेयरमैन के आश्वासन के बाद भी नहीं बना रास्ता:बखिरा के तिलाठी मोहल्ले में कीचड़ से जूझ रहे लोग, दी धरने की चेतावनी",
+      "summary": "नगर पंचायत बाघनगर उर्फ बखिरा के तिलाठी मोहल्ले में कच्चे रास्ते का निर्माण चेयरमैन के आश्वासन के दो माह बाद भी शुरू नहीं हो सका है। बरसात के कारण रास्ते में कीचड़ और जलभराव की समस्या बनी हुई है, जिससे मोहल्लेवासियों को आवागमन में परेशानी हो रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/baghauli/news/bakhira-tilathi-mohalla-road-protest-chairman-amir-ansari-138769539.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/605c81e1-aaf7-4b4c-8cb1-9d75a3f8e3fd_1787098230711.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "न्यायालय के आदेश पर सड़क हादसे का मुकदमा दर्ज:बस्ती 22 मार्च को हुआ था हादसा, पुलिस से शिकायत के बाद भी नहीं हुई थी कार्रवाई",
+      "summary": "बस्ती के परसरामपुर थाना क्षेत्र में सड़क हादसे के एक पुराने मामले में पुलिस ने न्यायालय के आदेश पर संबंधित वाहन चालक के खिलाफ मुकदमा दर्ज किया है। ककरा खुर्द कला निवासी शिवकुमार की याचिका पर न्यायालय के निर्देश के बाद पुलिस ने मामले की विवेचना शुरू कर दी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/parsurampur/news/basti-parasrampur-road-accident-case-court-order-filing-fir-138769553.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/19/2d4e32dc-0f92-4ff7-a602-4957b7cec8fa_1787100632459.jpg",
+      "scrape_date": "2026-08-19",
+      "scrape_time": "02:14"
     }
   ]
 }
