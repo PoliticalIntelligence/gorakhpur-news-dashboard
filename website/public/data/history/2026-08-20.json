@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "article_count": 616,
-  "last_updated": "2026-08-20T04:30:15.262848",
+  "article_count": 640,
+  "last_updated": "2026-08-20T05:24:26.222356",
   "articles": [
     {
       "district": "Kushinagar",
@@ -6778,6 +6778,270 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/e31971ff-1739-4632-95c8-f2142c42cbc6_1787192278397.jpg",
       "scrape_date": "2026-08-20",
       "scrape_time": "04:30"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Ramkola",
+      "category": "Health",
+      "headline": "रामकोला सीएचसी में 5 संविदा कर्मचारी अनुपस्थित:ज्वाइंट मजिस्ट्रेट ने सफाई व्यवस्था पर जताई नाराजगी",
+      "summary": "कुशीनगर के ज्वाइंट मजिस्ट्रेट एवं खंड विकास अधिकारी मयंक त्रिपाठी ने बुधवार को सामुदायिक स्वास्थ्य केंद्र (सीएचसी) रामकोला का औचक निरीक्षण किया। इस दौरान उन्हें अस्पताल परिसर में साफ-सफाई की व्यवस्था संतोषजनक नहीं मिली, जिस पर उन्होंने गहरी नाराजगी व्यक्त की और तत्काल सुधार के निर्देश दिए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/ramkola/news/ramkola-chc-visit-joint-magistrate-mayank-tripathi-inspection-138780085.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/b4252006-85f8-49e2-bb3c-7d2fc01172b8_1787194446378.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "भानपुर-अशोक विद्या पीठ मार्ग का निर्माण शुरू:दैनिक भास्कर में खबर छपने के बाद मरम्मत कार्य प्रारंभ",
+      "summary": "कुशीनगर में दैनिक भास्कर में 30 जुलाई 2026 को प्रकाशित खबर का असर अब भानपुर-अशोक विद्या पीठ इंटर कॉलेज मार्ग पर दिखाई देने लगा है। जर्जर सड़क की समस्या को लेकर छपी खबर के बाद, सड़क की मरम्मत का कार्य शुरू कर दिया गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/koilaswabuzurg/news/bhanpur-ashok-vidya-peeth-road-repair-bhaskar-impact-138780105.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/1806ede7-787a-4a5d-bfda-0f930fee1529_1787194759078.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "देवरिया के मलकौली गांव में रास्ता बदहाल:ग्रामीणों को आवागमन में हो रही भारी परेशानी",
+      "summary": "देवरिया के मलकौली गांव में ग्रामीणों को आवागमन के लिए बदहाल रास्ते से होकर गुजरना पड़ रहा है। गांव के भीतर जाने वाला यह कच्चा मार्ग जगह-जगह गड्ढों और उबड़-खाबड़ होने के कारण लोगों के लिए बड़ी समस्या बन गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/khoraram/news/malakauli-gaon-road-problem-villagers-struggle-news-138780127.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/62ea0633-07b2-4f1a-96f0-16465a55dd58_1787192838026.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "बैतालपुर वार्ड 12 में आवारा कुत्तों का आतंक:दो बकरियों को उठा ले गए, ग्रामीणों में दहशत",
+      "summary": "देवरिया जिले के नगर पंचायत बैतालपुर स्थित वार्ड नंबर 12 (जयप्रकाश नगर) में आवारा कुत्तों के आतंक से स्थानीय निवासी भयभीत हैं। क्षेत्र में 10 से अधिक आवारा कुत्तों का झुंड घूमता नजर आ रहा है, जिससे इलाके में दहशत का माहौल है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/baitalpur/news/deoria-baitalpur-stray-dogs-attack-goats-menace-cctv-footage-138780055.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/5fcbc7f9-b149-465a-801d-24cf46b86627_1787192262366.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "देवरिया के कई गांवों में सफाईकर्मी अनुपस्थित, स्वच्छता व्यवस्था बदहाल:नियुक्ति के बावजूद नियमित उपस्थिति नहीं, ग्रामीण परेशान",
+      "summary": "देवरिया के कई गांवों में स्वच्छता व्यवस्था बदहाल है। सफाईकर्मियों की नियुक्ति के बावजूद वे नियमित रूप से अपने तैनाती वाले गांवों में नहीं पहुंच रहे हैं, जिससे नालियों में गंदगी जमा हो रही है और ग्रामीणों को परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/deoriaurfshampur/news/salempur-block-cleanliness-crisis-safai-karmi-absenteeism-in-villages-138780206.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/4adc9a4a-7577-44ed-8d89-26ed091d829d_1787196104875.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "कौड़ीराम में 50 फैमिली आईडी कार्ड वितरित:विधायक विपिन सिंह बोले, हर परिवार को मिलेगी पहचान",
+      "summary": "गोरखपुर के कौड़ीराम ब्लाक परिसर में बुधवार को फैमिली आईडी कार्ड वितरण कार्यक्रम आयोजित किया गया। गोरखपुर ग्रामीण विधायक विपिन कुमार सिंह ने मुख्य अतिथि के रूप में विभिन्न ग्राम पंचायतों के 50 लाभार्थियों को फैमिली आईडी कार्ड वितरित किए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/kauriram/news/kaudiram-gorakhpur-family-id-card-distribution-vipin-singh-news-138780089.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/1DAFA3AE-AEFB-4559-A18A-EB3FE2B2A961_1787194540517.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Bansgaon",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में चलती नई बाइक में लगी भीषण आग, VIDEO:अचानक निकलने लगा धुआं, मां और बच्चे समेत तीन लोग बाल-बाल बचे",
+      "summary": "गोरखपुर में उनवल-गोरखपुर मुख्य मार्ग पर बुधवार रात जरलही गांव के पास एक चलती नई बाइक में अचानक भीषण आग लग गई। बाइक पर बांसगांव ब्लॉक की ग्राम सभा गोरशैरा निवासी विपिन अपनी मां और एक बच्चे के साथ सवार थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bansgaon/news/gorakhpur-bike-fire-accident-video-unwal-jaralhi-road-138780124.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/e6684608-d5ef-40e0-a502-a01e7146fce1_1787195265611.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "डाड़ी रावत-सरसोपार मार्ग जगह-जगह टूटा:राहगीरों को आवागमन में हो रही भारी परेशानी",
+      "summary": "बांसगांव: डाड़ी रावत से सर्सोपार को जोड़ने वाली सड़क की हालत इन दिनों बेहद खराब हो गई है। यह मार्ग जगह-जगह से टूट गया है और बड़े-बड़े गड्ढों में तब्दील हो गया है, जिससे राहगीरों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bhuswalbuzurg/news/bansgaon-dadi-rawat-sarsopar-road-damaged-condition-news-138780363.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/c0ffc90b-8d31-4f3b-935a-7b9b482e8499_1787196498330.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Mau",
+      "assembly": "District News",
+      "category": "Agriculture",
+      "headline": "युवा किसान चिचिंडा की खेती से लाखों कमा रहे:मऊ में एक ही लागत में तीन फसलें उगाकर बढ़ा रहे आमदनी",
+      "summary": "मऊ जिले के भातकोल क्षेत्र के युवा किसान आमीर अहमद ने खेती को अपना पेशा बनाकर लाखों का मुनाफा कमाया है। इंटरमीडिएट की पढ़ाई के बाद उन्होंने नौकरी के बजाय खेती को रोजगार का माध्यम चुना।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/news/mau-farmer-aamir-ahmad-triple-crop-farming-income-success-138780249.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/39ef93ce-0212-4121-af0e-fcd4f768a39a_1787196840379.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में चार बदमाश गिरफ्तार:चोरी के जेवरात, नकदी, तमंचे और कार बरामद",
+      "summary": "अपराधियों के खिलाफ चलाए जा रहे अभियान के तहत अहरौला और तहबरपुर पुलिस ने गुरुवार तड़के दो अलग-अलग मुठभेड़ों में अंतर्जनपदीय चोर गिरोह के चार सदस्यों को गिरफ्तार किया। पुलिस की जवाबी फायरिंग में चारों बदमाशों के पैर में गोली लगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-police-encounter-arrest-criminal-gang-xuv-recovery-138780220.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/1000028204_1787201507.gif",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Bansdih",
+      "category": "Political",
+      "headline": "सरयू खतरे के निशान से 39 सेमी ऊपर:बांसडीह में बढ़ा कटान का खतरा, भोजपुरवा पहुंचकर SDM ने परखी स्थिति",
+      "summary": "बांसडीह में सरयू नदी का जलस्तर लगातार बढ़ने से तटवर्ती गांवों में चिंता बढ़ गई है। नदी खतरा बिंदु को पार कर चुकी है और तेज बहाव के कारण कटान का खतरा भी मंडरा रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/bansdih/news/bansdih-saryu-river-flood-danger-sdm-visit-uttar-pradesh-138780063.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/aa9c2bbe-fed2-4ba4-800e-d55a006f4f51_1787195991607.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "अंधारीपुर में चार साल से जलजमाव:घुटनों तक पानी, ग्रामीणों ने चंदा जुटाकर शुरू की मरम्मत",
+      "summary": "जमानियां के अंधारीपुर गांव का प्रमुख मार्ग पिछले चार वर्षों से कीचड़ और जलजमाव की समस्या से जूझ रहा है। बारिश के दिनों में स्थिति और बदतर हो जाती है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/zamania/news/andharipur-zamania-road-waterlogging-repair-villagers-protest-138780250.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/7f25f650-a459-41cc-becd-31fbb51a226b_1787196523357.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "40 घरों में घुसा बारिश का पानी:पोखरी पाटकर बनाए खड़ंजे से जल निकासी बाधित",
+      "summary": "खानपुर क्षेत्र की ग्राम पंचायत जमीन संदल में जल निकासी बाधित होने से ग्रामीणों को भारी परेशानी का सामना करना पड़ रहा है। प्राकृतिक जल निकासी मार्ग और एक सामाजिक पोखरी को पाटकर बनाए गए खड़ंजे के कारण बारिश का पानी करीब 40 घरों में घुस गया है, जिससे गांव में जलभराव और बाढ़ जैसी स्थिति उत्पन्न हो गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/khanpur/news/khanpur-zameen-sandal-pond-encroachment-rain-water-logging-issue-138780309.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/433ee428-ec12-4733-b090-d90d9fc91d18_1787198527897.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Zamania",
+      "category": "Utilities",
+      "headline": "सेवराई के लहना गांव में जर्जर बिजली तार से परेशानी:ग्रामीणों में आक्रोश, हादसे का खतरा; विभाग से समाधान की मांग",
+      "summary": "सेवराई तहसील के लहना गांव में जर्जर बिजली के तारों से विद्युत आपूर्ति की जा रही है, जिससे ग्रामीणों में बड़े हादसे का डर बना हुआ है। गांव के कई हिस्सों में बिजली के तार पुराने और कमजोर हो चुके हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/sevrai/news/sevarai-lehana-village-electricity-wire-danger-outrage-138780176.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/94b2d37b-5f9d-4d3f-9e25-6839d3c86580_1787196963404.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "दिलदारनगर 11 ने जीता मानसून वॉरियर कप:मास्टर 11 को हराकर फाइनल मुकाबला अपने नाम किया",
+      "summary": "रेवतीपुर के ग्रीन पार्क स्टेडियम में मानसून वॉरियर कप क्रिकेट प्रतियोगिता का फाइनल मुकाबला दिलदारनगर 11 ने जीत लिया है। टीम ने रोमांचक मुकाबले में मास्टर 11 रेवतीपुर को हराकर यह खिताब अपने नाम किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/reotipur/news/dildarnagar-11-wins-monsoon-warrior-cup-revatipur-cricket-final-138780239.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/eacb83e4-6e2c-403a-8c1a-e53df5e0b704_1787197380056.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "जर्जर सड़क से, आवागमन मुश्किल:होम्योपैथिक अस्पताल के सामने की सड़क से मरीज-छात्र परेशान",
+      "summary": "रेवतीपुर क्षेत्र के नौली गांव में होम्योपैथिक अस्पताल के सामने की सड़क लंबे समय से जर्जर हालत में है। इस सड़क पर जगह-जगह गहरे गड्ढे बन गए हैं, जिससे अस्पताल आने वाले मरीजों, स्कूल के छात्र-छात्राओं और स्थानीय ग्रामीणों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/nauli/news/revatipur-nauli-homeopathic-hospital-road-damaged-public-problem-138780314.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/c1765a9b-110c-4955-a6ac-86d80e20b4de_1787198456933.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "जहदा PHC में बुनियादी सुविधाओं का अभाव:पेयजल, बाउंड्रीवॉल न होने से मरीज परेशान",
+      "summary": "प्राथमिक स्वास्थ्य केंद्र (पीएचसी) जहदा बुनियादी सुविधाओं के अभाव से जूझ रहा है। यहां पेयजल की व्यवस्था न होने, बाउंड्रीवॉल न होने और परिसर में गंदगी फैलने से मरीजों और उनके तीमारदारों को परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/sabaya/news/jahada-phc-health-center-water-crisis-lack-facilities-news-138780101.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/23e251f1-20fd-4da4-8968-d8351589286a_1787194431155.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "जर्जर सड़क पर गहरे गड्ढे, हादसे बढ़े:सिसवा-निचलौल मार्ग से रामगढ़वा जाने वाले छात्र-राहगीर परेशान",
+      "summary": "सिसवा-निचलौल मुख्य मार्ग पर सबया से फायर ब्रिगेड होते हुए रामगढ़वा जाने वाली ग्रामीण सड़क बुरी तरह क्षतिग्रस्त हो गई है। सड़क पर बने गहरे गड्ढों के कारण राहगीर और स्कूली छात्र आए दिन दुर्घटनाओं का शिकार हो रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/sabaya/news/siswa-nichlaul-ramgarhwa-road-condition-accident-news-138780361.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/a5c8915c-6174-42a3-b91c-a918ae150468_1787196341271.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "महराजगंज के बड़हरामीर में सड़क जर्जर, जलजमाव से ग्रामीण परेशान:जिलाधिकारी से समस्या के समाधान की मांग की",
+      "summary": "महराजगंज के विकासखंड मिठौरा क्षेत्र की ग्रामसभा बड़हरामीर में सड़क की जर्जर हालत और जलजमाव से ग्रामीण परेशान हैं। बुधवार को ग्रामीणों ने जिलाधिकारी को प्रार्थना पत्र देकर इस समस्या के स्थायी समाधान की मांग की है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/mithaura/news/badharamir-mithaura-road-condition-dm-complaint-water-logging-update-138780211.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/0ef0ad51-984b-4de7-9ea7-9157c70cc447_1787196067693.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "पिपरा काजी-भैंस चौबे मार्ग पर कांटेदार झाड़ियां बनीं मुसीबत:राहगीर और स्कूली बच्चे हो रहे घायल, सफाई की मांग",
+      "summary": "बस्ती जिले के कप्तानगंज विधानसभा क्षेत्र में पिपरा काजी-भैंस चौबे मार्ग राहगीरों के लिए परेशानी का सबब बन गया है। वर्षों पुराना यह खड़ंजा मार्ग अब दोनों ओर उगी कांटेदार झाड़ियों से घिरा है, जिससे आवागमन मुश्किल हो गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/dubaulia/news/basti-pipra-kazi-bhais-chaube-road-thorny-bushes-problem-school-kids-138780083.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/0d9e7ad1-36c2-48c3-af35-e285a5225574_1787194007513.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "सरयू नदी खतरे के निशान से ऊपर:बस्ती के दुबौलिया में कई गांव बाढ़ की चपेट में",
+      "summary": "बस्ती जिले के दुबौलिया क्षेत्र में सरयू (घाघरा) नदी का जलस्तर खतरे के निशान से ऊपर पहुंच गया है। उत्तर प्रदेश सिंचाई एवं जल संसाधन विभाग के अनुसार, 20 अगस्त 2026 को अयोध्या (फैजाबाद) में नदी का जलस्तर 93.1 मीटर दर्ज किया गया, जो खतरे के निशान 92.73 मीटर से अधिक है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/dubaulia/news/basti-dubaulya-flood-saryu-river-danger-mark-update-138780200.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/ebd12778-9777-401b-aa6d-5077c649f32e_1787195846351.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "बस्ती के बसंतपुर में शिवलिंग की स्थापना:बुधवार को हुआ भव्य आयोजन, हजारों श्रद्धालुओं ने ग्रहण किया प्रसाद",
+      "summary": "बस्ती जिले के ग्राम बसंतपुर, पोस्ट हरिवंशपुर बुजुर्ग में बुधवार को शिवलिंग की स्थापना की गई। इस अवसर पर एक भव्य धार्मिक आयोजन संपन्न हुआ, जिसमें क्षेत्र में हर-हर महादेव के जयकारे गूंज उठे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/kaptanganj/news/basti-basantpur-shivling-sthapana-bhandara-religious-event-138780359.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/ef234d97-6218-4743-98f2-69e2cdfe5e4d_1787196221307.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Basti",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "बस्ती में देवताओं पर अभद्र टिप्पणी पर केस:आरोपी जेशान अहमद समेत दो अज्ञात पर हिंदू संगठनों ने कराई FIR",
+      "summary": "बस्ती में सोशल मीडिया पर कथित तौर पर धार्मिक भावनाएं आहत करने वाली वीडियो पोस्ट करने के आरोप में मुकदमा दर्ज किया गया है। विश्व हिंदू महासंघ नगर इकाई से जुड़े अशोक वर्मा की तहरीर पर नगर पुलिस ने जेशान अहमद समेत दो अज्ञात लोगों के खिलाफ मामला दर्ज किया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/basti-fir-jeshan-ahmed-controversy-social-media-video-case-138780075.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/ecf58500-1431-47bb-ae93-5839b5abe2b4_1787197455046.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Basti Sadar",
+      "category": "Infrastructure",
+      "headline": "महादेवा चौराहे पर आवारा पशुओं से दुर्घटना का खतरा:वाहन चालकों और पैदल राहगीरों को परेशानी, स्थानीय लोगों ने की कार्रवाई की मांग",
+      "summary": "बस्ती के बनकटी विकासखंड के महादेवा चौराहे पर आवारा पशुओं की बढ़ती संख्या राहगीरों के लिए समस्या बन गई है। सड़क पर दर्जनों की संख्या में ये पशु खुलेआम घूमते और झुंड बनाकर चलते दिखाई दे रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/bankati/news/banakati-mahadeva-chauraha-stray-cattle-accident-risk-news-138780091.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/fd766489-4c54-4536-b4b2-708f06bb557c_1787194018740.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "05:24"
     }
   ]
 }
