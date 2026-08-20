@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "article_count": 571,
-  "last_updated": "2026-08-20T02:14:52.935257",
+  "article_count": 596,
+  "last_updated": "2026-08-20T03:41:29.132335",
   "articles": [
     {
       "district": "Kushinagar",
@@ -6283,6 +6283,281 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/18066555-fc8f-4e7e-b7a1-ed3d60ba8d1f_1787158691214.jpg",
       "scrape_date": "2026-08-20",
       "scrape_time": "02:14"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Ramkola",
+      "category": "Utilities",
+      "headline": "रामकोला वार्ड 1 में जर्जर तार-पोल से खतरा:सभासद ने जिलाधिकारी से बदलने की मांग की",
+      "summary": "कुशीनगर के रामकोला आदर्श नगर पंचायत के वार्ड नंबर एक अंबेडकर नगर में जर्जर बिजली के तार और पोल निवासियों के लिए खतरा बने हुए हैं। तारों के बार-बार टूटकर गिरने से किसी बड़े हादसे की आशंका बनी हुई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/ramkola/news/kushinagar-ramkola-ward-damaged-electric-poles-wires-complaint-138779533.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/635ad93c-2286-44c8-b957-ac75a273f712_1787188844825.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "कुशीनगर के विशुनपुरा में 2 KM सड़क बदहाल:ग्रामीण आक्रोशित, निर्माण न होने पर आंदोलन की चेतावनी",
+      "summary": "कुशीनगर के फाजिलनगर विकासखंड के ग्राम विशुनपुरा में मुरेड़ा मुगलही को जोकवा-सोनबरसा मार्ग से जोड़ने वाली लगभग दो किलोमीटर लंबी सड़क वर्षों से बदहाल है। सड़क की खराब स्थिति के कारण ग्रामीणों और राहगीरों को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/fazilnagar/news/kushinagar-vishunpura-road-protest-villagers-warning-badhal-sadak-138779773.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/49965e52-6cf5-4b1a-a850-c25858ad3231_1787131181661.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "स्वास्थ्य उपकेंद्र की सरकारी जमीन पर अतिक्रमण:देवरिया में मरीजों और एम्बुलेंस का रास्ता बाधित",
+      "summary": "देवरिया के भटनी क्षेत्र के बलुआ अफगान स्थित स्वास्थ्य उपकेंद्र की सरकारी भूमि पर अवैध अतिक्रमण का मामला सामने आया है। इस अतिक्रमण के कारण उपकेंद्र परिसर और उसके मुख्य मार्ग पर मरीजों तथा एम्बुलेंस जैसी आपातकालीन सेवाओं के आवागमन में गंभीर दिक्कतें आ रही हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/baluaafgan/news/bhatni-health-sub-center-balua-afghan-encroachment-ambulances-blocked-138779611.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/e74a046e-7771-4ce1-9f8c-a4deae6704a4_1786935781117.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "प्रसव के दौरान महिला की मौत, लापरवाही का आरोप:देवरिया मेडिकल कॉलेज में तोड़ा दम, इंजेक्शन लगाते ही हालत बिगड़ी",
+      "summary": "देवरिया के में प्रसव के दौरान महिला की मौत हो गई। परिजनों ने स्वास्थ्यकर्मियों पर इलाज में लापरवाही का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-medical-college-delivery-death-negligence-allegation-138779469.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/f866e023-4ef9-4f59-b79b-1e3da142d584_1787189977118.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "शादी का झांसा देकर युवती के यौन शोषण का आरोप:देवरिया में युवक पर पॉक्सो एक्ट में FIR; दो साल तक संबंध बनाने का दावा",
+      "summary": "देवरिया के खुखुंदू थाना क्षेत्र में शादी का झांसा देकर युवती के यौन शोषण का मामला सामने आया है। पीड़िता की मां ने आरोप लगाया कि सदर कोतवाली क्षेत्र के घटैली चेती निवासी सौरभ गौतम ने करीब दो साल तक उसकी बेटी का यौन शोषण किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-pocso-case-sexual-assault-khukhundu-saurabh-gautam-138779789.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/552d1295-1599-4c5d-ac56-f8b81536d12a_1787193738735.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Governance",
+      "headline": "कारकोल सचिवालय, लेखपाल अक्सर अनुपस्थित:राजस्व कार्यों के लिए भटकते ग्रामीण, SDM ने जांच का आश्वासन दिया",
+      "summary": "देवरिया के ग्राम सभा कारकोल स्थित ग्राम सचिवालय में मंगलवार दोपहर करीब 12:30 बजे लेखपाल सिद्धार्थ गौतम के अनुपस्थित मिलने से ग्रामीणों में नाराजगी देखने को मिली। ग्रामीणों का आरोप है कि लेखपाल नियमित रूप से ग्राम सचिवालय में उपस्थित नहीं होते हैं, जिसके कारण राजस्व संबंधी कार्यों के लिए लोगों को परेशानी उठानी पड़ रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/pachladi/news/deoria-karkol-lekhpal-absent-sdm-investigation-revenue-complaint-138779430.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/7521236e-2d14-4db7-8829-bdf74cea737c_1787187126478.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में युवती को बहला-फुसलाकर ले जाने का आरोप:शादी का झांसा देकर ले जाने का मामला, गुलरिहा में FIR दर्ज",
+      "summary": "गोरखपुर के गुलरिहा थाना क्षेत्र में एक व्यक्ति ने अपनी 18 वर्षीय बेटी को शादी का झांसा देकर बहला-फुसलाकर ले जाने का आरोप लगाया है। पुलिस ने शिकायत के आधार पर प्राथमिकी दर्ज कर मामले की जांच शुरू कर दी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/sarahari/news/gorakhpur-gulriha-police-fir-shadi-jhansa-kidnapping-case-138779538.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/38c617bc-2ab7-4fd3-9f88-8cc7665deec9_1787188991231.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Other",
+      "headline": "गोरखपुर में कहीं धूप तो कहीं बादल:उमस से लोग परेशान, 22-23 अगस्त को तेज बारिश की संभावना, 90% तक रहेगी नमी",
+      "summary": "गोरखपुर में गुरुवार को सुबह से कुछ इलाकों में धूप निकली है, जबकि कई इलाकों में बादल छाये हैं। बादल छाये रहने से लोगों को गर्मी से थोड़ी राहत मिली, लेकिन उमस का असर बना है।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-railway-station-security-inspection-sp-lakshmi-niwas-mishra-138779711.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/gifmagicsite-2026-08-20t084137310_1787195507.gif",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Law & Order",
+      "headline": "हत्या कर 10वीं के छात्र का शव छिपाने का आरोप:गोरखपुर में नाराज भीड़ ने 6 घंटे सड़क पर हंगामा किया, 2 दोस्तों पर FIR",
+      "summary": "गोरखपुर राप्ती नदी में नहाने गए 10वीं के छात्र प्रिंस कुमार (16) के लापता होने के बाद बुधवार को पथरा में जमकर हंगामा हुआ। छात्र के परिजन ने उसके साथ गए दो दोस्तों पर हत्या कर शव छिपाने के लिए नदी में फेंकने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-student-murder-protest-rapti-river-fir-accused-friends-138779725.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/gifmagicsite-2026-08-20t083104563_1787194872.gif",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "सोनबरसा में 17 हैंडपंप खराब:28 लाख खर्च के बाद भी नहीं मिल रहा शुद्ध पानी, ग्रामीण बोले- कागजों में हुआ काम",
+      "summary": "मुरली छपरा विकासखंड की ग्राम पंचायत सोनबरसा में सरकारी हैंडपंपों पर 28 लाख रुपये खर्च किए जाने के बावजूद 17 हैंडपंप खराब पड़े हैं। इससे ग्रामीणों के सामने पेयजल संकट खड़ा हो गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/sonbarsa/news/sonbarsa-handpump-scam-water-crisis-murali-chhapra-investigation-138779699.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/f466ba0d-71f9-4d26-94f1-f824c1c10b09_1787194012236.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "खेजुरी सीएचसी में बनेगा बीपीएचयू:एक लाख आबादी को 73 तरह की जांच की सुविधा, सीएमओ ने किया निरीक्षण",
+      "summary": "शासन के निर्देश पर सामुदायिक स्वास्थ्य केंद्र (सीएचसी) खेजुरी में ब्लॉक पब्लिक हेल्थ यूनिट (बीपीएचयू) स्थापित करने की तैयारी शुरू हो गई है। इसके शुरू होने के बाद क्षेत्र की करीब एक लाख आबादी को स्थानीय स्तर पर अत्याधुनिक मशीनों से 73 प्रकार की स्वास्थ्य जांच की सुविधा मिल सकेगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/kharasara/news/khejuri-chc-block-public-health-unit-cmo-inspection-ballia-138779575.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/9492550e-9802-4430-bfa8-78dea9f1ef9d_1787190300919.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "नाबालिग को जिंदा जलाने के मामले में आरोपी को उम्रकैद:बलिया कोर्ट ने लगाया 80 हजार का जुर्माना, हत्या समेत तीन धाराओं में दोषी करार",
+      "summary": "बलिया में नाबालिग लड़की पर मिट्टी का तेल डालकर जलाने और इलाज के दौरान उसकी मौत के मामले में अदालत ने अभियुक्त कृष्णा गुप्ता को आजीवन कारावास की सजा सुनाई है। विशेष न्यायाधीश पॉक्सो एक्ट कोर्ट संख्या-8 ने आरोपी को हत्या समेत विभिन्न धाराओं में दोषी ठहराते हुए कुल 80 हजार रुपए का अर्थदंड भी लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/ballia-court-convicts-krishna-gupta-minor-girl-murder-case-138779547.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/78789d4e-7ba1-45d8-9def-2daaee5470bf_1787165348393.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "घाटों पर बढ़ रहा गंगा का पानी:ग्रामीणों में बाढ़ का भय, प्रशासन से तैयारी की मांग",
+      "summary": "मुरली छपरा विकास खंड क्षेत्र के दोकटी, शिवपुर और महुली सहित विभिन्न घाटों पर गंगा नदी का जलस्तर लगातार बढ़ रहा है। जलस्तर में इस वृद्धि के कारण ग्रामीणों में बाढ़ की आशंका और चिंता का माहौल है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/murlichhapra/news/murali-chhapra-ballia-ganga-river-water-level-rise-flood-alert-138779705.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/379e8fb4-6dfe-4fb5-bc9e-52b268bb6510_1787194341790.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "एक सप्ताह से बिजली गुल:मनिहारी के तरी जो में ट्रांसफार्मर जलने से ग्रामीण परेशान",
+      "summary": "मनिहारी क्षेत्र के तरी जो गांव में पिछले एक सप्ताह से अधिक समय से बिजली आपूर्ति बाधित है। यह गांव हंसराजपुर पावर हाउस के अडिला फीडर के अंतर्गत आता है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/surhurpurharicharan/news/manihari-tari-jo-village-power-outage-transformer-failure-update-138779534.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/db25a6f5-e643-4f2e-b743-7f3813fe6d63_1787189060758.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Mohammadabad",
+      "category": "Political",
+      "headline": "फरहान खान कांग्रेस रणनीतिक टीम में नियुक्त:नेतृत्व विकास मिशन की रणनीतिक टीम में मिली जगह",
+      "summary": "गाजीपुर के मुहम्मदाबाद के भट्टी मुहल्ला निवासी फरहान खान को कांग्रेस के अनुसूचित जाति विभाग में राष्ट्रीय स्तर की जिम्मेदारी दी गई है। उन्हें नेतृत्व विकास मिशन की रणनीतिक टीम का सदस्य नियुक्त किया गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/mohammadabad/news/farhan-khan-congress-leadership-development-mission-ghazipur-news-138779501.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/0769645f-41f2-4e5b-a1e7-0f924bac0a43_1787145558379.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "पीएम श्री स्कूल तक पहुंचना मुश्किल:नगसर नेवाजु राय में रास्ते में जलभराव और कीचड़, फिसलने के डर से सहमकर गुजर रहे बच्चे",
+      "summary": "नगसर नेवाजु राय गांव स्थित पीएम श्री विद्यालय तक जाने वाला रास्ता बारिश के बाद बदहाल हो गया है। मार्ग पर जगह-जगह जलभराव और कीचड़ जमा होने से स्कूल आने-जाने वाले छात्र-छात्राओं और ग्रामीणों को परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/nagar/news/nagsar-newaju-rai-pm-shri-school-road-waterlogging-mud-problem-138779530.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/61be38dc-3d57-452c-9bb0-9975df915234_1787188788539.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "गंगा-कर्मनाशा का जलस्तर बढ़ा, बाढ़ का खतरा:खेतों में घुसा पानी, फसलें प्रभावित; तटवर्ती गांवों में अलर्ट",
+      "summary": "बारा न्याय पंचायत क्षेत्र में गंगा और कर्मनाशा नदियों का जलस्तर लगातार बढ़ रहा है। इससे तटवर्ती इलाकों में बाढ़ का खतरा मंडराने लगा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/bara/news/bara-nyay-panchayat-flood-alert-ganga-karmanasha-river-crop-damage-138779647.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/f23d2bcf-0f3a-49f1-893d-4669d745f272_1787192565410.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गाजीपुर में बिजली चोरी पर छापा:मीटर बाईपास कर जला रहे थे बिजली, 7 लोगों पर FIR; 8 बड़े बकायेदारों के कनेक्शन काटे",
+      "summary": "गाजीपुर नगर और मोहम्मदाबाद में बिजली चोरी और बकाया वसूली के खिलाफ बुधवार शाम विद्युत विभाग ने सघन चेकिंग अभियान चलाया। जिलाधिकारी के निर्देश पर की गई कार्रवाई में कई जगह मीटर बाईपास कर सीधे बिजली का इस्तेमाल पकड़ा गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/news/ghazipur-mohammadabad-electricity-theft-raid-fir-bijli-chori-138779730.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/cac7ed89-4387-4ea2-97ef-a235e5c7e411_1787194532430.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "महराजगंज के सिंदुरिया-निचलौल मार्ग पर जलभराव:राहगीरों और स्कूली बच्चों को आवागमन में परेशानी",
+      "summary": "महराजगंज के विकासखंड मिठौरा क्षेत्र की ग्रामसभा सिंदुरिया में सिंदुरिया-निचलौल मार्ग से परसामीर सड़क टोला जाने वाले मार्ग पर जलभराव की समस्या से राहगीरों को भारी परेशानी का सामना करना पड़ रहा है। यह मार्ग सड़क टोला गांव से होते हुए सोनवल तक जाता है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/mithaura/news/maharajganj-sinduria-nichlaul-road-waterlogging-public-problem-138779480.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/aacc3b49-202d-4b2b-8578-68aeecd8e6a2_1787188578629.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "महराजगंज के इटहिया मंदिर क्षेत्र की सड़कें बदहाल:श्रद्धालुओं, ग्रामीणों को आवागमन में परेशानी",
+      "summary": "महराजगंज में प्रसिद्ध तीर्थ स्थल मिनी बाबा धाम इटहिया के आसपास के गांवों की सड़कें बदहाल हैं। इन सड़कों की खराब स्थिति के कारण स्थानीय ग्रामीणों और मंदिर आने वाले श्रद्धालुओं को आवागमन में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/bahuar/news/itahiya-temple-roads-badhal-villagers-pilgrims-transport-problems-138779754.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/b259b40a-82b8-47d1-bfbc-5589eb31a06e_1787159480486.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "संतकबीरनगर का मजदूर 23 साल तक बंधक रहा:मुजफ्फरनगर की डेयरी में काम कराया, अब घर लौटा, परिवार में खुशी",
+      "summary": "जिले के युवक को मुजफ्फरनगर में एक मजदूर को कथित तौर पर 23 वर्षों तक बंधक बनाकर मजदूरी कराने का गंभीर मामला सामने आया है। बघौली ब्लाक क्षेत्र के लेडुआ गांव निवासी रामनयन उर्फ रामू पुत्र रामलाल को चरधावल क्षेत्र की एक डेयरी में वर्षों तक काम कराया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/santkabirnagar-laborer-rescued-muzaffarnagar-dairy-bondage-case-138779683.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/4341cd88-e817-43e3-a018-0c03bf9f814e_1787185280449.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "मंगलम बाबा धाम के सामने पोखरे में कूड़े का अंबार:संतकबीर नगर ईओ के निगरानी पर सवाल, जलाशय बचाने के सरकारी दावे फेल",
+      "summary": "जिले के मेंहदावल नगर पंचायत के मोहल्ला टडवरियां में स्थित नगर के सबसे बड़े पोखरे को कूड़ा डंपिंग स्थल बनाए जाने का मामला सामने आया है। घनी आबादी के बीच इस जलाशय में कूड़ा-कचरा डाले जाने से स्थानीय निवासियों में नाराजगी है और नगर पंचायत के अधिशासी अधिकारी (ईओ) की कार्यप्रणाली पर सवाल उठ रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/mehdawal-nagar-panchayat-pond-garbage-dumping-controversy-eo-news-138779681.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/29cb8497-b3c7-4d2a-8275-46be62580365_1787184711314.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "30 से अधिक घरों में घुसा बाढ़ का पानी:अर्जुनपुर में ग्रामीण टूटी नाव के सहारे बाहर निकल रहे, 4 दिन से फंसे",
+      "summary": "बस्ती के विकासखंड विक्रमजोत के अंतर्गत ग्राम पंचायत सिसकहा पाण्डेय के राजस्व गांव अर्जुनपुर में 30 से अधिक घर बाढ़ की चपेट में हैं। चार दिन पहले अचानक बंधा टूटने से इन घरों के चारों ओर पानी भर गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/bihra/news/arjunpur-basti-flood-crisis-villagers-stranded-boat-rescue-138779830.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/9829a989-f084-4b84-8270-ae07fe1c51d2_1787147806526.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "बस्ती में स्वास्थ्य विभाग की पहल:कटरिया-चांदपुर तटबंध पर बाढ़ प्रभावितों को स्वास्थ्य सलाह",
+      "summary": "बस्ती जिले में कटरिया-चांदपुर तटबंध के पास, कटरिया गांव से सुविकाबाबू जाने वाले मार्ग पर सामुदायिक स्वास्थ्य केंद्र दुबौलिया की एक टीम ने बाढ़ प्रभावित क्षेत्रों का दौरा किया। टीम ने ग्रामीणों का हाल जाना और उन्हें स्वास्थ्य संबंधी महत्वपूर्ण सलाह दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/bihra/news/basti-katariya-chandpur-flood-affected-health-checkup-visit-138779784.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/8a03f1ff-3e46-4a63-8946-84adb1b41f2d_1787156285007.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गोशाला से बिना कागजात गोवंश ले जाते डीसीएम पकड़ा:हिंदू संगठनों ने पीछा कर पकड़ा, एक गोवंश मृत मिला, चालक नशे में था",
+      "summary": "बस्ती में बुधवार रात छावनी क्षेत्र में हिंदू संगठनों के सदस्यों और संतों ने गोवंश से लदे एक डीसीएम को खतम सराय चौराहे के पास रोका। वाहन में 10 गोवंश थे, जिनमें से एक की मौत हो चुकी थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/vikramjot/news/chhawani-basti-cow-smuggling-dcm-truck-caught-hindu-groups-138779748.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/CAED1BED-00D6-4B6E-8B9C-9302F266FCCB_1787189106071.jpg",
+      "scrape_date": "2026-08-20",
+      "scrape_time": "03:41"
     }
   ]
 }
