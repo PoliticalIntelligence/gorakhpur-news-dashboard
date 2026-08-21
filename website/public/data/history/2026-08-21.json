@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "article_count": 1065,
-  "last_updated": "2026-08-21T17:23:12.004395",
+  "article_count": 1066,
+  "last_updated": "2026-08-21T18:25:07.476666",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11717,6 +11717,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/9ccf312f-b93e-4810-be58-86eea38e2482_1787326022912.jpg",
       "scrape_date": "2026-08-21",
       "scrape_time": "17:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "हरनही चौराहे पर 33 हजार वोल्ट का तार टूटा:कई घरों के उपकरण क्षतिग्रस्त",
+      "summary": "सलेमपुर से प्यासी जाने वाले मार्ग पर हरनही चौराहे के पास 33 हजार वोल्ट का विद्युत तार टूटकर सड़क पर गिर गया। इस घटना से आसपास के कई घरों में पंखे, बल्ब, टीवी सहित अन्य विद्युत एवं इलेक्ट्रॉनिक उपकरण क्षतिग्रस्त हो गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/barsipar/news/salempur-harnahi-electric-wire-break-damage-household-appliances-138795944.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/f4dabde6-b83c-43c8-825c-68663132e00d_1787330133216.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "18:25"
     }
   ]
 }
