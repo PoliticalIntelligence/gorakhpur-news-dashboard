@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "article_count": 527,
-  "last_updated": "2026-08-21T00:38:10.288544",
+  "article_count": 535,
+  "last_updated": "2026-08-21T02:20:15.348935",
   "articles": [
     {
       "district": "Kushinagar",
@@ -5799,6 +5799,94 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/974b5f8a-9288-4669-bbf8-c86efc6791a9_1787231460809.jpg",
       "scrape_date": "2026-08-21",
       "scrape_time": "00:38"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "घर में विशालकाय कोबरा निकला:परिवार सहमा, 'विशाल स्नैकर' ने चंद मिनटों में किया रेस्क्यू",
+      "summary": "सुकरौली में दैनिक भास्कर रिपोर्टर दुर्गेश बहादुर यादव के गांव स्थित घर में बृहस्पतिवार रात करीब 10 बजे एक विशालकाय कोबरा सांप निकलने से परिवार में हड़कंप मच गया। सांप को देखकर परिवार के सदस्य घबरा गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/sukrauli/news/sukrauli-cobra-snake-rescue-vishal-snaker-dainik-bhaskar-news-138789221.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/6a2ffd62-8c0d-45f3-b3ff-3464bcc33fc5_1787256575683.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "गोरखपुर में रक्षाबंधन पर छाया जयपुरिया कलेक्शन:ज्वेलर्स बोले- लाइट वेटेड फैंसी सिल्वर राखियां कस्टमर्स की पसंद",
+      "summary": "गोरखपुर में रक्षाबंधन नजदीक आते ही राखियों की खरीदारी तेज हो गई है। सिल्वर और गोल्ड की राखी खरीदने के लिए ज्वेलरी शॉप पर खरीदारों की भीड़ लगनी शुरू हो गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-rakshabandhan-silver-gold-rakhi-jaipuriya-collection-138787738.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/gifmagicsite-2026-08-21t002418940_1787252075.gif",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "दहेज के लिए विवाहिता को प्रताड़ित करने का आरोप:गोरखपुर में एक लाख रुपये की मांग को लेकर मारपीट, पति समेत सात पर केस",
+      "summary": "गोरखपुर के खजनी थाना क्षेत्र के पल्हीपार बाबू गांव निवासी विवाहिता रुखसाना ने अपने ससुराल वालों पर दहेज के लिए लगातार प्रताड़ित करने, मारपीट करने और घर से निकालने का आरोप लगाया है। महिला की तहरीर पर खजनी पुलिस ने पति, सास-ससुर समेत सात लोगों के खिलाफ मुकदमा दर्ज कर जांच शुरू कर दी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/khajni/news/gorakhpur-dowry-case-woman-harassment-husband-police-complaint-138789310.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/e133b0d3-d2a3-4dad-8883-c5a176782b28_1787248221231.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में नाले के ऊपर बने मकानों पर उठे सवाल:150 कर्मचारियों ने स्लैब काटकर निकाला गया 40 ट्राली मलबा, मकान मालिक को नोटिस",
+      "summary": "गोरखपुर के डोमिनगढ़ नाले की सफाई का काम गुरुवार को चौथे दिन भी जारी रहा। सावित्री अस्पताल पुलिया के पास करीब 50 मीटर हिस्से में नाले की तल्ली झाड़ सफाई कर मलबा निकाला गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-domin-garh-drain-cleaning-operation-debris-removal-news-138787735.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/gifmagicsite-2026-08-20t223708951_1787245682.gif",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Political",
+      "headline": "गोरखपुर-मुंबई के बीच हर शुक्रवार को चलेगी अमृत भारत एक्सप्रेस:28 अगस्त से नियम लागू, बेलथरा स्टेशन पर दादर एक्सप्रेस का स्टॉपेज बढ़ा",
+      "summary": "गोरखपुर में रेल प्रशासन ने यात्रियों की सुविधा को ध्यान में रखते हुए गोरखपुर से बांद्रा टर्मिनस के बीच चलने वाली स्पेशल ट्रेन को नियमित अमृत भारत वीकली एक्सप्रेस के रूप में चलाने का फैसला किया है। इसके साथ ही दादर-गोरखपुर-दादर एक्सप्रेस का बेलथरा रोड स्टेशन पर स्टॉपेज भी दो मिनट बढ़ा दिया गया है।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-bandra-amrit-bharat-express-train-stoppage-belthara-road-138787727.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/20/a48a6575-7e81-4cf8-ae9d-339756b2e9251744004386451_1787242503.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Law & Order",
+      "headline": "ट्रक से भिड़ी काशी डिपो की बस, चालक की मौत:14 यात्री घायल, गोरखपुर-वाराणसी हाइवे पर हुआ भीषण सड़क हादसा",
+      "summary": "गोरखपुर के बेलीपार थानाक्षेत्र के बाघागाढ़ा में गोरखपुर-वाराणसी हाईवे पर गुरुवार देर रात हादसा हुआ। ट्रक के पीछे चल रही बस ने अचानक ट्रक में टक्कर मार दी, हादसे में बस चालक समेत 14 यात्री घायल हो गए।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-varanasi-highway-bus-truck-accident-driver-death-138789177.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/gifmagicsite-2026-08-21t065305561_1787275396.gif",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "बलिया के बैरिया में गंगा का जलस्तर बढ़ा:तेज धारा से निचले इलाकों में बाढ़ का खतरा",
+      "summary": "बलिया के बैरिया में गंगा नदी का जलस्तर तेजी से बढ़ रहा है, जिससे नदी की धारा भी काफी तेज हो गई है। बीटीएस बांध के नीचे रामपुर से लेकर जयप्रकाश नगर तक रातभर में पानी भरने की आशंका है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/murlichhapra/news/ballia-bairia-ganga-flood-alert-rampur-bajidpur-water-level-rise-138789302.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/8edc277a-c39a-40b1-ac92-816258f0e590_1787267528354.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "बस्ती साउघाट में रात को बिजली कटौती:भीषण गर्मी से लोग परेशान, जेई ने बताया वोल्टेज समस्या",
+      "summary": "बस्ती साउघाट के विभिन्न क्षेत्रों में रात के समय लगातार बिजली कटौती से जनता भीषण गर्मी और उमस से परेशान है। इस समस्या के कारण लोगों को भारी दिक्कतों का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/gandhariyafaij/news/basti-saughat-power-cut-voltage-issue-je-jaiprakash-statement-138789312.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/image-4_1787278132.png",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "02:20"
     }
   ]
 }
