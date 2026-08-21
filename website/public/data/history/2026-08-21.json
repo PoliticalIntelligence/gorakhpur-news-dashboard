@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "article_count": 1033,
-  "last_updated": "2026-08-21T16:23:46.064771",
+  "article_count": 1065,
+  "last_updated": "2026-08-21T17:23:12.004395",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11365,6 +11365,358 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/95D8F75F-558D-47EC-AC19-17E51F272314_1787315227931.jpg",
       "scrape_date": "2026-08-21",
       "scrape_time": "16:23"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Padrauna",
+      "category": "Law & Order",
+      "headline": "फर्जी पासपोर्ट मामले में आरोपी गिरफ्तार:पडरौना पुलिस ने लगातार दूसरे दिन की कार्रवाई",
+      "summary": "कुशीनगर में फर्जी पासपोर्ट बनवाने और जालसाजी के मामले में वांछित एक आरोपी को पडरौना कोतवाली पुलिस ने गिरफ्तार किया है। पुलिस ने आरोपी के खिलाफ आवश्यक कानूनी कार्रवाई शुरू कर दी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/padrauna/news/padrauna-fake-passport-case-mohammad-alam-arrested-kushinagar-138795682.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/a902d09f-8279-4822-b5d8-c7a94f5728a3_1787329776757.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "देवरिया मेडिकल कॉलेज रैन बसेरे में अज्ञात महिला मृत मिली:पुलिस ने शव कब्जे में लिया, पहचान का प्रयास जारी",
+      "summary": "देवरिया के महर्षि देवराहा बाबा मेडिकल कॉलेज के रैन बसेरे में शुक्रवार को एक अज्ञात वृद्ध महिला का शव मिला। महिला की उम्र लगभग 75 वर्ष बताई जा रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/deoriasadar/news/deoria-medical-college-rain-basera-unidentified-woman-death-138795680.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/untitled-design-48_1787330309.png",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "6 एकड़ अवैध प्लाटिंग पर चला GDA का बुलडोजर:बिना ले-आउट पास कराए कॉलोनी बसाई जा रही थी",
+      "summary": "गोरखपुर विकास प्राधिकरण (GDA) की टीम ने शुक्रवार को अवैध प्लाटिंग के विरुद्ध अभियान चलाया। 6 एकड़ पर की जा रही अवैध प्लाटिंग को ध्वस्त कर दिया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-gda-illegal-plotting-demolition-drive-action-138795817.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/gifmagicsite-2026-08-21t222325337_1787331206.gif",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गुलरिहा में अज्ञात वाहन की टक्कर से युवक घायल:बीआरडी मेडिकल कॉलेज रेफर, पहचान नहीं हो सकी",
+      "summary": "गोरखपुर के गुलरिहा थाना क्षेत्र में एक सड़क हादसे में युवक गंभीर रूप से घायल हो गया। शुक्रवार रात जमुनारा से सरहरी जाने वाली सड़क पर महराजगंज टोला जमुनारा के पास अज्ञात वाहन ने उसे टक्कर मार दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/sarahari/news/gorakhpur-gulriha-road-accident-youth-injured-brd-medical-college-138795656.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/73a2a4d9-4ad8-4f7c-a3f0-74d2ec9c04d1_1787329648503.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "मऊ में अटेवा ने निकाली तिरंगा यात्रा:पुरानी पेंशन बहाली की मांग, 2027 चुनाव पर सरकार को चेताया",
+      "summary": "मऊ में अटेवा (नेशनल मूवमेंट फॉर ओल्ड पेंशन स्कीम) के बैनर तले शुक्रवार को पुरानी पेंशन योजना (ओपीएस) की बहाली और शिक्षकों पर टीईटी की अनिवार्यता के विरोध में तिरंगा यात्रा निकाली गई। इसमें बड़ी संख्या में शिक्षक और कर्मचारी शामिल हुए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/pardaha/news/mau-teva-tiranga-yatra-old-pension-scheme-bahaali-protest-2027-poll-138795610.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/7d5e2cba-0810-45e3-8364-fbee52690bda_1787325069516.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "CISF जवान अनिल राय की सड़क दुर्घटना में मौत:छुट्टी पर घर लौटते समय बिहार के बक्सर में हुआ हादसा",
+      "summary": "फेफना थाना क्षेत्र के खोरी पाकड़ गांव निवासी CISF जवान अनिल राय (48) की शुक्रवार सुबह बिहार के बक्सर जिले के कोरान सराय में सड़क हादसे में मौत हो गई। वे दुर्गापुर स्टील प्लांट में तैनात थे और छुट्टी मिलने के बाद मोटरसाइकिल से अपने गांव लौट रहे थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/sagarpali/news/cisf-jawan-anil-rai-road-accident-death-buxar-bihar-138795696.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/db78cbe6-e520-41f3-82c0-5b9c244f0504_1787319760624.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "CISF जवान की सड़क हादसे में मौत:डंपर से बाइक की टक्कर में मौके पर गई जान, गांव में गार्ड ऑफ ऑनर",
+      "summary": "फेफना थाना क्षेत्र के खोरी पाकड़ गांव निवासी CISF जवान अनिल राय (48) की शुक्रवार सुबह बिहार के बक्सर जिले के कोरान सराय में सड़क हादसे में मौत हो गई। वह दुर्गापुर स्टील प्लांट में तैनात थे और छुट्टी मिलने के बाद बाइक से अपने गांव लौट रहे थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/fefna/news/cisf-jawan-anil-rai-dies-road-accident-buxar-bihar-138795858.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/808ea0b9-dc2e-4eb0-81e8-837365ccd387_1787324303699.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "दोपही में कबड्डी प्रतियोगिता संपन्न, आजमगढ़ विजेता:यश बाबा पंच मंदिर धाम के वार्षिक पूजनोत्सव में नवका गांव उपविजेता",
+      "summary": "हल्दी थाना क्षेत्र के दोपही (अगरौली) स्थित श्री जय यश बाबा पंच मंदिर धाम में शुक्रवार को वार्षिक पूजनोत्सव संपन्न हुआ। सुबह अखंड हरिकीर्तन के बाद विद्वान आचार्यों शिवशंकर पांडेय, मोहनजी पांडेय, हरेराम पांडेय और डब्लू पांडेय ने वैदिक मंत्रोच्चार के साथ यश बाबा एवं मनियार बाबा का पूजन कराया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/belhari/news/yash-baba-panch-mandir-dham-dopahi-kabaddi-tournament-result-138795673.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/44873319-6eac-4912-b709-8ebafd5fd9f1_1787319701407.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "बुजुर्ग को सरकारी कागजों में मृत घोषित कर पेंशन बंद:बलिया में कोर्ट के आदेश पर FIR, अधिकारियों पर भी आरोप",
+      "summary": "हल्दी थाना क्षेत्र के दोपही गांव में सरकारी अभिलेखों में जिंदा बुजुर्ग को मृत घोषित किए जाने का मामला सामने आया है। करीब 80 वर्षीय विष्णु दयाल दुबे की वृद्धावस्था पेंशन भी इसी आधार पर बंद कर दी गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/belhari/news/ballia-pension-fraud-case-vishnu-dayal-dubey-fir-court-order-138795783.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/19f3c564-7fe4-452b-adff-14557995b509_1787321389923.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "बलिया में सीढ़ी के रास्ते घर में घुसे चोर:गहने-नकदी लेकर फरार, बेटी के कमरे को बनाया निशाना; 8 हजार कैश और जेवर चोरी",
+      "summary": "भीमपुरा थाना क्षेत्र के अमावे गांव में गुरुवार रात चोरों ने एक घर को निशाना बना लिया। परिवार के लोग सोते रहे और चोर सीढ़ी के रास्ते घर में दाखिल हो गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/kasaundar/news/bhimpura-amave-theft-manikchand-maurya-house-robbery-case-138795796.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/2e9e7ff4-2324-486b-b02d-7ce6d8cf5db1_1787320897044.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "हल्दी में घर का ताला तोड़ लाखों की चोरी:चोरों ने गहने, नकदी और अन्य सामान पर हाथ साफ किया",
+      "summary": "हल्दी थाना से महज 500 मीटर की दूरी पर परसिया में एक मकान का ताला तोड़कर चोरों ने लाखों रुपये के आभूषण और नकदी पर हाथ साफ कर दिया। यह घटना गुरुवार देर शाम से शुक्रवार सुबह के बीच हुई, जब मकान मालिक का परिवार पितृ भोज में शामिल होने पैतृक गांव गया हुआ था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/belhari/news/haldia-parsia-theft-sumit-kumar-mishra-house-robbery-news-138795766.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/c47f0456-2ad2-417d-9cbd-cf4567633d96_1787322141095.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "बलिया में महिला को बेहोश कर घर में लूट:नकाबपोश ने चेहरे पर पाउडर जैसा पदार्थ फेंका, गहने-नकदी लेकर फरार",
+      "summary": "भीमपुरा-उधरन मार्ग पर मझौवा गांव में शुक्रवार सुबह एक घर में घुसे नकाबपोश बदमाश ने महिला को कथित तौर पर बेहोश कर दिया। इसके बाद बदमाश घर से लाखों रुपये के गहने और 4,500 रुपये नकदी लेकर फरार हो गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/kasaundar/news/ballia-mazhauwa-village-robbery-renu-yadav-crime-update-138795743.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/19572722-d6f9-43f5-a748-54e049deb039_1787320354739.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "घर में घुसे चोर, तीन बक्से उठाकर ले गए:बलिया में छत पर खोला पहला, 200 मीटर दूर मिला दूसरा; गांव में लगातार चोरी से दहशत",
+      "summary": "भीमपुरा थाना क्षेत्र के अमावें गांव में बीती रात चोरों ने एक घर को निशाना बनाकर तीन बक्से चोरी कर लिए। बक्सों में नकदी, सोने के मंगलसूत्र, चांदी की पायल, बिछिया, कपड़े समेत अन्य सामान रखा था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/bhimpurano1/news/ballia-amaven-village-theft-case-police-investigation-138795906.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/ae17afe5-b072-446c-8c1f-ae6d22bee61c_1787332392006.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "नीलगाय के हमले से एक की मौत, तीन घायल:बहादुरगंज में दहशत, वन विभाग पर कार्रवाई का दबाव",
+      "summary": "बहादुरगंज नगर पंचायत क्षेत्र में नीलगाय की बढ़ती आवाजाही अब लोगों के लिए खतरे का कारण बन गई है। हालिया हमले में सिउरा गांव निवासी रामभरोस साहनी की मौत हो चुकी है, जबकि तीन लोग घायल बताए जा रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/kasimabad/news/bahadurganj-nilgai-attack-death-forest-department-protest-138795596.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/4c6491b5-1552-4790-bf82-faf63a9d3861_1787315797618.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गाटर में गमछे से फंदा लगाकर युवक ने दी जान:मानसिक बीमारी से जूझ रहा था, पुलिस ने शव कब्जे में लिया",
+      "summary": "नंदगंज थाना क्षेत्र के महमूदपुर पाली गांव में शुक्रवार दोपहर एक युवक ने फांसी लगाकर आत्महत्या कर ली। घटना के समय घर पर कोई मौजूद नहीं था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/deokali/news/nandganj-ghazipur-youth-suicide-mahmudpur-pali-case-138795816.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/ciyvre_1787331764.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "शाम होते ही इंदिरा नगर-बांसपर मार्ग पर जाम:संकरी सड़क पर घंटों फंसे रहते हैं वाहन, एंबुलेंस भी अटकती है",
+      "summary": "शहर के इंदिरा नगर-बांसपर मार्ग पर शाम होते ही जाम की समस्या लोगों के लिए मुसीबत बन जाती है। सड़क की कम चौड़ाई और लगातार बढ़ते वाहनों के दबाव के चलते इस मार्ग पर घंटों तक वाहनों की कतार लग जाती है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/news/maharajganj-indira-nagar-banspar-road-traffic-jam-problem-138795719.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/c90b7eef-25a9-461c-b508-82204af592e8_1787318352926.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "महिला से मारपीट का आरोप, गाली देने का विरोध:पैकौली कला में तीन लोगों पर मुकदमा दर्ज",
+      "summary": "कोठीभार थानाक्षेत्र के पैकौली कला गांव में गाली देने का विरोध करने पर एक महिला से मारपीट का मामला सामने आया है। महिला ने तीन लोगों पर गाली देने, मारपीट करने और जान से मारने की धमकी देने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/sabaya/news/pakauli-kala-kothibhar-woman-assault-case-police-fir-138795763.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/40c75a91-923e-4e0b-8999-c645b0f53aa0_1787322187562.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Nichlaul",
+      "category": "Law & Order",
+      "headline": "निचलौल ब्लाक अंतर्गत बाइक की चेन में फंसा दुपट्टा:महिला की मौत, बेटा घायल; दवा लेकर लौट रहे थे",
+      "summary": "निचलौल थाना क्षेत्र में बाइक से घर लौट रही महिला के साथ दर्दनाक हादसा हो गया। दमकी भारत गैस एजेंसी के पास अचानक दुपट्टा बाइक की चेन में फंस गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/nichlaul/news/nichlaul-accident-woman-death-bike-dupatta-caught-chain-son-injured-138795688.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/ca3d9869-d43d-4cf7-a95e-83cf2301440d_1787319283407.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "हाईकोर्ट के फैसले के बाद बनाई दीवार तोड़ने का आरोप:जमीन विवाद में महिला से मारपीट और धमकी, तीन पर FIR",
+      "summary": "कोठीभार थाना क्षेत्र के दुर्गवलिया गांव में जमीन विवाद को लेकर निर्मित दीवार तोड़ने और मारपीट का मामला सामने आया है। महिला ने पड़ोस के तीन लोगों पर दीवार तोड़ने, गाली-गलौज, मारपीट और जान से मारने की धमकी देने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/sabaya/news/kothibhar-durgwaliya-land-dispute-wall-demolition-case-138795833.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/339ded5b-e219-45d1-9f57-7a00b455fca2_1787322364770.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "ग्राम सचिवालय का ताला तोड़कर लाखों का सामान चोरी:इन्वर्टर-बैटरी से लैपटॉप, प्रिंटर और फिंगरप्रिंट मशीन तक ले गए चोर",
+      "summary": "भिटौली थाना क्षेत्र की ग्राम पंचायत बांसपार नूतन स्थित ग्राम सचिवालय में बीती रात चोरों ने धावा बोल दिया। अज्ञात चोर सचिवालय का ताला तोड़कर पंचायत सहायक कक्ष में रखे इलेक्ट्रॉनिक उपकरण और अन्य कीमती सामान समेट ले गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/bhitauli/news/banspar-nutan-sachivalaya-theft-bhitauli-computer-set-stolen-138795825.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/91106431-cd0b-417d-ba7d-6bb216b5b69e_1787323685027.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "त्योहारों पर शांति बनाए रखने की अपील:प्रशासन ने बारावफात और जन्माष्टमी को लेकर की पीस कमेटी बैठक",
+      "summary": "सिंदुरिया थाना परिसर में शुक्रवार शाम बारावफात (12 रबी-उल-अव्वल) और श्रीकृष्ण जन्माष्टमी को लेकर पीस कमेटी की बैठक हुई। करीब 20 मिनट चली बैठक में पुलिस-प्रशासन ने दोनों त्योहारों को आपसी भाईचारे और सौहार्द के साथ मनाने की अपील की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/patrengawa/news/maharajganj-sinduria-peace-committee-meeting-barawafat-janmashtami-138795660.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/f1b6557d-0ad0-42c2-a50c-ce7d4285c157_1787317289081.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "छात्रा को बाइक सवारों ने अगवा करने की कोशिश:विरोध पर मारपीट और धमकी का आरोप, राहगीर ने बचाया",
+      "summary": "भिटौली थाना क्षेत्र में स्कूल से घर लौट रही कक्षा चार की 12 वर्षीय छात्रा के अपहरण के प्रयास का मामला सामने आया है। आरोप है कि धर्मपुर पुल के पास दो बाइक सवार युवकों ने छात्रा को रोककर जबरन बाइक पर बैठाने की कोशिश की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/bhitauli/news/bhitauli-school-girl-kidnapping-attempt-crime-news-138795867.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/47276f42-4fd8-4e48-8949-c158cfb456bf_1787323997055.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Paniyara",
+      "category": "Law & Order",
+      "headline": "नवविवाहिता ने कमरे में फंदा लगाकर जान दी:दो महीने पहले ऑपरेशन से बच्चे को दिया था जन्म, जन्म के दो घंटे बाद हुई थी नवजात की मौत",
+      "summary": "पनियरा नगर पंचायत के वार्ड नंबर 10 स्थित दीनदयाल नगर मास्टर कॉलोनी में शुक्रवार देर शाम एक नवविवाहिता की संदिग्ध परिस्थितियों में मौत हो गई। महिला अपने कमरे में फंदे से लटकी मिली।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/paniyara/news/paniyara-master-colony-newlywed-suicide-case-investigation-138795884.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/e2d246af-7a3c-4af0-aa36-c2dd2db0f26a_1787328058746.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Nichlaul",
+      "category": "Law & Order",
+      "headline": "ठूठीबारी: प्राथमिक विद्यालय में ताला तोड़कर चोरी:किचन और ऑफिस से थाली, गिलास, चम्मच व राशन गायब।",
+      "summary": "ठूठीबारी क्षेत्र के प्राथमिक विद्यालय छोटका टोला भरवलिया में चोरों ने एक बार फिर स्कूल की सुरक्षा व्यवस्था को चुनौती दी। गुरुवार रात चोरों ने विद्यालय के ऑफिस और किचन रूम के ताले तोड़कर सामान पार कर दिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/nichlaul/news/thuthibari-primary-school-theft-kitchen-office-items-stolen-138795588.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/b2875ec9-8507-4f3e-a522-33d26840d1cc_1787316255312.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "बारावफात जुलूस की तैयारियों पर कोठीभार थाने में बैठक:पुलिस क्षेत्राधिकारी ने की अध्यक्षता, सुरक्षा व्यवस्था पर चर्चा",
+      "summary": "महराजगंज के सिसवा बाजार स्थित कोठीभार थाना परिसर में शुक्रवार को आगामी त्यौहार बारावफात (ईद मिलाद उन नबी) को लेकर एक बैठक आयोजित की गई। यह बैठक पुलिस प्रशासन और मुस्लिम धर्मगुरुओं व समुदाय के लोगों के बीच हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/raipurchauaraha/news/maharajganj-kothibhar-meeting-barawafat-juloos-security-ravindra-singh-138795692.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/bc30f359-b696-42cd-b583-bb40938fa735_1787319970879.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "भारत-नेपाल सीमा पर 9 बोरी यूरिया खाद बरामद:महाराजगंज पुलिस ने की कार्रवाई, कस्टम को सौंपा",
+      "summary": "महाराजगंज पुलिस ने भारत-नेपाल सीमा क्षेत्र से 9 बोरी भारतीय यूरिया खाद बरामद की है। यह कार्रवाई 21 अगस्त 2026 को संदिग्ध गतिविधियों के खिलाफ की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/ratanpur/news/maharajganj-police-seize-urea-fertilizer-india-nepal-border-138795685.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/4247d8a3-e413-4c49-a83d-c84c61041d82_1787320465745.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "विक्रमजोत के शंकरपुर गांव में बिजली आपूर्ति बाधित:ग्रामीण फोर कोर केबल लगाने की मांग कर रहे, बार-बार कटौती से परेशान",
+      "summary": "विक्रमजोत हर्रैया बस्ती विकास क्षेत्र के अंतर्गत ग्राम पंचायत शंकरपुर के यादव पुरवा में बिजली आपूर्ति बाधित होने से ग्रामीण परेशान हैं। शुक्रवार सुबह से ही बिजली गुल है, जिससे पूरा गांव या आधे गांव के लोग अंधेरे और उमस भरी गर्मी में रहने को मजबूर हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/shankarpur/news/vikramjot-shankerpur-villagers-demand-power-cable-upgrade-update-138795711.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/ef5fe865-c7d2-453d-8f40-65f6eaab1a03_1787328006760.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "29 साल पुराने गौ तस्करी के मामले में तस्कर गिरफ्तार:25 हजार का था इनाम, टेमा मोड़ से पुलिस ने दबोचा",
+      "summary": "पैकोलिया पुलिस ने गौ तस्करी के 29 साल पुराने मामले में फरार चल रहे 72 वर्षीय स्थायी वारंटी मोती लाल को गिरफ्तार किया है। आरोपी पर 25 हजार रुपये का इनाम घोषित था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/gaur/news/pakoliya-police-arrest-absconding-accused-cow-smuggling-case-138795712.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/2f6c7c57-4a07-49e9-9cec-bd07cffd878a_1787319630285.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "संत रविदास की 650वीं जयंती मनाई गई:सांडपुर, चपरा और बरगदहिया ग्रामसभाओं में हुए कार्यक्रम",
+      "summary": "भारतीय जनता पार्टी के समरसता अभियान के तहत विशेषरगंज मंडल की सांडपुर, चपरा और बरगदहिया ग्रामसभाओं में संत शिरोमणि गुरु रविदास जी की 650वीं जयंती मनाई गई। कार्यक्रम में ग्रामीणों, महिलाओं, युवाओं और बुजुर्गों ने बढ़-चढ़कर हिस्सा लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/dharmupur/news/sant-ravidas-jayanti-celebrated-sandpur-chapra-bargadhiya-dubauliya-138795704.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/d6aaffa6-4d00-4660-8fa8-31c5550e4264_1787319286115.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "बिजली गुल होते ही अंधेरे में डूब जाता है छावनी:राम जानकी मार्ग पर हाईमास्ट लाइटें बेअसर, ग्रामीणों ने सोलर लाइट लगाने की उठाई मांग",
+      "summary": "राम जानकी मार्ग स्थित छावनी तिराहे पर लगी हाईमास्ट लाइटें बिजली कटते ही बंद हो जाती हैं। इससे रात में पूरा तिराहा अंधेरे में डूब जाता है और राहगीरों को आवागमन में परेशानी होती है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/amorhakhas/news/chhawani-tiraha-ram-janki-marg-solar-light-demand-update-138795802.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/c5192143-6af5-4513-81cb-c6e201953dbf_1787330393584.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "26 हजार की लूट के बाद दो संदिग्ध पकड़े:कपड़ा कारोबारी को फोन कर OTP मांग रहे थे, ग्रामीणों ने दबोचा; SOG पूछताछ में जुटी",
+      "summary": "लालगंज थाना क्षेत्र के महादेव चौराहे पर फल विक्रेता से 26 हजार रुपये लूटने का मामला सामने आया है। घटना के कुछ देर बाद ही दो संदिग्ध एक कपड़ा विक्रेता को फोन कर धमकाते हुए OTP मांगने पहुंचे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/deaisand/news/lalganj-basti-fruit-seller-loot-suspects-arrested-police-138795877.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/1e982f84-3ede-473d-856b-d8609a18df7b_1787329563680.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "50 से अधिक बच्चों को लगाए गए चेचक के टीके:स्वास्थ्य विभाग की टीम ने स्कूल पहुंचकर चलाया टीकाकरण अभियान",
+      "summary": "विक्रमजोत विकास क्षेत्र में बच्चों को चेचक से बचाव के लिए टीकाकरण अभियान चलाया जा रहा है। इसी क्रम में विक्रमजोत स्थित विक्रम पब्लिक स्कूल में स्वास्थ्य विभाग की टीम पहुंची और कक्षा एक से पांच तक के 50 से अधिक बच्चों को टीके लगाए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/shankarpur/news/vikramjot-basti-school-measles-vaccination-campaign-health-team-138795852.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/9ccf312f-b93e-4810-be58-86eea38e2482_1787326022912.jpg",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "17:23"
     }
   ]
 }
