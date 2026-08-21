@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "article_count": 1066,
-  "last_updated": "2026-08-21T18:25:07.476666",
+  "article_count": 1068,
+  "last_updated": "2026-08-21T19:24:09.192439",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11728,6 +11728,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/f4dabde6-b83c-43c8-825c-68663132e00d_1787330133216.jpg",
       "scrape_date": "2026-08-21",
       "scrape_time": "18:25"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर से GRP ने दबोचा गैंगस्टर अपराधी:गैंगस्टर एक्ट के वारंटी समेत कई मामलों में नाम, कोर्ट में पेश कर भेजा गया जेल",
+      "summary": "जीआरपी पुलिस गोरखपुर ने शुक्रवार को एक गैंगस्टर अपराधी को गिरफ्तार किया। पुलिस ने उसे डोमिनगढ़ रेलवे स्टेशन के पास सूरजकुंड पोखरा क्षेत्र से पकड़ा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-grp-arrests-gangster-act-warrantee-criminal-138796598.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/gifmagicsite-2026-08-22t002539383_1787338547.gif",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "19:24"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में कई इलाके में 4 घंटे गुल रहेगी बिजली:सुबह 11 से दोपहर 3 बजे तक होगा सड़क चौड़ीकरण, लाइन शिफ्टिंग का काम",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण और लाइन शिफ्टिंग के काम के चलते शनिवार को बिजली आपूर्ति प्रभावित रहेगी। सुबह 11.00 बजे से दोपहर 03.00 बजे के बीच शहर कई प्रमुख इलाकों में चार घंटे के लिए बिजली कटौती की जाएगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-road-line-shifting-update-138796217.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/bulb1778035656_1787335812.gif",
+      "scrape_date": "2026-08-21",
+      "scrape_time": "19:24"
     }
   ]
 }
