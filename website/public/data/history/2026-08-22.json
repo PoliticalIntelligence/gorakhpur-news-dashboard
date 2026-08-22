@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "article_count": 1134,
-  "last_updated": "2026-08-22T20:18:50.819035",
+  "article_count": 1135,
+  "last_updated": "2026-08-22T21:16:12.894946",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12476,6 +12476,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/acdac929-4a9d-4f66-b1a9-926253682094_1787397891850.jpg",
       "scrape_date": "2026-08-22",
       "scrape_time": "18:16"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "DDU गर्ल्स-हॉस्टल के खाने में कीड़ा मिलने का आरोप:छात्राओं का फूटा गुस्सा, राज्यपाल की वॉर्निंग के बाद भी नहीं सुधरी व्यवस्था",
+      "summary": "गोरखपुर विश्वविद्यालय के अलकनंदा गर्ल्स हॉस्टल में शनिवार रात खाने में कीड़ा मिलने का मामला सामने आया है। छात्राओं ने खाने में कीड़े मिलने की तस्वीरें साझा करते हुए हॉस्टल के खाने की व्यवस्था पर सवाल उठाए हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-ddu-university-girls-hostel-food-controversy-insect-found-138807152.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/23/whatsapp-image-2026-08-23-at-11758-am_1787428109.jpeg",
+      "scrape_date": "2026-08-22",
+      "scrape_time": "21:16"
     }
   ]
 }
