@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
-  "article_count": 604,
-  "last_updated": "2026-08-24T00:38:21.360126",
+  "article_count": 627,
+  "last_updated": "2026-08-24T02:21:34.579526",
   "articles": [
     {
       "district": "Kushinagar",
@@ -6646,6 +6646,259 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/23/3e096206-9479-463c-be7a-9afdb8df1559_1787453382351.jpg",
       "scrape_date": "2026-08-24",
       "scrape_time": "00:38"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Gorakhpur Urban",
+      "category": "Law & Order",
+      "headline": "बारिश की वजह से डोमिनगढ़ नाले की सफाई रुकी:5 KM लंबा है नाला, पानी घटते ही फिर शुरू हुई शिल्ट निकासी",
+      "summary": "सावित्री अस्पताल के पास इलाहीबाग नाले के करीब 50 मीटर हिस्से में शिल्ट निकालने का काम रविवार को बारिश के कारण प्रभावित रहा। नाले के पानी को नियंत्रित करने के लिए दोनों तरफ अस्थायी बांध बनाकर पानी को इलाहीबाग की ओर बाइपास किया जा रहा था।",
+      "url": "https://www.bhaskar.com/g/local/uttar-pradesh/gorakhpur/news/gorakhpur-domin-garh-nala-cleaning-silt-removal-drive-update-138816050.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/23/gifmagicsite-2026-08-23t235701379_1787509627.gif",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "आजमगढ़ में 250 किलो मिठाई जब्त कर नष्ट कराई:FSDA ने 8 खाद्य पदार्थों के नमूने लिए, श्रावण और रक्षाबंधन को लेकर खाद्य विभाग की छापेमारी",
+      "summary": "आजमगढ़ में श्रावण मास और रक्षाबंधन पर्व को देखते हुए खाद्य सुरक्षा एवं औषधि प्रशासन विभाग ने मिलावटी खाद्य पदार्थों के खिलाफ अभियान तेज कर दिया है। शनिवार को सचल दल ने जिले के अलग-अलग क्षेत्रों में छापेमारी कर खाद्य पदार्थों के 8 नमूने लिए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-food-department-raid-mithai-adulteration-seized-destroyed-138803405.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/1000028893_1787401007.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में ट्रेन के सामने कूदकर महिला ने दी जान:आजमगढ़ में अंडरपास के पास हादसा, एक बेटे की हो चुकी है मौत, दूसरा विदेश में",
+      "summary": "आजमगढ़ में निजामाबाद थाना क्षेत्र के परसाहा उर्फ कयामुद्दीन पट्टी ग्राम सभा में शनिवार शाम करीब 3:15 बजे 70 वर्षीय महिला ने ट्रेन के सामने कूदकर जान दे दी। घटना अंडरपास के पास हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/fariha/news/azamgarh-woman-suicide-train-accident-nizamabad-news-138793994.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/0A0AB94C-731A-4F21-9442-CA6E36D57764_1787314941446.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "दुर्वासा धाम पर सुंदरकांड का आयोजन:श्रावण मास के शनिवार को हुआ, श्रद्धालु हुए शामिल",
+      "summary": "दुर्वासा धाम पर श्रावण मास के शनिवार को सुंदरकांड का आयोजन किया गया। इसमें बड़ी संख्या में श्रद्धालु उपस्थित रहे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/mirzapur/news/durvasa-dham-sawan-saturday-sundarkand-path-bhakt-shradhalu-138804948.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/9c9e117b-5a73-4c9f-a113-88aa3feb3573_1787406711860.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Agriculture",
+      "headline": "आजमगढ़ में बारिश का अलर्ट:रुक-रुक हवा बह रही, आसमान में छाए बादल, टेम्प्रेचर 34°C",
+      "summary": "जिले में शनिवार सुबह से ही आसमान में बादल छाए हुए हैं। उमस के बीच लोगों को बारिश का इंतजार है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-weather-update-cloudy-sky-rain-forecast-2026-138799587.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/1000024204_1787371148.gif",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "गलत ट्रैप कार्रवाई के विरोध में लेखपालों का धरना:आजमगढ़ के फूलपुर में समाधान दिवस का बहिष्कार",
+      "summary": "उत्तर प्रदेश लेखपाल संघ की फूलपुर तहसील इकाई ने शनिवार को तहसील परिसर में धरना-प्रदर्शन किया। भ्रष्टाचार निवारण संगठन (ACO) की कथित गलत ट्रैप कार्रवाई के विरोध में लेखपालों ने थाना समाधान दिवस का बहिष्कार किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/phoolpur/news/phulpur-lekhalpal-protest-aco-investigation-demand-up-news-138803252.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/209867e7-a88d-4f12-911d-78ca06a59e64_1787394487986.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गैंगस्टर एक्ट में वांछित हीरालाल यादव गिरफ्तार:आजमगढ़ में खेत से पकड़ा, गैंग सरगना पर 32 मुकदमे; लूट-रंगदारी समेत कई आरोप",
+      "summary": "आजमगढ़ में अपराधियों के खिलाफ चलाए जा रहे अभियान के तहत तरवां पुलिस ने गैंगस्टर एक्ट में वांछित आरोपी हीरालाल यादव को गिरफ्तार किया है। पुलिस के मुताबिक, आरोपी को सरायभादी गांव की सीमा में उसके घर से करीब 700-800 मीटर दूर खेत से पकड़ा गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-jamwant-yadav-jamuna-gang-arrest-gangster-act-crime-news-138802974.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/1000028836_1787398347.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "रासेपुर विद्युत उपकेंद्र की आपूर्ति बदहाल:आजमगढ़ में ग्रामीण परेशान, अधिकारियों से सुधार की मांग",
+      "summary": "आजमगढ़ के मेंहनगर तहसील क्षेत्र में रासेपुर विद्युत उपकेंद्र से होने वाली बिजली आपूर्ति को लेकर ग्रामीणों में रोष है। उनका आरोप है कि लगातार बाधित विद्युत व्यवस्था के कारण उन्हें काफी परेशानियों का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/tarwa/news/azamgarh-rasepur-power-supply-outage-mehnagar-electricity-crisis-138804779.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/3aaea58f-3442-4d38-8a21-dfc29347d24d_1787400725977.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में फरार गैंगस्टर गिरफ्तार:घर से 800 मीटर दूर खेत में मिला बदमाश, गैंग के सरगना पर 32 केस",
+      "summary": "आजमगढ़ में अपराध और अपराधियों के खिलाफ चलाए जा रहे अभियान के तहत तरवां पुलिस ने गैंगस्टर एक्ट के मामले में फरार बदमाश हीरालाल यादव को गिरफ्तार किया है। पुलिस के मुताबिक, आरोपी अपने घर से करीब 700-800 मीटर दूर खेत में छिपा हुआ था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/tarwa/news/azamgarh-police-arrest-hiralal-yadav-jamwant-gang-member-138801666.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/ce8611ca-b699-4c7f-a75d-bfdd77c1a2a3_1787388512085.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "आजमगढ़ में सर्पदंश से बालिका अचेत:खरिहानी अस्पताल में उपचार के बाद हालत में सुधार",
+      "summary": "आजमगढ़ के खरिहानी प्राइवेट हॉस्पिटल में सिर्फ से काटने पर भर्ती कराया गया। शादियाबाद थाना क्षेत्र स्थित कादीपुर बहादुर खेताहपुर गांव में शनिवार सुबह एक 15 वर्षीय बालिका को जहरीले सांप ने डस लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/tarwa/news/azamgarh-girl-snake-bite-kharihani-hospital-recovery-update-138804702.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/03ffb889-aabd-4e63-a6c4-2d2d8fb536f2_1787400027779.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "तहबरपुर पुलिस ने फायरिंग मामले में दो आरोपी पकड़े:योजना बनाकर घटना को अंजाम देने का आरोप, कोर्ट भेजा",
+      "summary": "तहबरपुर पुलिस ने जान से मारने की नीयत से की गई फायरिंग के मामले में दो वांछित अभियुक्तों को गिरफ्तार किया है। यह घटना तहबरपुर थाना क्षेत्र के नैपुरा गांव में हुई थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/tahbarpur/news/tahbarpur-firing-arrest-naipura-crime-cctv-video-update-138804336.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/62a89726-ac3d-433b-8c10-78d0d77fff14_1787398742730.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "शादी से इनकार पर चाकू मारा-1.9 महीने की सजा:आजमगढ़ कोर्ट ने 7 हजार रुपए जुर्माना भी लगाया",
+      "summary": "आजमगढ़ कोर्ट ने शादी से इनकार करने पर युवती और उसकी मां पर चाकू से हमला करने के मामले में आरोपी को दोषी करार दिया है। अपर सत्र न्यायाधीश कोर्ट नंबर-1 कमलापति की अदालत ने शुक्रवार को आरोपी राबिन सिंह को 1 साल 9 महीने के सश्रम कारावास और 7 हजार रुपए अर मामला कप्तानगंज थाना क्षेत्र के अलौवा गांव का है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-court-stabbing-case-sentencing-robin-singh-convicted-138794056.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/1000026756_1787317386.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ में SI संजय कुमार सिंह निलंबित:गैंगस्टर को थाने से भगाने का आरोप लगा था, जांच के बाद कार्रवाई",
+      "summary": "गंभीरपुर थाने में तैनात रहे सब इंस्पेक्टर संजय कुमार सिंह को एसएसपी डॉ. अनिल कुमार ने निलंबित कर दिया है। उन पर अनुशासनहीनता, जिम्मेदारियों के निर्वहन में लापरवाही और गैंगस्टर सद्दाम को थाने से भगाने में सहयोग करने के आरोप लगे थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-police-suspension-sub-inspector-gangster-case-news-138800140.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/1000028819_1787376192.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Harraiya",
+      "category": "Women Welfare",
+      "headline": "घाघरा खतरे के निशान से 87 सेंटीमीटर ऊपर:आजमगढ़ के 2 दर्जन से ज्यादा गांव बाढ़ से घिरे, बच्चों को नाव का सहारा",
+      "summary": "आजमगढ़ की सगड़ी तहसील में घाघरा नदी का जलस्तर शनिवार को मामूली घटा, लेकिन खतरा अभी टला नहीं है। डिघिया गेज पर नदी खतरा बिंदु से 87 सेंटीमीटर ऊपर बह रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/harraiya/news/sagri-azamgarh-ghaghara-river-flood-school-children-boat-crisis-138801842.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/a7b9c24a-e000-4dbe-9211-641f9cbf1d0d_1787388430776.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Governance",
+      "headline": "बच्चों के बीच शिक्षक की भूमिका में दिखे आजमगढ़ डीएम:प्राथमिक विद्यालय में नीचे बैठकर बच्चों से किया संवाद, फीडबैक लिया",
+      "summary": "आजमगढ़ डीएम रविन्द्र कुमार ने शुक्रवार को अटल आवासीय विद्यालय गंभीरवन और प्राथमिक विद्यालय ऊंजी जलाईपुर का औचक निरीक्षण किया। दोनों विद्यालयों में उन्होंने शैक्षणिक व्यवस्था, बच्चों की सुविधाओं, भोजन, स्वच्छता और सुरक्षा व्यवस्थाओं का जायजा लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-dm-ravindra-kumar-school-visit-inspection-education-feedback-138793336.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/21/1000028770_1787312191.gif",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "सरकारी जमीन पर कब्जे का आरोप, रास्ता भी बंद:आजमगढ़ के नौबरार तुर्क चारा में अवैध कब्जे की शिकायत",
+      "summary": "आजमगढ़ के सगड़ी तहसील क्षेत्र के नौबरार तुर्क चारा गांव में सरकारी जमीन पर अवैध कब्जे का मामला सामने आया है। ग्रामीणों ने सुरेश पुत्र साधु शरण पर ग्राम समाज की नवीन परती भूमि गाटा संख्या 729 और चक मार्ग गाटा संख्या 730 पर कब्जा करने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/araziamani/news/azamgarh-land-encroachment-controversy-sagdhi-tehsil-news-138801912.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/7b186d33-e8ed-4e18-be50-aa955f9b09921787389279784_1787391417.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "चोरी-नकबजनी गैंग पर गैंगस्टर एक्ट की कार्रवाई:आजमगढ़ में गैंग लीडर समेत दो आरोपी चिह्नित",
+      "summary": "आजमगढ़ पुलिस ने चोरी और नकबजनी की घटनाओं में सक्रिय गैंग के खिलाफ बड़ी कार्रवाई की है। सरायमीर थाना पुलिस ने गैंग लीडर समेत दो आरोपियों पर गैंगस्टर एक्ट के तहत मुकदमा दर्ज किया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/mirzapur/news/azamgarh-saraymir-police-action-gangster-act-crime-gang-leader-138803023.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/22/d543a79b-4ab0-4766-8391-0a84ee748695_1787394014621.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "बैरिया में ब्रह्माकुमारी केंद्र पर रक्षाबंधन मनाया:बहनों ने बांधा रक्षासूत्र, सुख-शांति और सद्भाव का दिया संदेश",
+      "summary": "बलिया के बैरिया नगर पंचायत स्थित ब्रह्माकुमारी ईश्वरीय विश्व विद्यालय शाखा में रविवार को रक्षाबंधन का पर्व श्रद्धा और आध्यात्मिक वातावरण में मनाया गया। कार्यक्रम में भाई-बहन के पवित्र प्रेम के साथ समाज में शांति, सद्भाव और भाईचारे का संदेश दिया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/murlichhapra/news/rakshabandhan-celebration-ballia-bairia-brahmakumari-ashram-update-138818314.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/24/432c507e-dbd0-49c6-9ac2-04bc7e43c52c_1787530196947.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "कागज में मृत घोषित करके बुजुर्ग की पेंशन रोकी:बलिया में कोर्ट के आदेश पर BDO-सचिव और प्रधान पर एफआईआर दर्ज",
+      "summary": "बलिया के दोपही गांव में 82 वर्षीय विष्णु दयाल दुबे को अभिलेखों में मृत घोषित कर उनकी वृद्धावस्था पेंशन बंद कर दी गई। मामले में उन्होंने न्यायालय का दरवाजा खटखटाया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/belhari/news/ballia-pension-fraud-case-bdo-secretary-pradhan-fir-lodged-138818349.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/24/8355e1e0-9f62-4c89-925a-b5e59498aa10_1787531119438.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Agriculture",
+      "headline": "युवराजपुर में सैकड़ों बीघा जमीन गंगा नदी में समाई:गांव के अस्तित्व पर मंडराया संकट, ग्रामीणों की बढ़ी चिंता",
+      "summary": "गाजीपुर के रेवतीपुर क्षेत्र स्थित युवराजपुर गांव में गंगा नदी का कटान तेज हो गया है। नदी की तेज धारा के चलते सैकड़ों बीघा कृषि भूमि गंगा में समा चुकी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/patakaniya/news/yuvrajpur-ghazipur-ganga-river-erosion-villagers-crisis-update-138818371.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/24/5548d7fa-f2dc-4fcf-a2f5-a3c6229b1abf_1787536182558.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "झारखंडे महादेव मंदिर में भक्तों की भीड़:सावन के अंतिम सोमवार पर किया जलाभिषेक, सुख-शांति की मांगी कामना",
+      "summary": "रेवतीपुर क्षेत्र के मेदनीपुर-ताड़ीघाट स्थित श्री झारखंडे महादेव मंदिर में सावन के अंतिम सोमवार को भक्तों की भारी भीड़ उमड़ी। सुबह से ही मंदिर परिसर में भक्तों का तांता लगा रहा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/patakaniya/news/sawan-last-monday-revatipur-jharkhande-mahadev-temple-jalabhishek-138818382.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/24/eb822a78-e625-4430-a159-76f8c837ab84_1787533659079.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "गाजीपुर में कक्षा 1 से 8 तक के स्कूल बंद:बारिश के चलते BSA ने 24 अगस्त को अवकाश घोषित किया",
+      "summary": "गाजीपुर में लगातार हो रही बारिश और मौसम विभाग के पूर्वानुमान को देखते हुए कक्षा 1 से 8 तक के सभी स्कूल 24 अगस्त को बंद रहेंगे। यह निर्णय जिला बेसिक शिक्षा अधिकारी (BSA) उपासना रानी वर्मा ने लिया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/news/ghazipur-school-holiday-kanwar-yatra-bsa-order-24-august-2026-138818360.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/24/2d88a0b9-812e-4399-b93c-a30b2b880de1_1787530775409.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "सावन के चौथे सोमवार कुबेरनाथ मंदिर में उमड़ी भीड़:भोर से ही हर-हर महादेव के जयकारों से गूंजा परिसर",
+      "summary": "मेंहदावल के प्रसिद्ध कुबेरनाथ मंदिर में सावन के चौथे और अंतिम सोमवार को भोर से ही श्रद्धालुओं की भारी भीड़ उमड़ पड़ी। बड़ी संख्या में शिवभक्त भगवान भोलेनाथ का जलाभिषेक और पूजा-अर्चना करने पहुंचे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/mehdawal/news/mehdawal-kubernath-mandir-sawan-somwar-bheed-har-har-mahadev-138818487.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/24/e137ded9-344f-4188-8505-4b50a8cea090_1787531387434.jpg",
+      "scrape_date": "2026-08-24",
+      "scrape_time": "02:21"
     }
   ]
 }
