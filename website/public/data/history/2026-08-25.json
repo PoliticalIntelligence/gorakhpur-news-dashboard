@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
-  "article_count": 702,
-  "last_updated": "2026-08-25T04:33:06.108839",
+  "article_count": 722,
+  "last_updated": "2026-08-25T05:26:38.776079",
   "articles": [
     {
       "district": "Kushinagar",
@@ -7724,6 +7724,226 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/a57ecc8a-9e7b-4333-84ca-eb40ac043cc0_1787623627890.jpg",
       "scrape_date": "2026-08-25",
       "scrape_time": "04:33"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "परासिया-तड़वा मार्ग बदहाल:सड़क पर बड़े गड्ढे, राहगीर परेशान",
+      "summary": "देवरिया जिले के भाटपार रानी तहसील अंतर्गत परासिया से क्षेत्री सिंह होते हुए तड़वा तक जाने वाला मुख्य मार्ग बदहाल स्थिति में है। यह सड़क बिहार सीमा और आसपास की ग्राम सभाओं को जोड़ती है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/bangra/news/deoria-bhatpar-rani-paras-tadwa-road-condition-badhal-news-138829955.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/5c85687c-e21a-4f01-bf04-3bd8cdde8513_1787632236752.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "माध्यमिक शिक्षक संघ का डीआईओएस कार्यालय पर धरना शुरू:लंबित समस्याओं के समाधान की मांग को लेकर प्रदर्शन",
+      "summary": "देवरिया में उत्तर प्रदेश माध्यमिक शिक्षक संघ ने जिला विद्यालय निरीक्षक (डीआईओएस) कार्यालय पर क्रमिक धरना शुरू कर दिया है। यह धरना शिक्षकों की लंबित समस्याओं के समाधान की मांग को लेकर आयोजित किया जा रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-teachers-protest-dios-office-dinesh-kumar-tripathi-dharna-138830027.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/62b47ec6-86bd-481e-b063-b97723dca178_1787627894937.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "सलेमपुर में आरसीसी सड़क पर पटरी का अभाव:ऊंचाई से आवागमन में समस्या, टूटी सड़क पर जलभराव से बढ़ी परेशानी",
+      "summary": "सलेमपुर विकास क्षेत्र के बभनौली मोड़ से रैनाथ ब्रह्मदेव महाविद्यालय होते हुए सलेमपुर-देवरिया मुख्य मार्ग तक जाने वाली सड़क का निर्माण लाखों रुपये की लागत से आरसीसी के रूप में कराया गया है। हालांकि, सड़क के दोनों किनारों पर पटरी का निर्माण नहीं होने से इसकी ऊंचाई अधिक हो गई है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/kasbasalempur/news/salempur-road-construction-problems-waterlogging-students-trouble-138829906.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/02edda81-b96b-49ac-bc80-bd3efb6f2d4c_1787631629217.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "गोरखपुर में 15-20 KM की गति से चल रही हवा:सुहाना हुआ मौसम, दोपहर तक छिटपुट बारिश के आसार",
+      "summary": "गोरखपुर में मंगलवार की सुबह गोरखपुर में मौसम का मिजाज बदला हुआ नजर आया। शहर के कुछ इलाकों में छिटपुट बारिश हुई, जबकि कई जगहों पर धूप खिली रही।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-weather-update-rain-wind-forecast-today-138829578.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/gifmagicsite-2026-08-25t092848710_1787630339.gif",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Pipraich",
+      "category": "Other",
+      "headline": "गोरखनाथ विश्वविद्यालय में पांचवें स्थापना दिवस समारोह:संस्थापकों को श्रद्धांजलि, वायरल संक्रमण पर विशेष व्याख्यान आयोजित",
+      "summary": "महायोगी गोरखनाथ विश्वविद्यालय, गोरखपुर में पांचवें स्थापना दिवस सप्ताह के अंतर्गत सप्तदिवसीय व्याख्यानमाला का तीसरा दिन मनाया गया। इस अवसर पर विश्वविद्यालय के संस्थापकों, युगपुरुष ब्रह्मलीन महंत दिग्विजयनाथ जी महाराज और राष्ट्रसंत ब्रह्मलीन महंत अवेद्यनाथ जी महाराज की स्मृति में विशेष व्याख्यानों का आयोजन किया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/bhathat/news/gorakhnath-university-foundation-day-lecture-gorakhpur-drdo-icmr-138829983.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/d187a8a9-0fab-42ca-9484-fc24640eab2e_1787632816804.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Bansdih",
+      "category": "Law & Order",
+      "headline": "गैर-इरादतन हत्या का आरोपी गिरफ्तार:बलिया के बांसडीह पुलिस ने डुहीमुसी चट्टी से पकड़ा",
+      "summary": "बांसडीह पुलिस ने गैर-इरादतन हत्या से संबंधित मामले में वांछित 30 वर्षीय आरोपी को सोमवार को गिरफ्तार कर लिया। पुलिस ने उसे डुहीमुसी चट्टी के पास से मुखबिर की सूचना पर हिरासत में लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/bansdih/news/ballia-bansdih-police-arrest-accused-culpable-homicide-duhimusi-138829876.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/fbf9b068-5c5a-4ff4-ba29-ff135a0b1c35_1787627798822.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "बलिया में आरक्षण पर अनिल सिंह का बड़ा बयान:बोले- ‘राजा का मुकुट’ नहीं, जरूरतमंदों के अधिकार का माध्यम बने",
+      "summary": "बलिया के बैरिया में अखिल भारतीय क्षत्रिय महासभा के राष्ट्रीय उपाध्यक्ष अनिल कुमार सिंह ने आरक्षण व्यवस्था पर अपना पक्ष रखा। सोमवार दोपहर करीब 2 बजे बैरिया नगर पंचायत स्थित चंदेल मार्केट में उन्होंने सरकार और सदन से आरक्षण के वर्तमान स्वरूप की समीक्षा कर इसका लाभ वास्तविक जरूरतमंदों तक पहुंचाने की मांग की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/murlichhapra/news/ballia-anil-singh-statement-reservation-reform-caste-politics-138829846.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/123971f4-9a43-4fe2-b7a6-ef67bd9e6dc6_1787627563179.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गाजीपुर में गौ तस्करों ने पुलिस पर की फायरिंग:पैर में मारी गोली लगने से एक घायल, 2 गिरफ्तार; बोलेरो और 3 गोवंश बरामद",
+      "summary": "गाजीपुर में रविवार रात 12 बजे पुलिस और गौ तस्करों के बीच मुठभेड़ हुई। गौ तस्करों ने पुलिस पर की फायरिंग।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/deokali/news/ghazipur-police-encounter-cow-smugglers-arrested-138829782.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/gifmagicsite-2026-08-25t095722911_1787632050.gif",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "District News",
+      "category": "Governance",
+      "headline": "गंगा का जलस्तर घटा, चेतावनी बिंदु से नीचे:गाजीपुर में प्रशासन अलर्ट, डीएम ने कहा- बाढ़ से निपटने की पूरी तैयारी",
+      "summary": "गाजीपुर में गंगा नदी का जलस्तर लगातार घट रहा है। मंगलवार सुबह 8 बजे गंगा का जलस्तर 61.910 मीटर दर्ज किया गया, जो चेतावनी बिंदु 62.100 मीटर से 19 सेंटीमीटर नीचे है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/news/ghazipur-ganga-water-level-flood-alert-dm-update-138830019.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/76c73b83-60c5-44f7-9e07-f6e909335fce_1787633895517.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "गड्ढों में लाल कपड़े बांधकर ग्रामीणों ने जताया विरोध:नायकडीह बाजार में 3 महीने से नहीं सुधरी हालत; ट्रक-बसों की लगी कतार",
+      "summary": "गाजीपुर के जखनियां स्थित नायकडीह बाजार में मंगलवार सुबह 8:30 बजे ग्रामीणों और व्यापारियों ने सड़क की बदहाली के खिलाफ चक्का जाम कर दिया। प्रदर्शनकारियों ने कीचड़ भरे गड्ढों में लाल कपड़े बांधकर विरोध जताया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/jakhania/news/nayakdih-bazaar-ghazipur-road-protest-traffic-jam-update-138830026.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/9b6a06c2-6354-487f-9586-8f8b05a9146a_1787630865328.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "महराजगंज में तेंदुए की खबर से हड़कंप:वन विभाग ने रात 1 बजे तक की गश्त; अब तक नहीं हुई पुष्टि",
+      "summary": "महराजगंज के नौतनवां थाना क्षेत्र के हनुमानगढ़िया में सोमवार शाम करीब 9 बजे बागीचे में तेंदुआ दिखाई देने की सूचना से हड़कंप मच गया। तेंदुआ देखे जाने की चर्चा और सोशल मीडिया पर वायरल फोटो के बाद ग्रामीणों में दहशत फैल गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/news/maharajganj-nautanwa-hanumangadhiya-leopard-alert-forest-department-138829941.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/2de71e04-ec8f-4740-bfb9-eb8ed738e37b_1787633243633.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "बृजमनगंज में ईद मिलादुन्नबी की तैयारियां तेज:26 अगस्त को मनाया जाएगा पैगंबर मोहम्मद का यौमे पैदाइश पर्व",
+      "summary": "बृजमनगंज क्षेत्र में 12 रबीउल अव्वल (जश्ने-ईद-मिलादुन्नबी) पर्व की तैयारियां जोर-शोर से चल रही हैं। उलमा-ए-कराम के अनुसार, यह पर्व पैगंबर हजरत मोहम्मद सल्लल्लाहु अलैहि वसल्लम के यौमे पैदाइश (जन्मदिन) के अवसर पर मनाया जाता है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/lehra/news/brijmanganj-eid-miladunnabi-preparations-prophet-muhammad-birthday-138830096.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/310241a5-8fd9-4f19-ae1e-aa586c0ea1a5_1787633755268.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Paniyara",
+      "category": "Law & Order",
+      "headline": "पोस्टमार्टम रिपोर्ट में मौत का कारण स्पष्ट नहीं:पनियरा में मिले युवक के शव का विसरा जांच के लिए सुरक्षित",
+      "summary": "पनियरा थाना क्षेत्र के रामपुर पट्टे चौराहे के पास रविवार सुबह धान के खेत में मिले एक युवक के शव की पोस्टमार्टम रिपोर्ट में मौत का कारण स्पष्ट नहीं हो सका है। चिकित्सकों ने विसरा सुरक्षित कर जांच के लिए भेजा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/paniyara/news/paniyara-maharajganj-youth-death-postmortem-viscera-report-update-138830074.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/7991b15e-d760-4522-8dca-650fa3065bda_1787632233439.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "शिव मंदिर भूमि पर अतिक्रमण का आरोप:खड़खोड़ा के ग्रामीणों ने प्रशासन से कार्रवाई की मांग की",
+      "summary": "महराजगंज के बृजमनगंज थाना क्षेत्र के खड़खोड़ा गांव में स्थित शिव मंदिर की भूमि पर अतिक्रमण का मामला सामने आया है। गांव निवासी महेंद्र समेत अन्य ग्रामीणों ने प्रशासन को प्रार्थना पत्र देकर मंदिर परिसर से अतिक्रमण हटवाने की मांग की है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/bahaduribazar/news/maharajganj-khadkhoda-shiv-mandir-land-encroachment-controversy-138829879.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/c5ae7648-f9d2-43ba-b656-b9db1a8e6a4c_1787631635548.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "महराजगंज अस्पताल के पास सड़क किनारे कचरे का अंबार:नागरिकों और राहगीरों को आवाजाही में हो रही परेशानी",
+      "summary": "महराजगंज में महमूद डॉक्टर अस्पताल के पास सड़क किनारे बड़ी मात्रा में कचरा जमा होने से स्थानीय नागरिकों और राहगीरों को भारी परेशानी का सामना करना पड़ रहा है। कूड़े के ढेर के कारण आवाजाही में दिक्कत हो रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/netasurhurwa/news/maharajganj-hospital-garbage-dump-residents-problems-latest-news-138830064.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/c9fe3b59-bf90-43a4-a926-f4323085537b_1787633187006.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "सेमरियावां ब्लॉक परिसर हल्की बारिश में जलमग्न:फरियादियों और कर्मियों को परेशानी, स्थाई निकासी का अभाव",
+      "summary": "संतकबीरनगर जिले का सेमरियावां ब्लॉक मुख्यालय हल्की बारिश में ही जलमग्न हो जाता है। जल निकासी की स्थायी व्यवस्था न होने के कारण फरियादियों और ब्लॉक कर्मियों को भारी परेशानी का सामना करना पड़ता है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/semariyawan/news/semariyawan-block-sant-kabir-nagar-water-logging-drainage-issue-138829934.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/a6e23909-f4f6-4b61-8052-cf2e39207b18_1787564774110.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "गंदगी का अंबार:पौली में सफाई व्यवस्था बदहाल, संक्रामक बीमारियों का खतरा बढ़ा",
+      "summary": "संतकबीर नगर जिले के पौली क्षेत्र की ग्राम पंचायतों में साफ-सफाई व्यवस्था बदहाल है। जगह-जगह गंदगी का अंबार लगा हुआ है, जिससे ग्रामीणों को भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/pauli/news/sant-kabir-nagar-pauli-village-sanitation-health-crisis-news-138829945.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/32f78892-4784-49dc-8699-2ede7338dee8_1787632212900.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "लकड़ी का खंभा बना बिजली का पोल:विक्रमजोत में ग्रामीण बोले- कभी भी हो सकता है बड़ा हादसा",
+      "summary": "विक्रमजोत के धीरोली ( नई दुनिया) गाँव एक माह पूर्व आई आंधी के कारण 11 हजार वोल्ट की बिजली लाइन पर नीम का पेड़ गिर गया था। इस घटना में दो बिजली के खंभे टूट गए और एक खंभा लटक गया था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/vikramjot/news/vikramjot-dhiroli-electric-pole-accident-danger-news-138829866.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/36150037-1BE7-4925-BF16-3D47F71C1712_1787631364907.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "बारिश से सड़कों पर जलभराव:गंधरिया फ़ैज में राहगीरों को आवाजाही में हो रही परेशानी",
+      "summary": "बस्ती साउघाट के जमदा शाही चौराहे पर हुई बारिश के बाद सड़कों पर पानी जमा हो गया है। इससे राहगीरों को आवाजाही में भारी परेशानी का सामना करना पड़ रहा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/gandhariyafaij/news/basti-saughat-jamda-shahi-rain-water-logging-commuters-trouble-138829981.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/e3c4034e-c6b4-4206-8725-c03de3b98263_1787632793834.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
+    },
+    {
+      "district": "Basti",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "भूमि विवाद में युवक की मौत:बेटे ने हत्या का आरोप लगाया, पुलिस को पोस्टमार्टम रिपोर्ट का इंतजार",
+      "summary": "बस्ती के छावनी थाना क्षेत्र के गोड़सरा तिवारी गांव में सोमवार रात भूमि विवाद को लेकर हुए झगड़े के बाद 35 वर्षीय फूलचंद्र यादव की संदिग्ध परिस्थितियों में मौत हो गई। घटना रात करीब नौ बजे की बताई जा रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/news/basti-land-dispute-youth-death-murder-allegation-police-investigation-138829986.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/25/455b663d-68db-4141-957c-3872b7a3802b_1787630689883.jpg",
+      "scrape_date": "2026-08-25",
+      "scrape_time": "05:26"
     }
   ]
 }
