@@ -1,7 +1,7 @@
 {
   "date": "2026-08-31",
-  "article_count": 970,
-  "last_updated": "2026-08-31T17:50:04.310238",
+  "article_count": 973,
+  "last_updated": "2026-08-31T22:12:13.396653",
   "articles": [
     {
       "district": "Kushinagar",
@@ -10672,6 +10672,39 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/31/9739a376-1822-4025-9ef3-9e1e8de7b013_1788174079436.jpg",
       "scrape_date": "2026-08-31",
       "scrape_time": "17:50"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "डायग्नोस्टिक सेंटर के कर्मचारी ने खुद को मारी गोली:गोरखपुर में मची अफरा-तफरी, पुलिस ने घायल को भर्ती कराया",
+      "summary": "गोरखपुर के खोराबार के रानीडीह स्थित वर्ड विजन डायग्नोसिस सेंटर में सोमवार को सेंटर के एक कर्मचारी के सिर में गोली लग गई। घटना की सूचना मिलते ही खोराबार पुलिस मौके पर पहुंच गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-diagnostic-center-employee-suicide-attempt-khorabar-news-138892332.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/01/new-project-2026-09-01t000316550_1788201207.jpg",
+      "scrape_date": "2026-08-31",
+      "scrape_time": "22:12"
+    },
+    {
+      "district": "Mau",
+      "assembly": "Madhuban",
+      "category": "Political",
+      "headline": "चंद्रशेखर आजाद कल मधुबन में करेंगे जनसभा:प्रत्याशी के समर्थन में जुटेंगे कार्यकर्ता, बारिश से तैयारियों पर असर",
+      "summary": "आज़ाद समाज पार्टी के संस्थापक और नगीना से सांसद चंद्रशेखर आज़ाद 1 सितंबर, मंगलवार को मऊ के मधुबन पहुंचेंगे। वे यहां पांति स्थित गांधी मैदान में एक जनसभा को संबोधित करेंगे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/mau/madhuban/news/chandrashekhar-azad-madhuban-mau-jan-sabha-rally-news-update-138892236.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/31/c421e754-6188-4018-834e-afa1bec10a02_1788182965092.jpg",
+      "scrape_date": "2026-08-31",
+      "scrape_time": "22:12"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Jakhanian",
+      "category": "Utilities",
+      "headline": "गाजीपुर में 150 गांवों की बिजली गुल:मरदह सब स्टेशन से आपूर्ति बाधित, 5 लाख आबादी प्रभावित",
+      "summary": "गाजीपुर के मरदह विद्युत सब स्टेशन से जुड़े लगभग 150 गांवों में सोमवार को छह घंटे से अधिक समय तक बिजली आपूर्ति बाधित रही। इससे करीब पांच लाख की आबादी प्रभावित हुई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/mardah/news/ghazipur-maradaha-power-outage-electricity-supply-affected-138892259.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/08/31/244c129e-0d72-438f-85bc-845e27da073b_1788186720233.jpg",
+      "scrape_date": "2026-08-31",
+      "scrape_time": "22:12"
     }
   ]
 }
