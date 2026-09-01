@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
-  "article_count": 1047,
-  "last_updated": "2026-09-01T20:19:22.622574",
+  "article_count": 1048,
+  "last_updated": "2026-09-01T22:57:42.187883",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11519,6 +11519,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/01/images-12_1788280498.jpg",
       "scrape_date": "2026-09-01",
       "scrape_time": "20:19"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "सपा नेता डक्कू, महानगर अध्यक्ष पर केस दर्ज:जमीन कब्जा व मारपीट का आरोप लगाया; डक्कू ने कहा-अपनी जमीन पर मलबा हटाने गए थे",
+      "summary": "सपा के वरिष्ठ नेता एवं गोरखपुर ग्रामीण से विधानसभा चुनाव लड़ चुके जफर अमीन डक्कू पर खोखर टोला में जमीन कब्जाने एवं मारपीट के आरोप लगे हैं। मंगलवार की देर रात राजघाट थाने में उनपर एफआईआर दर्ज की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-sp-leader-zafar-amin-dakku-land-grab-case-controversy-138903084.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/02/gifmagicsite-2026-09-02t012910477_1788292763.gif",
+      "scrape_date": "2026-09-01",
+      "scrape_time": "22:57"
     }
   ]
 }
