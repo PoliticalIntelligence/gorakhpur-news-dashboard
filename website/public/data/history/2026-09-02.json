@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "article_count": 1097,
-  "last_updated": "2026-09-02T18:17:24.388100",
+  "article_count": 1101,
+  "last_updated": "2026-09-02T21:31:01.468781",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12069,6 +12069,50 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/02/ce50bfd2-c645-4f99-a4f4-d12dbf06f51d_1788357927739.jpg",
       "scrape_date": "2026-09-02",
       "scrape_time": "18:17"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "गोरखपुर में 6 उपकेंद्रों से बिजली सप्लाई बंद रहेगी:सुबह 9 से दोपहर 3 बजे तक कई इलाके कटौती से प्रभावित होंगे",
+      "summary": "गोरखपुर के कई इलाकों में गुरुवार को बिजली का रख-रखाव, तार बदलने, लाइन शिफ्टिंग और पेड़ों की छंटाई का काम किया जाएगा। इस वजह से राप्तीनगर, शाहपुर, रानीपुर, तारामंडल, पादरी बाजार, मोतीपोखरा और आसपास के क्षेत्रों में सुबह 9 बजे से दोपहर 3 बजे तक अलग-अलग हालांकि, मेडिकल कॉलेज उपकेंद्र से जुड़े क्षेत्रों को दूसरे पावर हाउस से जोड़कर बिजली चालू रखी जाएगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-maintenance-update-raptinagar-shahpur-138912740.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/03/gifmagicsite-2026-08-08t004517803_1788374960.gif",
+      "scrape_date": "2026-09-02",
+      "scrape_time": "21:31"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "इज्जतनगर एक्सप्रेस के इंजन का पेंटोग्राफ टूटा:गोरखपुर रेलवे प्लेटफॉर्म के ओवरहेड तार में उठी चिंगारी, यात्री घबराए, देखें VIDEO",
+      "summary": "गोरखपुर जंक्शन पर बुधवार रात एक बड़ा रेल हादसा होते-होते टल गया। गोरखपुर से चलने वाली 15009 इज्जतनगर एक्सप्रेस प्लेटफार्म पर आने के लिए ओल्ड वाशिंग पिट से आगे बढ़ रही थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-railway-station-izatnagar-express-overhead-wire-spark-video-138913049.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/03/gifmagicsite-2026-09-03t012820517_1788379294.gif",
+      "scrape_date": "2026-09-02",
+      "scrape_time": "21:31"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "कार की चपेट में आने से दो युवक घायल:हालत गंभीर, AIIMS में चल रहा इलाज, गोरखपुर में सड़क पार कर रहे थे बाइक सवार",
+      "summary": "गोरखपुर में सड़क पार कर रहे बाइक सवार दो युवकों को पीछे से आ रही तेज रफ्तार कार ने टक्कर मार दी। टक्कर इतनी तेज थी कि दोनों युवक छटककर कुछ दूर जाकर सड़क पर गिर गए और गंभीर रूप से घायल हो गए,जबकि कार चालक मौके से फरार हो गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-accident-bike-riders-hit-by-car-aiims-treatment-138912447.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/02/gifmagicsite-2026-09-02t234302764_1788373426.gif",
+      "scrape_date": "2026-09-02",
+      "scrape_time": "21:31"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "Zamania",
+      "category": "Other",
+      "headline": "करहिया स्टेशन पर सुपरफास्ट ट्रेन पहुंची, ग्रामीणों ने किया स्वागत:लोको पायलट व गार्ड को माला पहनाकर मिठाई खिलाई, मां कामाख्या की चुनरी भेंट की",
+      "summary": "पंडित दीनदयाल उपाध्याय-दानापुर रेलखंड के करहिया रेलवे स्टेशन पर बुधवार शाम बक्सर-डीडीयू-बक्सर सुपरफास्ट पैसेंजर स्पेशल ट्रेन पहुंची। ट्रेन के शाम 7:22 बजे स्टेशन पर आने की सूचना पर बड़ी संख्या में ग्रामीण और रेल यात्री जुट गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/sevrai/news/karahiya-station-superfast-train-welcome-loco-pilot-guard-bihar-news-138912164.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/02/b8beb7af-4f4f-44af-9d02-07d08c368788_1788362236596.jpg",
+      "scrape_date": "2026-09-02",
+      "scrape_time": "21:31"
     }
   ]
 }
