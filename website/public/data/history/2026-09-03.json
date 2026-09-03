@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
-  "article_count": 1226,
-  "last_updated": "2026-09-03T21:38:12.885011",
+  "article_count": 1228,
+  "last_updated": "2026-09-03T23:44:27.984683",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13488,6 +13488,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/03/837de3ab-6d65-40e4-a1c4-9b46262e3776_1788438042635.jpg",
       "scrape_date": "2026-09-03",
       "scrape_time": "21:38"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "आज गोरखपुर आएंगे CM योगी:श्रीकृष्ण जन्मोत्सव कार्यक्रम में शामिल होंगे; नन्हे कन्हैया को देंगे उपहार",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ शुक्रवार की शाम को गोरखपुर आएंगे। वह गोरखनाथ मंदिर में आयोजित श्रीराम जन्मोत्सव कार्यक्रम में शामिल होंगे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-yogi-adityanath-krishna-janmotsav-event-visit-photos-138921960.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/03/gifmagicsite-2026-08-30t092810152_1788450795.gif",
+      "scrape_date": "2026-09-03",
+      "scrape_time": "23:44"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "अपेक्षाओं के भार से क्षेत्रीय सूची को मिला विस्तार:चुनावी वर्ष में सबको साधने की कवायद; पहली बार इतनी लंबी सूची आयी",
+      "summary": "विधानसभा चुनाव धीरे-धीरे नजदीक आ रहा है। ऐसे में चुनाव मैदान से दूर खड़े भाजपा नेता संगठन में सम्मानजनक जगह चाहते थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/bjp-regional-team-list-expansion-election-2026-strategy-news-138923197.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/04/gifmagicsite-2026-08-20t170425133_1788462875.gif",
+      "scrape_date": "2026-09-03",
+      "scrape_time": "23:44"
     }
   ]
 }
