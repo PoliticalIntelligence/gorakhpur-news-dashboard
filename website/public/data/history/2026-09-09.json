@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
-  "article_count": 872,
-  "last_updated": "2026-09-09T18:12:14.740516",
+  "article_count": 875,
+  "last_updated": "2026-09-09T21:25:19.074030",
   "articles": [
     {
       "district": "Kushinagar",
@@ -9594,6 +9594,39 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/09/095a484a-8445-40d8-ac39-82e6040d52fc_1788960571402.jpg",
       "scrape_date": "2026-09-09",
       "scrape_time": "18:12"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में NSG-ATS ने किया मॉकड्रिल:हमले की स्थिति में VIP को बचाने की परखी तैयारी, सड़क पर निकला काफिला",
+      "summary": "गोरखपुर में वीआईपी मूवमेंट के दौरान किसी तरह के हमले या आपात स्थिति से निपटने के लिए बुधवार को मॉकड्रिल की गई। यह अभ्यास एयरपोर्ट से सर्किट हाउस तक निर्धारित रूट पर किया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-nsg-ats-mockdrill-vip-security-update-138983808.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/10/08ecb0a7-8ce9-4952-becc-64c5642d4629_1788982373.png",
+      "scrape_date": "2026-09-09",
+      "scrape_time": "21:25"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "दृश्यम फेम ईशिता को पसंद है चाइनीज फूड:'घमासान' में अगल अंदाज में नजर आएंगी, गोरखपुर में बोली- नेगेटिव रोल प्ले करना चाहती हूं",
+      "summary": "बॉलीवुड एक्ट्रेस और दृश्यम फेम ईशिता दत्ता एक निजी प्रोग्राम में शामिल होने के लिए बुधवार को गोरखपुर पहुंचीं। उन्होंने अपने मॉडलिंग और खूबसूरत अंदाज से लोगों का दिल जीत लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/ishita-dutta-gorakhpur-visit-ghamasan-movie-negative-role-statement-138983243.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/09/gifmagicsite-2026-09-09t232957317_1788976901.gif",
+      "scrape_date": "2026-09-09",
+      "scrape_time": "21:25"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "सुबह 11 बजे से दोपहर 3 बजे तक कटेगी बिजली:गोरखपुर में सड़क चौड़ीकरण, लाइन शिफ्टिंग की वजह से कई इलाके रहेंगे प्रभावित",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण, लाइन शिफ्टिंग और नई लाइनों के निर्माण काम के चलते गुरुवार को कई इलाकाें में बिजली कटौती की जाएगी। पादरी बाजार, राप्तीनगर, दुर्गाबाड़ी, शाहपुर और सरहरी उपकेंद्रों से जुड़े दर्जनों इलाकों की बिजली सप्लाई 4 से 6 घंटे तक पूरी त बिजली विभाग ने उपभोक्ताओं को सलाह दी है कि वे पानी भरने और इनवर्टर चार्ज करने जैसे जरूरी काम सुबह 11 बजे से पहले ही निपटा लें ताकि बाद में कोई परेशानी न हो।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-line-shifting-update-138983401.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/10/gifmagicsite-2026-08-08t004517803_1788979436.gif",
+      "scrape_date": "2026-09-09",
+      "scrape_time": "21:25"
     }
   ]
 }
