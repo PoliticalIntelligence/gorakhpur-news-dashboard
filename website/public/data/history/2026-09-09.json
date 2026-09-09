@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
-  "article_count": 875,
-  "last_updated": "2026-09-09T21:25:19.074030",
+  "article_count": 876,
+  "last_updated": "2026-09-09T23:42:57.639039",
   "articles": [
     {
       "district": "Kushinagar",
@@ -9627,6 +9627,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/10/gifmagicsite-2026-08-08t004517803_1788979436.gif",
       "scrape_date": "2026-09-09",
       "scrape_time": "21:25"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "जेल के बाहर कठिनाइयों से भरे हैं अमरमणि के रास्ते:जिस कांग्रेस से 2 बार विधायक बने, फिर उसी से आस",
+      "summary": "अमरमणि त्रिपाठी जब से अपनी बाकी सजा माफ होने के बाद जेल से बाहर आए हैं, उन्हें कठिनाइयों से भरे रास्तों से गुजरना पड़ रहा है। दिन-रात एक कर किसी तरह बेटे को विधायक बनाना चाहते हैं लेकिन अभी टिकट का जुगाड़ करना आसान नहीं दिख रहा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/amarmani-tripathi-congress-ticket-mla-political-struggle-news-138983102.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/09/gifmagicsite-2026-09-08t121456821_1788976652.gif",
+      "scrape_date": "2026-09-09",
+      "scrape_time": "23:42"
     }
   ]
 }
