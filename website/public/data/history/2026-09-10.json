@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
-  "article_count": 1225,
-  "last_updated": "2026-09-10T18:52:28.835192",
+  "article_count": 1227,
+  "last_updated": "2026-09-10T21:22:18.418188",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13477,6 +13477,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/10/e5a63cbb-bbe3-4a6e-a336-563b8c005db7_1789060123918.jpg",
       "scrape_date": "2026-09-10",
       "scrape_time": "18:52"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Campierganj",
+      "category": "Law & Order",
+      "headline": "तीन शादियां कर चुकी युवती चौथे के साथ फरार:गोरखपुर में परिजनों ने गुमशुदगी दर्ज कराई, पुलिस ने बरामद कर मां को सौंपा",
+      "summary": "गोरखपुर के पीपीगंज थाना क्षेत्र में एक 28 साल की युवती तीन शादियां करने के बाद चौथे आशिक के साथ दो महीने पहले फरार हो गई थी। युवती के परिजनों ने पीपीगंज पुलिस में गुमशुदगी दर्ज कराई थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/campierganj/news/gorakhpur-missing-woman-recovered-police-ppganj-case-138993187.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/11/8F626F2B-7282-4BD9-BC23-2E06D94831F6_1789053265683.jpg",
+      "scrape_date": "2026-09-10",
+      "scrape_time": "21:22"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में आज 5 से 6 घंटे गुल रहेगी बिजली:राप्तीनगर, शाहपुर और नेतवर सहित कई इलाकों में सप्लाई रहेगी ठप",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण, लाइन शिफ्टिंग, नई 33केवी लाइन के निर्माण और स्ट्रेंथनिंग के कामों के चलते शुक्रवार को कई इलाकों में बिजली कटौती की जाएगी। राप्तीनगर, शाहपुर, सरहरी और नेतवर उपकेंद्रों से जुड़े दर्जनों मोहल्लों में 5 से 6 घंटे तक बिजली सप्लाई बंद रहेगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-raptinagar-shahpur-netwar-bijli-update-138993188.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/11/bulb1778035656_1789066080.gif",
+      "scrape_date": "2026-09-10",
+      "scrape_time": "21:22"
     }
   ]
 }
