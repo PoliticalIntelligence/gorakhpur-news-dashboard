@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "article_count": 1141,
-  "last_updated": "2026-09-11T18:54:07.829551",
+  "article_count": 1142,
+  "last_updated": "2026-09-11T21:30:10.505606",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12553,6 +12553,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/11/7ef4af30-0518-4b11-a906-5ddfd82d0233_1789131653076.jpg",
       "scrape_date": "2026-09-11",
       "scrape_time": "18:54"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में 5 घंटे बिजली सप्लाई बंद रहेगी:कटौती से राप्तीनगर, फर्टिलाइजर और गोरखनाथ सहित कई इलाके प्रभावित होंगे",
+      "summary": "गोरखपु में सड़क चौड़ीकरण, बिजली की लाइनों की शिफ्टिंग और मेंटेनेंस के कामों के चलते शनिवार यानी को कई इलाकों में बिजली कटौती की जाएगी। राप्तीनगर, फर्टिलाइजर, शाहपुर और एफसीआई उपकेंद्रों से जुड़े दर्जनों मोहल्लों में 4 से 5 घंटे तक बिजली सप्लाई पूरी त बिजली विभाग ने उपभोक्ताओं को सलाह दी है कि वे पानी भरने और इनवर्टर चार्ज करने जैसे जरूरी काम सुबह 11 बजे से पहले ही निपटा लें।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-raptinagar-fertilizer-maintenance-update-139003922.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/12/gifmagicsite-2026-08-08t004517803_1789157879.gif",
+      "scrape_date": "2026-09-11",
+      "scrape_time": "21:30"
     }
   ]
 }
