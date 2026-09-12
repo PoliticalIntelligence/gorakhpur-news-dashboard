@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "article_count": 1167,
-  "last_updated": "2026-09-12T17:35:45.340869",
+  "article_count": 1169,
+  "last_updated": "2026-09-12T19:52:06.537216",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12839,6 +12839,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/12/2ff9ea63-ab78-471d-9b5f-5073cc030ddb_1789225135061.jpg",
       "scrape_date": "2026-09-12",
       "scrape_time": "17:35"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर के राजघाट में हुआ IIT इंजीनियर का अंतिम संस्कार:अक्सर स्विगी और जोमैटो से मंगाते थे खाना, बाइक पर लग गए जंग",
+      "summary": "गोरखपुर के सहारा स्टेट स्थित मल्हार अपार्टमेंट में शुक्रवार को इंजीनियर अभिषेक त्रिपाठी का शव मिलने के बाद शनिवार को उनका अंतिम संस्कार कर दिया गया। राजघाट पर दोपहर करीब एक बजे उनके बहनोई ने मुखाग्नि दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-engineer-abhishek-tripathi-death-mysterious-case-139013717.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/gifmagicsite-2026-09-13t010529878_1789241769.gif",
+      "scrape_date": "2026-09-12",
+      "scrape_time": "19:52"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Campierganj",
+      "category": "Law & Order",
+      "headline": "नाबालिग चालक ऑटो लेकर रेलवे फाटक के बैरियर में घुसा:गोरखपुर में दोनों बैरियर टूटे, घंटों परेशान रहे यात्री; वाहनों की आवाजाही ठप रही",
+      "summary": "गोरखपुर-नौतनवा-गोंडा रेलखंड पर पीपीगंज रेलवे स्टेशन के पास समपार फाटक संख्या 14-सी पर शनिवार रात करीब 9 बजे तेज रफ्तार इलेक्ट्रॉनिक ऑटो ने बंद रेलवे फाटक में टक्कर मार दी। हादसे में फाटक के दोनों बैरियर टूट गए और ऑटो भी क्षतिग्रस्त हो गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/campierganj/news/gorakhpur-ppganj-railway-crossing-accident-minor-auto-driver-139012017.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/12/7581BA60-62C3-4618-AD98-86755F05D108_1789231447491.jpg",
+      "scrape_date": "2026-09-12",
+      "scrape_time": "19:52"
     }
   ]
 }
