@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "article_count": 1169,
-  "last_updated": "2026-09-12T19:52:06.537216",
+  "article_count": 1170,
+  "last_updated": "2026-09-12T21:52:11.461341",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12861,6 +12861,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/12/7581BA60-62C3-4618-AD98-86755F05D108_1789231447491.jpg",
       "scrape_date": "2026-09-12",
       "scrape_time": "19:52"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में पूर्व डिप्टी मेयर को सोशल मीडिया पर धमकी:छवि खराब करने और मारने का आरोप, दर्ज हुआ FIR",
+      "summary": "गोरखपुर के शाहपुर के राप्तीनगर निवासी पूर्व उपसभापति एवं पार्षद प्रतिनिधि बृजेश सिंह उर्फ छोटू की शिकायत पर शाहपुर पुलिस ने सोशल मीडिया पर आपत्तिजनक पोस्ट करने के आरोप में एक युवक के खिलाफ मुकदमा दर्ज किया है। आरोप है कि युवक ने सोशल मीडिया पर पोस्ट के जरिए बृजेश सिंह की छवि खराब करने का प्रयास किया और उन्हें धमकी भी दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-former-deputy-mayor-threat-fir-social-media-controversy-139014219.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/gifmagicsite-2026-09-13t024359153_1789247681.gif",
+      "scrape_date": "2026-09-12",
+      "scrape_time": "21:52"
     }
   ]
 }
