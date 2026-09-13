@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
-  "article_count": 1172,
-  "last_updated": "2026-09-13T21:58:37.113566",
+  "article_count": 1173,
+  "last_updated": "2026-09-13T23:50:23.931521",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12894,6 +12894,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/gifmagicsite-2026-08-08t004517803_1789320947.gif",
       "scrape_date": "2026-09-13",
       "scrape_time": "21:58"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "GIDA की फ्लैटेड फैक्ट्री में 29-35 लाख में हॉल मिलेंगे:गोरखपुर के रेडीमेड गारमेंट उद्यमियों को आवंटन जल्द, ई-लॉटरी से चयन होगा",
+      "summary": "गोरखपुर औद्योगिक विकास प्राधिकरण (GIDA) के सेक्टर-13 में बने प्रदेश के दूसरे फ्लैटेड फैक्ट्री कॉम्प्लेक्स में जल्द ही रेडीमेड गारमेंट उद्यमियों को हॉल आवंटित किए जाएंगे। करीब 1,049 वर्गफीट के एक हॉल की कीमत तल के हिसाब से 29 से 35 लाख रुपए के बीच होग बोर्ड से मंजूरी मिलने के बाद हॉल आवंटन के लिए आवेदन निकाले जाएंगे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-gida-flatted-factory-allotment-rate-list-update-139019772.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/gifmagicsite-2026-09-13t185843071_1789306127.gif",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "23:50"
     }
   ]
 }
