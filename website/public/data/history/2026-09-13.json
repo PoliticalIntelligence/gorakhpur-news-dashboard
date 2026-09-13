@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
-  "article_count": 1158,
-  "last_updated": "2026-09-13T16:48:28.331346",
+  "article_count": 1171,
+  "last_updated": "2026-09-13T19:07:33.581681",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12740,6 +12740,149 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/e73a5b45-ba86-45b6-92d1-4a183246fe32_1789301683271.jpg",
       "scrape_date": "2026-09-13",
       "scrape_time": "16:48"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "नई बस्ती में ग्रामीणों का प्रदर्शन:मानिकौरा फीडर से जुड़े गांवों में पोल लगाने और नियमित सप्लाई की मांग",
+      "summary": "जंगल खिरकिया नई बस्ती के ग्रामीणों ने रविवार को मानिकौरा फीडर से जुड़ी बिजली समस्याओं को लेकर विरोध प्रदर्शन किया। उन्होंने बिजली विभाग से इलाके में बिजली सप्लाई ठीक करने और जहां पोल नहीं हैं, वहां नए पोल लगाने की मांग की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/bansi/news/manikaura-feeder-villagers-protest-electricity-poles-supply-demand-139021307.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/19837650-b452-4ef9-8ca5-5880c9c31cd5_1789319189015.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Kushinagar",
+      "category": "Law & Order",
+      "headline": "हाथ में ईंट लेकर पुलिस को खोजता रहा युवक:कसया में चौकी में रहे पुलिसकर्मी, मारपीट और चेन छीनने का आरोप",
+      "summary": "कसया के गांधी चौक पर रविवार देर रात हड़कंप मच गया। एक युवक हाथ में ईंट का टुकड़ा लेकर पुलिसकर्मियों को खोजने लगा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/kasya/news/kasya-gandhi-chowk-police-assault-allegation-controversy-139021440.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/8e6b4318-d613-4658-95ee-8365066b8d1d_1789319401417.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Kushinagar",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "खड्डा में निकली भगवान गणपति की शोभायात्रा:विधायक ने नगर भ्रमण कर सुख-समृद्धि की कामना की",
+      "summary": "कुशीनगर के खड्डा नगर पंचायत में रविवार रात भगवान श्री गणपति की शोभायात्रा निकाली गई। यह शोभायात्रा श्री गणपति पूजा सेवा समिति ने आयोजित की थी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/kushinagar/madanpur/news/khadda-ganpati-shobhayatra-vivekanand-pandey-visit-kushinagar-139021446.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/86009a75-36f4-47a9-b313-45b5ce07557a_1789320041473.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "चार्जिंग में लगा मोबाइल चलाते समय चार्जर फटा:12 साल का बच्चा गंभीर हालत में गोरखपुर रेफर; गेम खेलते समय हादसा",
+      "summary": "देवरिया के गौरी बाजार थाना क्षेत्र के बांकी गांव में रविवार शाम करीब 7 बजे 12 वर्षीय सुजीत विश्वकर्मा मोबाइल चार्जिंग पर लगाकर गेम खेल रहा था। इसी दौरान अचानक चार्जर फट गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-boy-injured-mobile-charger-blast-gorakhpur-refer-139021306.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/a932e132-e7c0-4970-bca0-1dfeea7f5eed_1789316877046.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "बुर्के वाली ने ज्वेलरी शॉप से सोना उड़ाया:पुलिस ने गिरफ्तार किया, गोरखपुर में CCTV से हुआ खुलासा",
+      "summary": "गोरखपुर में बुर्का पहन कर ज्वेलरी शॉप से सोना चुराने वाली एक महिला को पुलिस ने रविवार को गिरफ्तार कर लिया। पीड़ित की ओर से मिलान करते वक्त स्टॉक में अंतर मिला था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-jewellery-shop-theft-burqa-woman-arrested-cctv-footage-139021482.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/new-project-2026-09-13t222953792_1789320008.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में महिला से मारपीट, गाली-गलौज:तीन लोगों के खिलाफ केस दर्ज; पुलिस ने शुरू की जांच",
+      "summary": "गोरखपुर के चिलुआताल थाना क्षेत्र में एक महिला ने अपने तीन पड़ोसियों पर मारपीट, गाली-गलौज और जान से मारने की धमकी देने का आरोप लगाया है। पुलिस ने महिला की शिकायत पर मामला दर्ज कर जांच शुरू कर दी है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/sarahari/news/gorakhpur-chilua-tal-woman-assault-case-police-investigation-139021286.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/b5d84d59-683b-4afd-bca8-93dbb3284460_1789318392063.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Utilities",
+      "headline": "सोनौरा बुजुर्ग में गणपति बप्पा का धूमधाम से आगमन:कैम्पियरगंज में भक्तिमय माहौल में स्थापित हुई भव्य प्रतिमा",
+      "summary": "गोरखपुर के कैम्पियरगंज क्षेत्र के सोनौरा बुजुर्ग गांव में गणेशोत्सव की शुरुआत बड़े उत्साह और श्रद्धा के साथ हुई। 'श्री जय माँ काली मंदिर समिति सोनौरा बुजुर्ग' ने भगवान गणेश की प्रतिमा का भव्य आगमन कराया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/balua/news/campierganj-sonaura-buzurg-ganesh-utsav-idol-installation-update-139021449.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/94f9f7c0-72c3-43f6-9303-cab820a3bfcf_1789320242255.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "अतरौलिया में तीन बच्चों की मां प्रेमी संग फरार:पति ने लगाया जेवर और नकदी ले जाने का आरोप",
+      "summary": "अतरौलिया थाना क्षेत्र में प्रेम प्रसंग का एक मामला सामने आया है। यहां एक पति ने अपनी तीन बच्चों की मां पत्नी पर प्रेमी के साथ घर से भागने का आरोप लगाया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/atrauliya/news/atrauliya-wife-elopes-lover-husband-complaint-crime-139021225.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/8ba5f102-4b7b-402a-ba97-fa8bba9cbff5_1789317592188.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Ghazipur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "तीज से पहले बाजार में सुहाग सामान की खूब खरीदारी:गाजीपुर में गौरी-गणेश और पूजा सामग्री के लिए उमड़ी लोगों की भीड़",
+      "summary": "गाजीपुर में हरितालिका तीज से एक दिन पहले रविवार शाम 6 बजे से शहर के मिश्र बाजार और लाल दरवाजा समेत प्रमुख बाजारों में रौनक बढ़ गई। शाम होते ही महिलाएं खरीदारी के लिए बाजार पहुंचने लगीं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ghazipur/news/ghazipur-hartalika-teej-shopping-market-puja-samagri-gauri-ganesh-139021221.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/c3c0656d-b67e-4052-a2f2-d6d49b2fdcdc_1789314131308.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Maharajganj",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "तेज रफ्तार बाइक ने मोमो के ठेले को मारी टक्कर:कोठीभार में बाइक सवार घायल, सूचना पर 112 पुलिस मौके पर पहुंची",
+      "summary": "कोठीभार थाना क्षेत्र के कटहरी खुर्द गांव में सोमवार रात एक तेज रफ्तार बाइक बेकाबू होकर सड़क किनारे खड़े मोमो के ठेले से टकरा गई। इस हादसे में ठेला पूरी तरह टूट गया और बाइक सवार घायल हो गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/maharajganj/sabaya/news/kothibhar-katahri-khurd-bike-accident-momo-cart-crash-news-139021303.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/490ef442-9b3c-4d18-9909-fce91e1a08ec_1789318977805.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "सरकार के खिलाफ आवाज उठाने वालों को डराया जा रहा:मनीष सिसोदिया बोले- यूपी में मिड-डे मील पर सवाल करने पर जेल भेज दिया जाता है",
+      "summary": "आम आदमी पार्टी के वरिष्ठ नेता और दिल्ली के पूर्व उपमुख्यमंत्री मनीष सिसोदिया रविवार को संतकबीरनगर पहुंचे। बघौली ब्लॉक के सिकोहरा गांव में उन्होंने पार्टी के पूर्व विधायक दुर्गेश पाठक की मां शांति देवी के तेरहवीं ब्रह्मभोज कार्यक्रम में शामिल होकर श्रद्धांजलि दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/santkabirnagar-manish-sisodia-up-government-mid-day-meal-statement-139021476.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/gifmagicsite-2026-09-13t225248195_1789320565.gif",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Agriculture",
+      "headline": "4.91 करोड़ की कुआनो पंप नहर आधुनिकीकरण परियोजना शुरू:संतकबीरनगर में जल शक्ति मंत्री ने किया उद्घाटन, 3,488 हेक्टेयर अतिरिक्त सिंचाई क्षमता बढ़ेगी",
+      "summary": "संतकबीरनगर में प्रदेश के जल शक्ति मंत्री स्वतंत्र देव सिंह ने रविवार को संतकबीरनगर में 491.68 लाख रुपए की चौधरी चरण सिंह कुआनो पंप नहर आधुनिकीकरण परियोजना का उद्घाटन किया। शाम करीब 5 बजे मुखलिसपुर में आयोजित कार्यक्रम में मंत्री ने पूजा-पाठ के बाद परियोजना को किसानों को समर्पित किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/santkabirnagar-kuano-pump-canal-inauguration-swatantra-dev-singh-139021296.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/95ece4bc-0ab6-4740-9332-9824fe361232_1789315030212.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
+    },
+    {
+      "district": "Basti",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "पायकपुर की शुभम का MBBS में दाखिला:गांव में बंटे लड्डू; सुपर-30 बैच से की मेडिकल परीक्षा की तैयारी",
+      "summary": "बस्ती के दुबौलिया विकास क्षेत्र के पायकपुर ग्राम पंचायत के मरवटिया गांव निवासी हेमराज की बेटी शुभम ने एमबीबीएस में दाखिला हासिल किया है। बेटी की इस उपलब्धि से परिवार के साथ पूरे गांव में खुशी का माहौल है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/basti/baragal/news/basti-shubham-mbbs-admission-success-story-marwatia-139021244.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/9aa58007-6bbd-4ec5-a189-1a04a15235fb_1789317845447.jpg",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "19:07"
     }
   ]
 }
