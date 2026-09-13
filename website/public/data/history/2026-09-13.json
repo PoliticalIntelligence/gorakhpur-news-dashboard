@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
-  "article_count": 1171,
-  "last_updated": "2026-09-13T19:07:33.581681",
+  "article_count": 1172,
+  "last_updated": "2026-09-13T21:58:37.113566",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12883,6 +12883,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/9aa58007-6bbd-4ec5-a189-1a04a15235fb_1789317845447.jpg",
       "scrape_date": "2026-09-13",
       "scrape_time": "19:07"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में आज 5 घंटे कटेगी बिजली:पादरी बाजार, राप्तीनगर और दुर्गाबाड़ी सहित कई इलाकों में सप्लाई रहेगी ठप",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण और शिफ्टिंग के चलते सोमवार को कई इलाकों में बिजली कटौती की जाएगी। पादरी बाजार, राप्तीनगर और दुर्गाबाड़ी उपकेंद्रों से जुड़े दर्जनों मोहल्लों में सुबह 11:00 बजे से दोपहर 4:00 बजे तक लगातार 5 घंटे बिजली सप्लाई पूरी तरह बंद रहे बिजली विभाग ने उपभोक्ताओं को सलाह दी है कि वे पानी भरने और इनवर्टर चार्ज करने जैसे जरूरी काम सुबह 11 बजे से पहले ही निपटा लें।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-padri-bazar-raptinagar-durgabari-electricity-139022940.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/13/gifmagicsite-2026-08-08t004517803_1789320947.gif",
+      "scrape_date": "2026-09-13",
+      "scrape_time": "21:58"
     }
   ]
 }
