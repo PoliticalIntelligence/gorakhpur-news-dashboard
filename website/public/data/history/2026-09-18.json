@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "article_count": 1363,
-  "last_updated": "2026-09-18T21:26:32.005232",
+  "article_count": 1364,
+  "last_updated": "2026-09-18T23:48:51.600968",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14995,6 +14995,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/19/gifmagicsite-2026-09-19t020830894_1789763926.gif",
       "scrape_date": "2026-09-18",
       "scrape_time": "21:26"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "2027 की जीत के लिए तावड़े ने दिए 3 मंत्र:जिलाध्यक्षों को राजनीतिक, सामाजिक, संगठनात्मक विश्लेषण कर देनी होगी रिपोर्ट",
+      "summary": "गोरखपुर क्षेत्र में विधानसभा चुनाव 2027 को लेकर औपचारिक शुरूआत हो चुकी है। भाजपा के राष्ट्रीय महासचिव एवं उत्तर प्रदेश के प्रभारी विनोद तावड़े ने बैठकों के जरिए संगठन व जनप्रतिनिधियों में जोश भरा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-bjp-vinod-tawde-election-strategy-2027-analysis-139074911.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/19/gifmagicsite-2026-09-18t232120107_1789760857.gif",
+      "scrape_date": "2026-09-18",
+      "scrape_time": "23:48"
     }
   ]
 }
