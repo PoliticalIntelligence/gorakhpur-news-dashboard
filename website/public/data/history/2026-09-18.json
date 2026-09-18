@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "article_count": 1362,
-  "last_updated": "2026-09-18T18:47:49.831751",
+  "article_count": 1363,
+  "last_updated": "2026-09-18T21:26:32.005232",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14984,6 +14984,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/18/cfe53dab-9217-4103-8c4e-9de7bcb7c74b_1789743221696.jpg",
       "scrape_date": "2026-09-18",
       "scrape_time": "18:47"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "रात 10 बजे डा. संजय निषाद के घर पहुंचे तावड़े:पूरे परिवार से मिले प्रदेश प्रभारी; भाजपा से नाराजगी की चर्चा पर विराम लगा",
+      "summary": "भाजपा के राष्ट्रीय महासचिव व उत्तर प्रदेश के प्रभारी विनोद तावड़े देर रात तक एक्टिव नजर आए। होटल में खाना खाने के बाद रात 10 बजे वह निषाद पार्टी के राष्ट्रीय अध्यक्ष के पादरी बाजार स्थित आवास पहुंच गए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/vinod-tawde-sanjay-nishad-gorakhpur-visit-bjp-alliance-update-139075038.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/19/gifmagicsite-2026-09-19t020830894_1789763926.gif",
+      "scrape_date": "2026-09-18",
+      "scrape_time": "21:26"
     }
   ]
 }
