@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
-  "article_count": 1126,
-  "last_updated": "2026-09-23T18:07:45.108202",
+  "article_count": 1130,
+  "last_updated": "2026-09-23T21:57:46.774923",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12388,6 +12388,50 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/23/eef9ee34-941d-46a9-919b-1bdb82033ea3_1790156285435.jpg",
       "scrape_date": "2026-09-23",
       "scrape_time": "18:07"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "खाद्य विभाग पर व्यापारियों के उत्पीड़न का आरोप:बोले- रिपोर्ट से पहले व्यापारी का नाम क्यों, चैंबर ने की CM से जांच की मांग",
+      "summary": "गोरखपुर चेम्बर ऑफ कॉमर्स ने खाद्य सुरक्षा एवं औषधि विभाग के कुछ अधिकारियों पर व्यापारियों के उत्पीड़न का आरोप लगाया है। चेम्बर के अध्यक्ष संजय सिंघानिया ने मुख्यमंत्री योगी आदित्यनाथ से पूरे मामले की उच्च स्तरीय जांच कराने की मांग की है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-chamber-commerce-food-department-harassment-yogi-adityanath-139127375.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/24/gifmagicsite-2026-09-24t011630411_1790192805.gif",
+      "scrape_date": "2026-09-23",
+      "scrape_time": "21:57"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "गोरखपुर में गुरुवार को 5 घंटे तक गुल रहेगी बिजली:राप्तीनगर, लालडिग्गी और नौसढ़ समेत कई इलाके सुबह 10 बजे से प्रभावित होंगे",
+      "summary": "गोरखपुर में रोड चौड़ीकरण और लाइन शिफ्टिंग के चलते गुरुवार को अलग- अलग इलाकों में 4 से 5 घंटे बिजली आपूर्ति बाधित रहेगी। सुबह 10 से 03 बजे तक विद्युत उपकेंद्र राप्तीनगर ओल्ड के 11 केवी फेस तीन, दूरदर्शन, पत्रकारपुरम, मोती पोखरा, राम जानकी नगर, कृष्णान पुराने तार बदलने से 11 से 3 बजे तक सप्लाई ठप इसके अलावा राजेंद्रनगर उपकेंद्र से निर्गत 11केवी नए गांव फीडर पर बिजनेस प्लान अंतर्गत पुराने जर्जर तारों को बदल कर नए तार लगाए जाने का काम कराया जाना है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-raptinagar-laldiggi-nausad-maintenance-news-139127176.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/24/gifmagicsite-2026-08-08t004517803_1790190159.gif",
+      "scrape_date": "2026-09-23",
+      "scrape_time": "21:57"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में 1.75 करोड़ का बैंक फ्रॉड:नौकरी के नाम पर खुलवाया खाता, पासबुक-ATM लेकर जब्त किया, 2 आरोपी अरेस्ट",
+      "summary": "गोरखपुर में जालसाजों ने नौकरी दिलाने का लालच देकर एक युवक के नाम से बैंक अकाउंट खुलवाया और फिर उसे बिना बताए अकाउंट से 1 करोड़ 75 लाख रुपए से ज्यादा का संदिग्ध ट्रांजेक्शन किया। जालसाजों ने पीड़ित की पासबुक, चेकबुक, एटीएम कार्ड और सिम कार्ड अपने पास जब युवक को धोखाधड़ी की भनक लगी, तो उसने थाने में शिकायत की।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-bank-fraud-job-scam-arrest-police-action-2026-139127067.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/24/gifmagicsite-2026-09-24t000141507_1790188324.gif",
+      "scrape_date": "2026-09-23",
+      "scrape_time": "21:57"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "ट्रेन की चपेट में आने से युवक की मौत:मोबाइल में मिला आत्महत्या का ऑडियो, ब्लैकमेलिंग से परेशान होकर जान देने का आरोप",
+      "summary": "संतकबीरनगर में मंगलवार देर रात ट्रेन की चपेट में आने से एक युवक की मौत हो गई। मृतक कुशीनगर का रहने वाला था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/santkabirnagar-youth-suicide-audio-blackmailing-khalilabad-train-death-139126769.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/23/b59d6f23-4d4f-41c5-abfd-3e85064408d0_1790186679440.jpg",
+      "scrape_date": "2026-09-23",
+      "scrape_time": "21:57"
     }
   ]
 }
