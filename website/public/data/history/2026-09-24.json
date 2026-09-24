@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
-  "article_count": 1190,
-  "last_updated": "2026-09-24T19:39:46.556844",
+  "article_count": 1191,
+  "last_updated": "2026-09-24T22:53:22.523264",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13092,6 +13092,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/24/cdc24273-2534-478c-a2cf-828e470beff0_1790258935166.jpg",
       "scrape_date": "2026-09-24",
       "scrape_time": "19:39"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में आज 5 उपकेंद्रों से कटेगी बिजली:सुबह 10 से दोपहर 3 बजे तक आपूर्ति बाधित रहेगी, जर्जर तार बदलने का होगा",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण, लाइन शिफ्टिंग और जर्जर तारों को बदलने का काम तेजी से चल रहा है। इस संबंध में जरूरी मरम्मत और मेंटेनेंस के चलते शुक्रवार को शहर के कई इलाकों में सुबह 10:00 बजे से दोपहर 03:00 बजे तक विद्युत आपूर्ति पूरी तरह बाधित रहेगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-maintenance-update-electricity-supply-affected-139138306.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/25/613004_1790279956.gif",
+      "scrape_date": "2026-09-24",
+      "scrape_time": "22:53"
     }
   ]
 }
