@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
-  "article_count": 1413,
-  "last_updated": "2026-09-27T18:49:34.042036",
+  "article_count": 1414,
+  "last_updated": "2026-09-27T21:48:42.474464",
   "articles": [
     {
       "district": "Kushinagar",
@@ -15545,6 +15545,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/27/0802f00f-2887-45cd-ab09-c1b1a2226f35_1790510811374.jpg",
       "scrape_date": "2026-09-27",
       "scrape_time": "18:49"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "दोस्त की हत्या कर ट्रेन से कटा 7वीं का छात्र:गोरखपुर में कमरे में मिली एक सड़ी लाश, रेलवे ट्रैक पर मिला दूसरे किशोर का शव",
+      "summary": "गोरखपुर के चौरी चौरा में 7वीं के छात्र ने दोस्त की गला घोटकर घोटकर हत्या कर दी। अगले दिन उसने भी ट्रेन से कटकर जान दे दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-chauri-chaura-student-murder-suicide-cctv-footage-case-139170890.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/27/new-project-2026-09-27t214442386_1790525758.jpg",
+      "scrape_date": "2026-09-27",
+      "scrape_time": "21:48"
     }
   ]
 }
