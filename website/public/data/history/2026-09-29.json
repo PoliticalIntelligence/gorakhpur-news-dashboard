@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "article_count": 1227,
-  "last_updated": "2026-09-29T19:03:02.945615",
+  "article_count": 1229,
+  "last_updated": "2026-09-29T22:52:21.632199",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13499,6 +13499,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/29/e0328418-e156-4abb-84d0-4da4a69cc574_1790691886070.jpg",
       "scrape_date": "2026-09-29",
       "scrape_time": "19:03"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में बुधवार 5 घंटे ठप रहेगी बिजली:सड़क चौड़ीकरण के चलते राप्तीनगर ओल्ड सब-स्टेशन के इलाके प्रभावित होंगे",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण और लाइन शिफ्टिंग की वजह से बुधवार को शहर के कई प्रमुख इलाकों में पांच घंटे तक बिजली सप्लाई बंद रहेगी। बिजली विभाग के अनुसार, इस मरम्मत कार्य के चलते राप्तीनगर ओल्ड सब-स्टेशन के तहत आने वाले फेज-3, दूरदर्शन, पत्रकारपुरम, मोती वहीं पादरी बाजार सब-स्टेशन से जुड़े पादरी बाजार और सरस्वती पुरम, दुर्गाबाड़ी सब-स्टेशन के हनुमंतनगर, और भटहट व रतनपुरा सब-स्टेशन से जुड़े क्षेत्रों में भी 5 घंटे तक बिजली नहीं आएगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-raptinagar-substation-maintenance-update-139193795.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/30/bulb1778035656_1790712667.gif",
+      "scrape_date": "2026-09-29",
+      "scrape_time": "22:52"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "प्रो. गोपाल प्रसाद बने DDU के नए चीफ प्रॉक्टर:संभाली जिम्मेदारी, कुलपति से की मुलाकात कर अहम मुद्दों पर चर्चा की",
+      "summary": "दीनदयाल उपाध्याय गोरखपुर यूनिवर्सिटी में कुलपति प्रोफेसर के. पी. सिंह के निर्देश पर पॉलिटिकल साइंस डिपार्टमेंट के वरिष्ठ प्रोफेसर गोपाल प्रसाद को यूनिवर्सिटी का नया चीफ प्रॉक्टर (मुख्य नियन्ता) बनाया गया है। नई जिम्मेदारी मिलने के बाद प्रो. गोपाल प्रसाद ने मंगलवार को औपचारिक तौर पर चीफ प्रॉक्टर का चार्ज संभाल लिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gopal-prasad-appointed-ddu-gorakhpur-chief-proctor-university-news-139194104.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/09/30/714243_1790715180.jpg",
+      "scrape_date": "2026-09-29",
+      "scrape_time": "22:52"
     }
   ]
 }
