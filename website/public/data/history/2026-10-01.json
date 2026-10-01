@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
-  "article_count": 1276,
-  "last_updated": "2026-10-01T16:51:52.699364",
+  "article_count": 1297,
+  "last_updated": "2026-10-01T21:34:38.495518",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14038,6 +14038,237 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/d0512bf5-55b7-437c-92d4-cd41540f7746_1790851624657.jpg",
       "scrape_date": "2026-10-01",
       "scrape_time": "16:51"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "देवरिया में RSS कार्यकर्ता की पीट-पीटकर हत्या:घर के बाहर ब्रेकर बनवाने पर हुआ था विवाद; पड़ोसियों ने घेर कर लाठी-डंडे बरसाए",
+      "summary": "देवरिया में पड़ोसियों ने राष्ट्रीय स्वयंसेवक संघ (RSS) के एक कार्यकर्ता की पीट-पीटकर हत्या कर दी। गुरुवार दोपहर वह अपने घर के पास सड़क पर ब्रेकर बनवा रहे थे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/deoria-rss-worker-murder-bhikham-chhapra-land-dispute-crime-update-139214913.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/comp-81_1790876471.gif",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Rudrapur",
+      "category": "Other",
+      "headline": "रुद्रपुर में सेवा संकल्प सप्ताह का आयोजन, लाभार्थियों को लाभ:प्रमाणपत्र, आवास की चाबी, पीएम स्वनिधि कार्ड बांटे गए; सफाई साथियों का सम्मान",
+      "summary": "रुद्रपुर नगर पंचायत कार्यालय में बुधवार को सेवा संकल्प सप्ताह के तहत एक कार्यक्रम हुआ। इसमें विधान परिषद सदस्य डॉ. रतनपाल सिंह मुख्य अतिथि के रूप में शामिल हुए।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/rudrapur/news/rudrapur-seva-sankalp-saptah-ratanpal-singh-pm-awas-yojana-139214971.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/0ce9b977-0095-4f65-a398-fa2307859dac_1790873898906.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Deoria",
+      "assembly": "Unknown",
+      "category": "Law & Order",
+      "headline": "पुरानी रंजिश में महिला को पीटा, चार पर केस दर्ज:गौरीबाजार के पिपराधन्नी गांव में लात-घूंसों और डंडों से हमला, जान से मारने की धमकी",
+      "summary": "गौरीबाजार थाना क्षेत्र के पिपराधन्नी (मोहरा टोला) गांव में पुरानी रंजिश को लेकर एक महिला से मारपीट हुई। पुलिस ने इस मामले में चार लोगों के खिलाफ केस दर्ज किया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/deoria/gauribazar/news/gauribazar-pipradhanni-assault-case-woman-beaten-police-complaint-139214982.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/c0238ae4-b5e3-4e1e-8d23-a080babf744c_1790872449854.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Women Welfare",
+      "headline": "कान्हा उपवन में थर्माकोल की नाव से आवागमन:राप्ती नदी का जलस्तर बढ़ा, मोहल्ले की सड़कों पर भरा पानी",
+      "summary": "कान्हा उपवन नगर में राप्ती नदी का जलस्तर बढ़ने से लोगों की मुश्किलें बढ़ गई हैं। मोहल्ले की कई सड़कों पर पानी भर गया है, जिससे आवागमन पर असर पड़ा है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/kanha-upvan-nagar-turkmanpur/news/rapti-river-flood-kanha-upvan-waterlogging-residents-struggle-139215021.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/8f9015c5-bd56-4e82-922a-32f81aba750c_1790857861143.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "आत्माराम वार्ड के रास्ते में कूड़े का ढेर:पार्षद ने जल्द समाधान का दिया आश्वासन, राहगीरों की परेशानी बढ़ी",
+      "summary": "वार्ड नंबर 59 आत्माराम के एक रास्ते पर कई दिनों से कूड़े का ढेर लगा है। सड़क पर फैली गंदगी के कारण आने-जाने वाले लोगों को काफी परेशानी हो रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/atmaram-nagar-jafra-bazar/news/ward-59-aatmaram-garbage-pile-problem-councillor-assurance-139215038.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/5cd572dc-6fc1-48d7-b9db-aa92b9072ecd_1790858656471.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "भरवलिया खुर्द में खबर का असर, सफाई अभियान शुरू:जिम्मेदारों ने संभाली कमान, नालियों और सड़कों की सफाई में जुटी टीम",
+      "summary": "भरवलिया खुर्द में लगातार उठ रही समस्याओं की आवाज और खबरों के बाद कार्रवाई हुई। गुरुवार को मोहल्ले में सफाई का काम शुरू किया गया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/chandrashekhar-azad-chowk-bharwalia-khurd/news/bharwaliya-khurd-cleanliness-drive-municipal-corporation-action-139214993.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/55963ddb-8cd8-4938-945b-23ca965c78ae_1790852032574.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "भाजपा मोर्चों में गोरखपुर क्षेत्र के 13 नेता:पूर्व विधायक जीएम सिंह को पिछड़ा मोर्चा, बंधु उपेंद्र को किसान मोर्चा में जिम्मेदारी",
+      "summary": "भाजपा ने गुरुवार की शाम को चार मोर्चों के प्रदेश टीम की घोषणा की गई। इसमें क्षेत्रीय अध्यक्षों के नाम घोषित कर दिए गए हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/bjp-gorakhpur-morcha-list-gm-singh-bandhu-upendra-appointment-139216160.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/02/gifmagicsite-2026-10-02t012803700_1790884695.gif",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "सुमेर सागर में दुर्गा पूजा पंडाल की तैयारियां जोरों पर:कारीगरों ने शुरू किया काम, इस बार दिखेगा अलग अंदाज",
+      "summary": "गोरखपुर के वार्ड नंबर 48 में नवरात्रि पर्व की तैयारियां शुरू हो गई हैं। सुमेर सागर में श्री श्री दुर्गा पूजा छात्र समिति ने पूजा पंडाल बनाने का काम तेज कर दिया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/dharamshala-bazaar-jatepur-dakshini/news/gorakhpur-durga-puja-pandal-preparations-sumer-sagar-navratri-2026-139215013.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/c4b04451-41bd-41cf-9850-33232f39bdce_1790855822068.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में गैंगेस्टर की 1.22 करोड़ की सम्पति जब्त:फर्जी दस्तावेज बना हथियारों की खरीद बिक्री करता था गिरोह, नकली लाइसेंस बनवाते थे",
+      "summary": "गोरखपुर में गुरुवार को एक गैंगेस्टर की अवैध जमीन को पुलिस ने अपने कब्जे ले लिया। जिसकी कीमत 1 करोड़ 22 लाख रुपये बताई जा रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-gangster-fake-gun-license-racket-seized-property-139215827.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/gifmagicsite-2026-10-01t235712714_1790879237.gif",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में आवारा कुत्तों से लोग परेशान:वार्ड 34 में खूंखार कुत्तों के झुंड से लोग परेशान, नगर निगम से कार्रवाई की अपील",
+      "summary": "गोरखपुर के वार्ड नंबर 34 (विश्वकर्मापुरम बौलिया/जटेपुर) में आवारा कुत्तों का आतंक बढ़ रहा है। इससे स्थानीय निवासी और राहगीर डरे हुए हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/vishwakarmapuram-bauliya-bauliya-colony/news/gorakhpur-ward-34-stray-dogs-menace-residents-demand-help-139215012.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/fd7af742-1dce-46f4-a0ec-38954521a0ae_1790854153387.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "रोही नदी में बहकर आ रहे मरे मवेशी:माधोपुर बांध के पास दुर्गंध से सांस लेना और चलना मुश्किल",
+      "summary": "रोही नदी में पानी बढ़ने के कारण माधोपुर बांध के पास पानी भर गया है। इस पानी में कई मरे हुए मवेशी बहकर आ रहे हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/madhopur-madhopur/news/madhopur-dam-rohi-river-dead-cattle-foul-smell-pollution-update-139215002.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/16b0e72a-d08d-4f95-a9a4-889df03471c3_1790851905330.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "कान्हा उपवन नगर के ट्रांसपोर्ट नगर में नाली बननी शुरू:40 साल से जलभराव झेल रहे लोगों को मिलेगी राहत, सड़कों पर नहीं भरेगा घरों और बारिश का पानी",
+      "summary": "कान्हा उपवन नगर के ट्रांसपोर्ट नगर में लंबे समय से जलभराव की समस्या झेल रहे लोगों को अब राहत मिलने की उम्मीद है। यहां पानी की निकासी के लिए नाली का निर्माण शुरू हो गया है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/kanha-upvan-nagar-chakra-sankhya/news/kanha-upvan-nagar-transport-nagar-drain-construction-waterlogging-139215044.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/a29569e0-dcf1-4569-8334-360dc9a22bd9_1790859072986.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में सुबह 11 बजे से होगी बिजली कटौती:लालडिग्गी, नौसढ़ और सहारा स्टेट समेत कई इलाके प्रभावित होंगे",
+      "summary": "गोरखपुर में 6 लेन सड़क चौड़ीकरण और बिजली लाइनों के मेंटेनेंस के चलते 33 केवी विद्युत उपकेंद्र लालडिग्गी और 11 केवी नौसढ़ फीडर की बिजली सप्लाई सुबह 11 बजे से शाम 4 बजे तक बाधित रहेगी। इससे लालडिग्गी के आसपास के सभी रिहायशी और व्यावसायिक क्षेत्र, नौसढ़ और उससे जुड़े इलाकों में लगातार 5 घंटे तक पावर कट रहेगा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-laldiggi-nausad-electricity-maintenance-update-139216016.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/02/ezgif-7e204e17055645176183778217727845921776989689_1790880703.gif",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Political",
+      "headline": "राप्ती नदी का जलस्तर तेजी से बढ़ा:हावर्ड बांध से सटे इलाकों में चिंता बढ़ी, प्रशासन ने नदी से दूर रहने की अपील की",
+      "summary": "गोरखपुर में राप्ती नदी का जलस्तर तेजी से बढ़ रहा है। हावर्ड बाँध से सटे बसंतपुर, एहतमाली और हनुमानगढ़ी जैसे इलाकों में लोग चिंतित हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/basantpur-basantpur/news/gorakhpur-rapti-river-flood-alert-howard-dam-water-level-update-139214984.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/64ec044a-5ff2-46ea-9a44-b4447dfa5b9f_1790851837297.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Health",
+      "headline": "डॉक्टर संजयन त्रिपाठी ने MLC चुनाव के लिए भरा पर्चा:बेतियाहाता के लोगों में उत्साह, 23 अक्टूबर को होगा मतदान",
+      "summary": "गोरखपुर में डॉक्टर संजयन त्रिपाठी ने उत्तर प्रदेश विधान परिषद के गोरखपुर-फैजाबाद खंड शिक्षक निर्वाचन के लिए नामांकन पत्र दाखिल किया। उनके बेतियाहाता स्थित आवास से निकलते ही शुभचिंतकों और मोहल्ले के लोगों में काफी उत्साह देखने को मिला।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/betiahata-betiyahata/news/gorakhpur-mlc-election-dr-sanjayan-tripathi-nomination-betiahata-139215016.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/efaf7578-b4b6-4b9d-9de8-e9f837d8f311_1790855936790.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "रेंपस स्कूल में इंटर हाउस बैडमिंटन टूर्नामेंट शुरू:एसपी ट्रैफिक अमित श्रीवास्तव ने किया उद्घाटन, बच्चों के सर्वांगीण विकास पर जोर",
+      "summary": "गोरखपुर के शाहपुर में रेंपस स्कूल में तीन दिन का इंटर हाउस बैडमिंटन टूर्नामेंट शुरू हुआ। इसका उद्घाटन एसपी ट्रैफिक अमित कुमार श्रीवास्तव ने एक मैच खेलकर किया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/shakti-nagar-basharatpur-purvi/news/gorakhpur-rampas-school-badminton-tournament-sp-amit-srivastava-inauguration-139215007.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/87eaddfb-381c-4fde-84b3-dcb4fbf55958_1790852829547.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Other",
+      "headline": "नगर आयुक्त ने जर्जर शौचालय ध्वस्त करने की दी मंजूरी:हुमायूंपुर उत्तरी हनुमंतनगर में 35 साल पुराना सुलभ शौचालय कभी भी गिर सकता है, मलबा हटेगा",
+      "summary": "नगर आयुक्त अजय जैन ने हुमायूंपुर उत्तरी हनुमंतनगर की मलिन बस्ती में स्थित एक पुराने और जर्जर सुलभ शौचालय को तोड़ने की मंजूरी दे दी है। नगर निगम इसे कभी भी ध्वस्त कर सकता है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/hanumant-nagar-humayunpur-uttari/news/humayunpur-gorakhpur-sulabh-shauchalay-demolition-ajay-jain-update-139215058.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/023afc87-3a93-41e6-af09-10beaf845aa7_1790866742675.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "चिलमापुर में जलभराव से निपटने सफाई अभियान शुरू:लोगों को राहत की उम्मीद, अब स्थायी समाधान पर टिकी निगाहें",
+      "summary": "गोरखपुर के चिलमापुर में जलभराव की समस्या से निपटने के लिए नगर निगम ने सफाई अभियान शुरू किया है। बारिश के बाद मोहल्ले की सड़कों पर पानी भर गया था।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/chandrashekhar-azad-chowk-chilmapur/news/chilmapur-gorakhpur-waterlogging-cleaning-drive-municipal-corporation-139214986.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/1aa86475-865b-4aab-867f-667b8e278048_1790851834552.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "Unknown",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर के ओवरब्रिज पर गड्ढों से यातायात धीमा, हादसे का:दोपहिया वाहन असंतुलित हो रहे, रात में रोशनी की कमी से खतरा बढ़ा",
+      "summary": "गोरखपुर के मोहद्दीपुर से असुरन जाने वाले ओवरब्रिज पर कई जगह गड्ढे हो गए हैं। इससे यहां ट्रैफिक पर असर पड़ रहा है और लोगों को परेशानी हो रही है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/sardar-bhagat-singh-nagar-mohaddipur/news/gorakhpur-mohaddipur-asuran-overbridge-potholes-traffic-risk-139215052.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/ad32f7a1-fb66-4cb6-ac5d-9b7358527c8d_1790872299709.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Ballia",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "छोटे नेताओं की बात गंभीरता से नहीं लेते-धर्मेंद्र यादव:बोले- राहुल और अखिलेश की ट्यूनिंग अलग, गठबंधन को नुकसान नहीं होना चाहिए",
+      "summary": "पूर्व नेता प्रतिपक्ष रामगोविंद चौधरी की श्रद्धांजलि सभा में शामिल होने सपा सांसद धर्मेंद्र यादव बलिया पहुंचे। धर्मेंद्र यादव ने उत्तर प्रदेश कांग्रेस की ओर से आगामी विधानसभा चुनाव में 150 से अधिक सीटों की मांग पर प्रतिक्रिया दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/ballia/news/dharmendra-yadav-ballia-statement-sp-congress-india-alliance-bjp-139215095.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/997e8a17-3200-4993-ae5e-6bf3ba3f85a7_1790873987112.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "संतकबीरनगर में जिपं सदस्य समेत 4 की जमानत अर्जी खारिज:गणेश विसर्जन विवाद में विशाल के अपहरण का आरोप",
+      "summary": "संतकबीरनगर में अपहरण और दलित उत्पीड़न के मामले में जिला पंचायत सदस्य विश्वकेतु यादव समेत चार आरोपियों को अदालत से राहत नहीं मिली। एडीजे एवं विशेष न्यायाधीश एससी-एसटी एक्ट चंद्र मोहन श्रीवास्तव की अदालत ने विश्वकेतु यादव, अशोक यादव, धर्मेंद्र यादव और जितेंद्र यादव की जमानत अर्जी खारिज कर दी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/sant-kabir-nagar-kidnapping-case-vishwaketu-yadav-bail-rejected-139215118.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/01/e730d2cb-6632-47ab-8d87-dd55b155f50e_1790869164708.jpg",
+      "scrape_date": "2026-10-01",
+      "scrape_time": "21:34"
     }
   ]
 }
