@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "article_count": 1461,
-  "last_updated": "2026-10-03T18:30:44.352327",
+  "article_count": 1463,
+  "last_updated": "2026-10-03T21:58:46.882386",
   "articles": [
     {
       "district": "Kushinagar",
@@ -16073,6 +16073,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/03/afecc639-c1e4-456d-9399-314b417faeb5_1791038100736.jpg",
       "scrape_date": "2026-10-03",
       "scrape_time": "18:30"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गैंगस्टर अंशिका के साथी का 36 लाख रुपया जब्त:दिल्ली से उड़ाई थी थार गाड़ी, गोरखपुर में फर्जी नंबर प्लेट लगाकर चलता था",
+      "summary": "गोरखपुर जेल में बंद गैंगस्टर अंशिका सिंह के साथी देवेन्द्र कुमार रावत उर्फ सोनू रावत के बैंक खाते में जमा 36,617.18 रुपये जब्त किए गए। शनिवार को डीएम के आदेश पर गैंगस्टर एक्ट की धारा 14(1) के तहत यह कार्रवाई की गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-gangster-anshika-singh-aide-thief-thar-seized-assets-139238566.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/03/gifmagicsite-2026-10-03t232651791_1791050223.gif",
+      "scrape_date": "2026-10-03",
+      "scrape_time": "21:58"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "लड़की को डराने के लिए युवक ने की थी फायरिंग:आधी रात को आजमगढ़ पुलिस ने किया मामले का खुलासा, अग्रिम कार्रवाई में जुटी पुलिस",
+      "summary": "आजमगढ़ जिले के अहरौला थाना क्षेत्र में शनिवार दोपहर करीब तीन बजे थाने से महज 500 मीटर की दूरी पर असिलाई मोड़ के पास बाइक सवार जिस आर्यन यादव ने अपने ऊपर फायरिंग का दावा किया था। इस पूरे मामले का खुलासा आधी रात को आजमगढ़ पुलिस ने कर दिया।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-police-reveal-aryan-yadav-staged-shooting-ahraula-139239176.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/04/1000042455_1791056283.gif",
+      "scrape_date": "2026-10-03",
+      "scrape_time": "21:58"
     }
   ]
 }
