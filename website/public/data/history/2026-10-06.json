@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "article_count": 1266,
-  "last_updated": "2026-10-06T19:16:32.107594",
+  "article_count": 1267,
+  "last_updated": "2026-10-06T23:29:50.077112",
   "articles": [
     {
       "district": "Kushinagar",
@@ -13928,6 +13928,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/06/2387654c-f7eb-474e-935c-049909bd6c97_1791295178383.jpg",
       "scrape_date": "2026-10-06",
       "scrape_time": "19:16"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Utilities",
+      "headline": "गोरखपुर में आज 2 से 6 घंटे तक कटेगी बिजली:रानीडीहा, राप्तीनगर, सहारा स्टेट और नौसढ़ समेत कई जगह ठप रहेगी सप्लाई",
+      "summary": "गोरखपुर में बुधवार को विभिन्न क्षेत्रों में अलग- अलग समय पर बिजली कटौती की जाएगी। विद्युत उपकेंद्र खोराबार से जुड़ें 11केवी रानीडीहा, सरवन नगर बिजली आपूर्ति सुबह 9 बजे से 3 बजे तक दो -दो घंटे बाधित रहेगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-ranidiha-sahara-estate-nausad-electricity-update-139272451.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/07/bijli-alert169103869117011085961707586878172782917_1791318028.gif",
+      "scrape_date": "2026-10-06",
+      "scrape_time": "23:29"
     }
   ]
 }
