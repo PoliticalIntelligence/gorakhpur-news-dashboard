@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "article_count": 1545,
-  "last_updated": "2026-10-17T19:02:12.236566",
+  "article_count": 1547,
+  "last_updated": "2026-10-17T21:13:02.910178",
   "articles": [
     {
       "district": "Kushinagar",
@@ -16997,6 +16997,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/17/2471a89a-a2df-40cd-a2d7-777e47c4f833_1792235223145.jpg",
       "scrape_date": "2026-10-17",
       "scrape_time": "19:02"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Health",
+      "headline": "गोरखनाथ मंदिर की शोभायात्रा को लेकर डायवर्जन:20 अक्टूबर को बदलेगा शहर का यातायात, 9 प्रमुख स्थानों से नहीं गुजरेंगे वाहन",
+      "summary": "गोरखपुर के गोरखनाथ मंदिर से 20 अक्टूबर को निकलने वाली शोभायात्रा के मद्देनजर शहर की यातायात व्यवस्था में बदलाव किया गया है। शोभायात्रा के दौरान यातायात व्यवस्था सुचारु बनाए रखने के लिए दोपहर तीन बजे से कार्यक्रम समाप्ति तक शहर के नौ प्रमुख स्थानों पर इस दौरान धर्मशाला चौराहा, जेपी अस्पताल, इंडस्ट्रियल एरिया मोड़, लेबर तिराहा, सूरजकुंड और दशहरी बाग समेत विभिन्न स्थानों से गोरखनाथ मंदिर तथा रामलीला मैदान की ओर जाने वाले वाहनों को वैकल्पिक मार्गों से भेजा जाएगा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-traffic-diversion-gorakhnath-temple-shobhayatra-update-139401183.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/17/whatsapp-image-2026-10-17-at-114921-pm_1792261187.jpeg",
+      "scrape_date": "2026-10-17",
+      "scrape_time": "21:13"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में रविवार को 4 घंटे गुल रहेगी बिजली:सुबह 11 बजे से प्रभावित होंगे कई इलाके, 3 बजे तक होगा सड़क चौड़ीकरण का काम",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण और बिजली की लाइनों को शिफ्ट करने के काम के चलते रविवार को कई प्रमुख इलाकों में चार घंटे तक बिजली आपूर्ति ठप रहेगी। विद्युत निगम के अनुसार मेंटेनेंस और लाइन शिफ्टिंग का काम सुबह 11 बजे से दोपहर 3 बजे तक चलेगा, जिसके कारण संबं विभाग के अधिकारियों ने बताया कि इस दौरान 133 केवी विद्युत उपकेंद्र दुर्गाबाड़ी से जुड़े 11 केवी हनुमंत नगर फीडर, साथ ही विद्युत उपकेंद्र शाहपुर के 11 केवी दुष्यंत नगर और शहबाजगंज फीडर से आपूर्ति पूरी तरह बंद रखी जाएगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-maintenance-road-widening-sunday-update-139401526.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/18/bulb1778035656_1792265249.gif",
+      "scrape_date": "2026-10-17",
+      "scrape_time": "21:13"
     }
   ]
 }
