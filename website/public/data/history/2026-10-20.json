@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "article_count": 1341,
-  "last_updated": "2026-10-20T18:25:16.467018",
+  "article_count": 1342,
+  "last_updated": "2026-10-20T22:05:07.294451",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14753,6 +14753,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/20/CD62DFEC-3344-4957-BC55-9C5A7B81BD93_1792501598203.jpg",
       "scrape_date": "2026-10-20",
       "scrape_time": "18:25"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर के बुधवार को 3 घंटे गुल रहेगी बिजली:सुबह 10 से 1 बजे तक कई इलाके प्रभावित होंगे, सड़क चौड़ीकरण होगा",
+      "summary": "गोरखपुर में सड़क चौड़ीकरण और बिजली की इंसुलेटेड लाइनों को शिफ्ट करने के काम के चलते बुधवार को कई प्रमुख इलाकों में तीन घंटे तक बिजली आपूर्ति ठप रहेगी। विभाग के अनुसार लाइन शिफ्टिंग का काम सुबह 10 बजे से दोपहर 1 बजे तक चलेगा, जिसके कारण संबंधित उपकेंद विद्युत निगम के अधिकारियों ने बताया कि इस दौरान विद्युत उपकेंद्र राप्तीनगर न्यू के 11 केवी रेल विहार और करीम नगर फीडर से जुड़े क्षेत्रों में आपूर्ति पूरी तरह बंद रखी जाएगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-road-widening-news-updates-139436442.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/21/bulb1778035656_1792521523.gif",
+      "scrape_date": "2026-10-20",
+      "scrape_time": "22:05"
     }
   ]
 }
