@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "article_count": 1289,
-  "last_updated": "2026-10-22T21:01:34.024144",
+  "article_count": 1290,
+  "last_updated": "2026-10-22T23:49:08.675472",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14181,6 +14181,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/22/33945f27-8435-4b1b-86db-2c0179735d6b_1792691158883.jpg",
       "scrape_date": "2026-10-22",
       "scrape_time": "21:01"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आज मतपेटिका में बंद हो जाएगी 16 प्रत्याशियों की किस्मत:सुबह 8 बजे से शुरू होगा मतदान; 54910 वोटर डालेंगे वोट",
+      "summary": "गोरखपुर-फैजाबाद खंड शिक्षक निर्वाचन क्षेत्र के लिए शुक्रवार, 23 अक्टूबर को मतदान होगा। शाम 4 बजे 16 प्रत्याशियों की किस्मत मतपेटिका में बंद हो जाएगी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-faizabad-teacher-mlc-election-polling-update-139457709.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/22/gifmagicsite-2026-10-22t224055441_1792690251.gif",
+      "scrape_date": "2026-10-22",
+      "scrape_time": "23:49"
     }
   ]
 }
