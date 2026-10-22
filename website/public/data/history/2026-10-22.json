@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "article_count": 1288,
-  "last_updated": "2026-10-22T17:48:54.539427",
+  "article_count": 1289,
+  "last_updated": "2026-10-22T21:01:34.024144",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14170,6 +14170,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/22/1479c308-863a-40a0-b6eb-c72102a96970_1792686573227.jpg",
       "scrape_date": "2026-10-22",
       "scrape_time": "17:48"
+    },
+    {
+      "district": "Sant-Kabir-Nagar",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "पहलवान हत्याकांड में प्रदर्शन पर केस:साधु यादव समेत 30 पर FIR, कलेक्ट्रेट गेट पर हंगामा और नारेबाजी पर एक्शन",
+      "summary": "संतकबीरनगर में पहलवान ब्रह्मानंद यादव हत्याकांड में अन्य लोगों के नाम शामिल करने की मांग को लेकर गुरुवार को कलेक्ट्रेट गेट पर हंगामा हुआ। पुलिस ने अंतरराष्ट्रीय पहलवान रामप्रवेश यादव उर्फ साधु यादव समेत 11 नामजद और अन्य अज्ञात लोगों के खिलाफ मुकदमा द कुल 30 लोगों पर केस दर्ज हुआ है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/sant-kabir-nagar-brahmanand-yadav-murder-case-sadhu-yadav-protest-139457777.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/22/33945f27-8435-4b1b-86db-2c0179735d6b_1792691158883.jpg",
+      "scrape_date": "2026-10-22",
+      "scrape_time": "21:01"
     }
   ]
 }
