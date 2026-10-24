@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "article_count": 1157,
-  "last_updated": "2026-10-24T19:59:57.153152",
+  "article_count": 1158,
+  "last_updated": "2026-10-24T22:08:30.735421",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12729,6 +12729,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/24/b10f4c5d-4b91-4fd9-ba33-6521ff27222f_1792862981063.jpg",
       "scrape_date": "2026-10-24",
       "scrape_time": "19:59"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "आजमगढ़ रोडवेज पर बस के लिए परेशान हो रहे अभ्यर्थी:कमरे पर सोने के लिए गए RM, अभ्यर्थी बोले कैसे पहुंचेंगे परीक्षा केंद्र, सता रहा है डर",
+      "summary": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग की प्रारंभिक अर्हता परीक्षा (पीईटी)-2026 को लेकर आजमगढ़ के परिवहन विभाग के अधिकारी कितना गंभीर हैं। इसका अंदाजा इस बात से लगाया जा सकता है कि रात 10 बजे से अयोध्या, अंबेडकरनगर के लिए बस की कोई सेवा नहीं है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-pet-exam-candidates-struggle-bus-shortage-transport-officials-139479430.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/25/1000048437_1792871890.gif",
+      "scrape_date": "2026-10-24",
+      "scrape_time": "22:08"
     }
   ]
 }
