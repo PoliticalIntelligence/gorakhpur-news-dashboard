@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "article_count": 1087,
-  "last_updated": "2026-10-25T18:00:32.507837",
+  "article_count": 1089,
+  "last_updated": "2026-10-25T20:10:30.997185",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11959,6 +11959,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/25/5bdf8171-e5d4-4274-a900-28eb6725cc13_1792939216284.jpg",
       "scrape_date": "2026-10-25",
       "scrape_time": "18:00"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गोरखपुर में बाइक से धक्का देकर महिला की हत्या:पति के साथ सगाई से घर लौटते समय वारदात हुई, बदमाशों की तलाश में पुलिस",
+      "summary": "गोरखपुर के बेलीपार थाना क्षेत्र के भरवल गांव के आगे शनिवार की रात में बाइक से जा रहे दंपती के ऊपर बाइक सवार दो बदमाशों ने हमला कर दिया। बदमाशों के धक्के से बाइक पर पीछे बैठी पत्नी की गिरने से मौत हो गई।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-crime-woman-murder-bike-push-incident-police-investigation-139488620.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/25/gifmagicsite-2026-10-25t223435773_1792948223.gif",
+      "scrape_date": "2026-10-25",
+      "scrape_time": "20:10"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "राजकुमार हत्याकांड में पार्षद धर्मदेव समेत 6 को क्लीनचिट:गोरखपुर में पत्नी बोली- सभी हत्या में शामिल थे, न्याय पाने तक लड़ूंगी लड़ाई",
+      "summary": "गोरखपुर के चिलुआताल क्षेत्र के चर्चित राजकुमार चौहान हत्याकांड में पार्षद धर्मदेव चौहान समेत 6 नामजद आरोपियों को पुलिस की विवेचना में क्लीनचिट मिल गया। इस कार्रवाई से मृतक का परिवार संतुष्ट नहीं है।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-rajkumar-chauhan-murder-case-wife-protest-clean-chit-139488446.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/10/25/whatsapp-image-2026-10-25-at-95736-pm_1792945684.jpeg",
+      "scrape_date": "2026-10-25",
+      "scrape_time": "20:10"
     }
   ]
 }
