@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "article_count": 1146,
-  "last_updated": "2026-11-01T18:46:48.296129",
+  "article_count": 1148,
+  "last_updated": "2026-11-01T22:35:45.418343",
   "articles": [
     {
       "district": "Kushinagar",
@@ -12608,6 +12608,28 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/01/a488f46c-4b01-43b0-b85c-59f48831fae9_1793541489229.jpg",
       "scrape_date": "2026-11-01",
       "scrape_time": "18:46"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "4 को गोरखपुर में पदयात्रा करेंगे भाजपा के राष्ट्रीय अध्यक्ष:भाजपाइयों ने बनाई रूपरेखा; प्रदेश अध्यक्ष बोले-विपक्ष की अराजकता का जवाब देंगे",
+      "summary": "भाजपा 'लोकतंत्र बचाओ, अराजकता हटाओ' अभियान के तहत 3 से 5 नवंबर तक पदयात्रा का आयोजन करेगी। इसी क्रम में 4 नवंबर को गोरखपुर में होने वाली पदयात्रा में भाजपा के राष्ट्रीय अध्यक्ष नितिन नवीन, मुख्यमंत्री योगी आदित्यनाथ शामिल होंगे।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-bjp-padayatra-yogi-adityanath-nitin-naveen-pankaj-chaudhary-139564449.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/02/gifmagic_site_-_2026-11-02t013234_446_1793563360688.gif",
+      "scrape_date": "2026-11-01",
+      "scrape_time": "22:35"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Infrastructure",
+      "headline": "गोरखपुर में सोमवार को 5 घंटे बिजली सप्लाई ठप रहेगी:सुबह 11 बजे से पादरी बाजार और रानीबाग के इलाके प्रभावित होंगे",
+      "summary": "गोरखपुर में सड़क चौङीकरण और लाइन शिफ्टिंग के चलते सोमवार को सुबह 11 बजे से शाम 4 बजे तक कई इलाकों में बिजली आपूर्ति बाधित रहेगी। इस दौरान पादरी बाजार उपकेंद्र के 11 केवी पादरी बाजार, जंगल धूषण और न्यू फीडर से जुड़े क्षेत्रों में शटडाउन रहेगा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-power-cut-padri-bazar-ranibagh-electricity-shutdown-139563614.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/02/cover_1793560254786.jpg",
+      "scrape_date": "2026-11-01",
+      "scrape_time": "22:35"
     }
   ]
 }
