@@ -1,7 +1,7 @@
 {
   "date": "2026-11-07",
-  "article_count": 1273,
-  "last_updated": "2026-11-07T19:13:13.051393",
+  "article_count": 1274,
+  "last_updated": "2026-11-07T23:15:18.159968",
   "articles": [
     {
       "district": "Kushinagar",
@@ -14005,6 +14005,17 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/07/4cbaee51-24a8-4986-ab2d-21e539606fbd_1794064252634.jpg",
       "scrape_date": "2026-11-07",
       "scrape_time": "19:13"
+    },
+    {
+      "district": "Azamgarh",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "आजमगढ़ के DAV ग्राउंड में सजा पटाखा बाजार:देर रात तक होती रही खरीदारी, बच्चे खरीद रहे फुलझड़ियां तो युवा खरीद राहें रॉकेट बम",
+      "summary": "आजमगढ़ जिले के डीएवी कॉलेज के मैदान में पटाखों का बाजार सज शनिवार को सज गया था। शनिवार की देर रात्रि तक बाजार में खरीदारी होती रही।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/azamgarh/news/azamgarh-diwali-patakha-bazaar-dav-ground-shopping-updates-139626369.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/08/1000052953_1794083800.gif",
+      "scrape_date": "2026-11-07",
+      "scrape_time": "23:15"
     }
   ]
 }
