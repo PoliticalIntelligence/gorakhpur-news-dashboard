@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "article_count": 1060,
-  "last_updated": "2026-11-21T18:26:54.771211",
+  "article_count": 1064,
+  "last_updated": "2026-11-21T23:42:48.922610",
   "articles": [
     {
       "district": "Kushinagar",
@@ -11662,6 +11662,50 @@
       "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/21/79c27a82-6670-47bf-9478-e760ac7b2440_1795268940477.jpg",
       "scrape_date": "2026-11-21",
       "scrape_time": "18:26"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Law & Order",
+      "headline": "गाेरखपुर में EMI के नाम पर महिला से ठगी:बैंक कर्मी ने 8 महीने तक अपने नंबर पर मंगाई पेमेंट, रकम हड़पा, FIR",
+      "summary": "गोरखपुर में EMI जमा कराने के नाम पर महिला से ठगी का मामला सामने आया है। आरोपी यूनियन बैंक में प्राइवेट कर्मचारी था और उसने महिला को लाइन में लगने से बचाने का लालच देकर अपने झांसे में लिया और 8 महीने तक क़िस्त की रकम अपने खाते में मंगाता रहा।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-bank-employee-fraud-emi-payment-cheating-case-139759688.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/22/gifmagic_site_-_2026-11-22t002712_380_1795287437483.gif",
+      "scrape_date": "2026-11-21",
+      "scrape_time": "23:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Women Welfare",
+      "headline": "टिकट कन्फर्म, फिर भी छूट गई ट्रेन:गोरखपुर स्टेशन पर नहीं हुआ अनाउंसमेंट, न डिस्प्ले पर सूचना",
+      "summary": "गोरखपुर रेलवे स्टेशन पर ट्रेन के प्लेटफार्म पर पहुंचने की सूचना समय से नहीं मिलने के कारण ट्रेन नंबर 03528 में रिजर्वेशन कराने वाले 30 से 35 यात्रियों की ट्रेन छूट गई। यात्रियों को ट्रेन के प्लेटफार्म पर पहुंचने की जानकारी नहीं मिल सकी।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-railway-station-train-missed-announcement-display-failure-139759769.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/22/gifmagic_site_-_2026-11-22t003131_085_1795287696764.gif",
+      "scrape_date": "2026-11-21",
+      "scrape_time": "23:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Political",
+      "headline": "क्या संजय निषाद कुछ बड़ा करने वाले हैं?:पहले अखिलेश, फिर CM योगी ने की टिप्पणी; शुरू हो गई चर्चा",
+      "summary": "निषाद पार्टी के राष्ट्रीय अध्यक्ष डा. संजय निषाद हाल के दिनों में मुख्यमंत्री योगी आदित्यनाथ के काफी करीब नजर आ रहे हैं। लेकिन दूसरी ओर उनकी गतिविधियां राजनीतिक चर्चाओं को जन्म भी दे रही हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-politics-sanjay-nishad-akhilesh-yadav-yogi-adityanath-statement-139761143.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/22/gifmagic_site_-_2026-11-09t151547_959_1795294136610.gif",
+      "scrape_date": "2026-11-21",
+      "scrape_time": "23:42"
+    },
+    {
+      "district": "Gorakhpur",
+      "assembly": "District News",
+      "category": "Other",
+      "headline": "DDU में 30 नवंबर से 5 दिसंबर तक RET इंटरव्यू:एडमिशन पोर्टल पर जारी हुआ शेड्यूल, सब्जेक्ट के हिसाब से देख सकते हैं अभ्यर्थी",
+      "summary": "दीनदयाल उपाध्याय गोरखपुर विश्वविद्यालय में RET का लिखित रिजल्ट आने के बाद अब दूसरे चरण की प्रक्रिया भी शुरू हो गई है। यूनिवर्सिटी प्रशासन ने परीक्षा पास करने वाले अभ्यर्थियों के इंटरव्यू की तारीखें तय कर दी हैं।",
+      "url": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/ddu-gorakhpur-ret-interview-schedule-admission-portal-update-139759892.html",
+      "thumbnail": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/22/gifmagic_site_-_2026-11-19t160937_481_1795288871668.gif",
+      "scrape_date": "2026-11-21",
+      "scrape_time": "23:42"
     }
   ]
 }
